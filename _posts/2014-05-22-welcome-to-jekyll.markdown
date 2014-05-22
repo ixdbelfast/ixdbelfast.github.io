@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  Welcome to Jekyll!
 date:   2014-05-22 11:55:35
+author: Tim Potter
 categories: jekyll update
+excerpt: This is the excerpt from the post and it will automagically be pulled into your page. Pretty cool eh?
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!

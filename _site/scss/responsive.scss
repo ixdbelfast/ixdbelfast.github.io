@@ -1,0 +1,13 @@
+/* Add a media query where the content naturally breaks. This is not device specific, it's content specific */
+
+/* 980PX
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+@media only screen and (max-width: 980px) {
+
+.container {
+	width: 90%;
+	}
+
+}
+

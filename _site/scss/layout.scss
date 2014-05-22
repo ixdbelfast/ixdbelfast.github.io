@@ -1,0 +1,137 @@
+/* VARIABLES
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+/* COLOUR */
+
+$ixd-blue: 			#243086;
+$text-grey: 		#333333;
+
+
+/* SETTINGS */
+
+$borderradius: 		5px;
+
+
+/* MIXINS */
+
+@mixin sans-serif {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: $text-grey;
+	}
+
+
+/* TYPOGRAPHY
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+body {
+	 @include sans-serif;
+	 -webkit-font-smoothing: antialiased;
+	}
+
+
+a {
+	@include transition (all 150ms ease-in-out);
+	text-decoration: none;
+	&:hover {
+		opacity: 0.75;
+		}
+	}
+
+p {
+	padding-bottom: 10px;
+	line-height: 1.35;
+	}
+
+h1 {
+	font-size: 2em;
+	margin-bottom: 20px;
+	}
+
+
+/* NAVIGATION
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+header {
+	padding: 30px 0;
+	margin-bottom: 60px;
+
+	h1 {
+		width: 50%;
+		float: left;
+		}
+
+	a {
+		color:white;
+		}
+
+	nav {
+		float: right;
+		display: block;
+		width: 50%;
+		text-align: right;
+		li {
+			display: inline;
+			margin-left: 20px;
+			}
+		}
+	}
+
+/* ACTIVE STATES */
+
+#home a.home,
+#about a.about,
+#curriculum a.curriculum,
+#journal a.journal,
+#contact a.contact   {
+	border-bottom: 1px solid white;
+	padding-bottom: 2px;
+	}
+
+
+/* LAYOUT
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+header {
+	height: 400px;
+	// background: url(../images/header.jpg) center center no-repeat;
+	// background-size: cover;
+	background-color: $ixd-blue;
+	}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+	}
+
+footer {
+	margin-top: 60px;
+	background-color: #333;
+	a {
+		color:white;
+		}
+	}
+
+
+/* USEFUL CLASSES
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+
+.left {
+	float: left;
+	}
+
+.right {
+	float: right;
+	}
+
+/* CLEARFIX */
+
+.group:after {
+	content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+    }
+
+

@@ -3,8 +3,16 @@ name: IxD
 title: BDes (Hons) Interaction Design
 email: hello@ixdbelfast.org
 description: "BDes (Hons) Interaction Design, Belfast School of Art."
+keywords: "interaction design, belfast, school of art, university of ulster"
 baseurl: ""
+homeurl: "/"
 url: "http://ixdbelfast.org"
+
+# Google Analytics
+ua: "51233441-1"
+
+# Social
+social: "ixdbelfast"
 
 # Build settings
 markdown: kramdown
