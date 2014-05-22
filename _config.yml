@@ -1,0 +1,11 @@
+# Site settings
+name: IxD
+title: BDes (Hons) Interaction Design
+email: hello@ixdbelfast.org
+description: "BDes (Hons) Interaction Design, Belfast School of Art."
+baseurl: ""
+url: "http://ixdbelfast.org"
+
+# Build settings
+markdown: kramdown
+permalinks: pretty
