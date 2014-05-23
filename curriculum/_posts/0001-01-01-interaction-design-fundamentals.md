@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: module
 title:  Interaction Design Fundamentals
 excerpt: Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry.
 ---
