@@ -7,12 +7,13 @@ permalink: /curriculum/
 
   <h1></h1>
 
-  <ul class="posts">
-    {% for post in site.posts %}
+  <ul>
+    {% for post in site.curriculum.posts %}
       <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {{ curriculum.title }}
+        {{ curriculum.excerpt }}
       </li>
     {% endfor %}
+
   </ul>
 

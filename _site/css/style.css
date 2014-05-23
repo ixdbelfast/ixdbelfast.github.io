@@ -169,7 +169,7 @@ header {
 footer {
   margin-top: 60px;
   background-color: #333; }
-  footer a {
+  footer a, footer p {
     color: white; }
 
 /* USEFUL CLASSES
