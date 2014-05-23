@@ -8,12 +8,11 @@ permalink: /curriculum/
   <h1></h1>
 
   <ul>
-    {% for post in site.curriculum.posts %}
+    {% for module in site.categories.curriculum %}
       <li>
-        {{ curriculum.title }}
-        {{ curriculum.excerpt }}
+        <a href="{{ site.baseurl }}{{ module.url }}">{{ module.title }}</a>
+        {{ module.excerpt }}
       </li>
     {% endfor %}
 
   </ul>
-
