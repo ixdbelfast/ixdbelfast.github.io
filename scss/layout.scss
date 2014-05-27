@@ -17,6 +17,7 @@ $borderradius: 		5px;
 @mixin sans-serif {
 	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	color: $text-grey;
+	font-size: 1em;
 	}
 
 
@@ -45,6 +46,15 @@ p {
 h1 {
 	font-size: 2em;
 	margin-bottom: 20px;
+	}
+
+
+h2 {
+	font-size: 1.5em; /* 24/16 */
+	}
+
+h3 {
+	font-size: 1.25em; /* 20/16 */
 	}
 
 
@@ -103,10 +113,21 @@ header {
 	margin: 0 auto;
 	}
 
+.module {
+	width: 50%;
+	float: left;
+	padding-right: 5%;
+
+	li {
+		list-style-type: none;
+		}
+	}
+
 footer {
 	margin-top: 60px;
 	background-color: #333;
-	a,p {
+	a,
+	p {
 		color:white;
 		}
 	}

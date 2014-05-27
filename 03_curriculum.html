@@ -5,14 +5,16 @@ id: curriculum
 permalink: /curriculum/
 ---
 
-  <h1></h1>
+	<h1>{{ page.title }}</h1>
 
-  <ul>
-    {% for module in site.categories.curriculum %}
-      <li>
-        <a href="{{ site.baseurl }}{{ module.url }}">{{ module.title }}</a>
-        {{ module.excerpt }}
-      </li>
-    {% endfor %}
-
-  </ul>
+	{% for module in site.categories.curriculum %}
+	<ul class="module">
+    	<li>
+    		<h2><a href="{{ site.baseurl }}{{ module.url }}">{{ module.title }}</a></h2>
+    	</li>
+    	<li>Semester: {{ module.semester}}</li>
+    	<li>Credits: {{ module.credits }}</li>
+    	<li>{{ module.excerpt }}</li>
+    	<a href="{{ site.baseurl }}{{ module.url }}">View Module</a>
+  	</ul>
+  	{% endfor %}

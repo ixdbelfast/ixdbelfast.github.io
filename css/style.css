@@ -110,6 +110,7 @@ textarea {
 body {
   font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   color: #333333;
+  font-size: 1em;
   -webkit-font-smoothing: antialiased; }
 
 a {
@@ -127,6 +128,14 @@ p {
 h1 {
   font-size: 2em;
   margin-bottom: 20px; }
+
+h2 {
+  font-size: 1.5em;
+  /* 24/16 */ }
+
+h3 {
+  font-size: 1.25em;
+  /* 20/16 */ }
 
 /* NAVIGATION
 ------------------------------------------------------------------------------------------------------------------------------------------ */
@@ -166,10 +175,18 @@ header {
   width: 960px;
   margin: 0 auto; }
 
+.module {
+  width: 50%;
+  float: left;
+  padding-right: 5%; }
+  .module li {
+    list-style-type: none; }
+
 footer {
   margin-top: 60px;
   background-color: #333; }
-  footer a, footer p {
+  footer a,
+  footer p {
     color: white; }
 
 /* USEFUL CLASSES

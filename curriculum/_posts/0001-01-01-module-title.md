@@ -1,15 +1,12 @@
 ---
 layout: module
-title:  Interaction Design Fundamentals
-excerpt: Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry.
+title:  Module Title
+excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deleniti, tempora, aspernatur in voluptates unde necessitatibus sint quos autem neque praesentium. Non, ut ab aliquid maxime quae dolores sint ea voluptates.
+year: 1
+semester: 1
+credits: 20
 ---
 
-Interaction Design Fundamentals
-===============================
-
-+ __Year:__ 1
-+ __Semester:__ 1
-+ __Credits:__ 40 Credits
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 + __Co-requisites:__ Introduction to Communication Design
 
