@@ -1,9 +1,12 @@
-Design Presentation and Reporting
-=================================
+---
+layout: module
+title:  Design Presentation and Reporting
+excerpt: Design Presentation and Reporting equips students with the skills – both written and verbal – to confidently articulate their ideas, pitching them to an audience in a manner that is both reasoned and persuasive.
+year: 4
+semester: 2
+credits: 20
+---
 
-+ __Year:__ 4
-+ __Semester:__ 2
-+ __Credits:__ 20 Credits
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 + __Co-requisites:__ Major Project
 

@@ -1,9 +1,12 @@
-Research and Writing
-====================
+---
+layout: module
+title:  Research and Writing
+excerpt: This module is intended to consolidate the students’ knowledge and understanding of history and theory, by providing an opportunity for students to generate a body of unique research, tailored to their specialist area.
+year: 4
+semester: 1
+credits: 20
+---
 
-+ __Year:__ 4
-+ __Semester:__ 1
-+ __Credits:__ 20 Credits
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 + __Co-requisites:__ Major Project Prototyping
 

@@ -1,9 +1,12 @@
-Major Project
-=============
+---
+layout: module
+title:  Major Project
+excerpt: This module focuses on equipping students with a combination of skills, centred on the design and build of a sustained piece of coursework, which enables them to showcase what they have learned throughout the entirety of the course. The aim of the module is to highlight the depth and breadth of knowledge students have acquired whilst on the course.
+year: 4
+semester: 2
+credits: 40
+---
 
-+ __Year:__ 4
-+ __Semester:__ 2
-+ __Credits:__ 40 Credits
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 + __Co-requisites:__ Design Presentation and Reporting
 

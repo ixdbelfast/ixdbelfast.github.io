@@ -1,9 +1,12 @@
-Major Project Prototyping
-=========================
+---
+layout: module
+title: Major Project Prototyping
+excerpt: Examining how storytelling can be used to enhance content, this module considers how concepts like art direction, pacing and narrative can be used to control the flow of information. Through the creation of a piece of narrative web-based content, students are taught the dynamics of design as it unfolds like a story, across frames and over time.
+year: 4
+semester: 1
+credits: 40
+---
 
-+ __Year:__ 4
-+ __Semester:__ 1
-+ __Credits:__ 40 Credits
 + __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
 + __Co-requisites:__ Research and Writing
 

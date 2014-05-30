@@ -5,6 +5,7 @@
 
 $ixd-blue: 			#243086;
 $text-grey: 		#333333;
+$flat-blue:			#3498DB;
 
 
 /* SETTINGS */
@@ -15,7 +16,7 @@ $borderradius: 		5px;
 /* MIXINS */
 
 @mixin sans-serif {
-	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-family: "lato", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	color: $text-grey;
 	font-size: 1em;
 	}
@@ -33,6 +34,7 @@ body {
 a {
 	@include transition (all 150ms ease-in-out);
 	text-decoration: none;
+	color: $flat-blue;
 	&:hover {
 		opacity: 0.75;
 		}
@@ -41,16 +43,19 @@ a {
 p {
 	padding-bottom: 10px;
 	line-height: 1.35;
+	font-weight: 300;
 	}
 
 h1 {
 	font-size: 2em;
 	margin-bottom: 20px;
+	font-weight: 400;
 	}
 
 
 h2 {
 	font-size: 1.5em; /* 24/16 */
+	font-weight: 500;
 	}
 
 h3 {
@@ -105,7 +110,7 @@ header {
 	height: 400px;
 	// background: url(../images/header.jpg) center center no-repeat;
 	// background-size: cover;
-	background-color: $ixd-blue;
+	background-color: $flat-blue;
 	}
 
 .container {
@@ -116,7 +121,35 @@ header {
 .module {
 	width: 50%;
 	float: left;
-	padding-right: 5%;
+	padding: 30px 0;
+	margin-bottom: 30px;
+	position: relative;
+
+	.details {
+		padding: 10px 0;
+		li {
+			display: inline;
+			margin-right: 10px;
+			}
+		}
+	
+	&:nth-child(odd) {
+		padding-left: 15px;
+		}
+
+	&:nth-child(even) {
+		// background-color: #eee;
+		clear: left;
+		padding-right: 15px;
+		}
+
+	// &:nth-child(4),
+	// &:nth-child(5),
+	// &:nth-child(8),
+	// &:nth-child(9)
+	//  {
+	// 	border-bottom: 1px solid #ccc;
+	// 	}
 
 	li {
 		list-style-type: none;
@@ -132,6 +165,23 @@ footer {
 		}
 	}
 
+
+/* BUTTONS
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+.button {
+	margin-top: 20px;
+	display: inline-block;
+	padding: 12px 20px;
+	border-radius: 6px;
+	// border: 2px solid #999;
+	font-size: 0.875em; /* 14/16 */
+	font-weight: 800;
+	// position: absolute;
+	// bottom: 30px;
+	color: white;
+	background-color: $flat-blue;
+	}
 
 /* USEFUL CLASSES
 ------------------------------------------------------------------------------------------------------------------------------------------ */

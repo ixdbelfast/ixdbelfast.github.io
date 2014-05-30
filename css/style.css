@@ -108,7 +108,7 @@ textarea {
 /* TYPOGRAPHY
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 body {
-  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  font-family: "lato", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   color: #333333;
   font-size: 1em;
   -webkit-font-smoothing: antialiased; }
@@ -117,21 +117,25 @@ a {
   -webkit-transition: all 150ms ease-in-out;
   -moz-transition: all 150ms ease-in-out;
   transition: all 150ms ease-in-out;
-  text-decoration: none; }
+  text-decoration: none;
+  color: #3498db; }
   a:hover {
     opacity: 0.75; }
 
 p {
   padding-bottom: 10px;
-  line-height: 1.35; }
+  line-height: 1.35;
+  font-weight: 300; }
 
 h1 {
   font-size: 2em;
-  margin-bottom: 20px; }
+  margin-bottom: 20px;
+  font-weight: 400; }
 
 h2 {
   font-size: 1.5em;
-  /* 24/16 */ }
+  /* 24/16 */
+  font-weight: 500; }
 
 h3 {
   font-size: 1.25em;
@@ -169,7 +173,7 @@ header {
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 header {
   height: 400px;
-  background-color: #243086; }
+  background-color: #3498db; }
 
 .container {
   width: 960px;
@@ -178,7 +182,19 @@ header {
 .module {
   width: 50%;
   float: left;
-  padding-right: 5%; }
+  padding: 30px 0;
+  margin-bottom: 30px;
+  position: relative; }
+  .module .details {
+    padding: 10px 0; }
+    .module .details li {
+      display: inline;
+      margin-right: 10px; }
+  .module:nth-child(odd) {
+    padding-left: 15px; }
+  .module:nth-child(even) {
+    clear: left;
+    padding-right: 15px; }
   .module li {
     list-style-type: none; }
 
@@ -188,6 +204,19 @@ footer {
   footer a,
   footer p {
     color: white; }
+
+/* BUTTONS
+------------------------------------------------------------------------------------------------------------------------------------------ */
+.button {
+  margin-top: 20px;
+  display: inline-block;
+  padding: 12px 20px;
+  border-radius: 6px;
+  font-size: 0.875em;
+  /* 14/16 */
+  font-weight: 800;
+  color: white;
+  background-color: #3498db; }
 
 /* USEFUL CLASSES
 ------------------------------------------------------------------------------------------------------------------------------------------ */
