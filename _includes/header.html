@@ -5,10 +5,18 @@
     <h1><a href="{{ site.homeurl }}">{{ site.name }}</a></h1>
 
     <nav>
-      <ul>
-          {% for page in site.pages | sort:"name" %}
+      <!-- <ul>
+          {% for page in site.pages %}
           <li><a class="{{ page.id }}" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
           {% endfor %}
+      </ul> -->
+
+      <ul>
+        <li><a class="home" href="{{ site.baseurl }}/">Home</a></li>
+        <li><a class="about" href="{{ site.baseurl }}/about/">About</a></li>
+        <li><a class="curriculum" href="{{ site.baseurl }}/curriculum/">Curriculum</a></li>
+        <li><a class="journal" href="{{ site.baseurl }}/journal/">Journal</a></li>
+        <li><a class="contact" href="{{ site.baseurl }}/contact/">Contact</a></li>  
       </ul>
     </nav>
 
