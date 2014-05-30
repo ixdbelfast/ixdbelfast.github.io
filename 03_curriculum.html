@@ -7,14 +7,19 @@ permalink: /curriculum/
 
 	<h1>{{ page.title }}</h1>
 
-	{% for module in site.categories.curriculum %}
-	<ul class="module">
+
+
+	{% for module in site.categories.curriculum reversed %}
+
+    <ul class="module">
     	<li>
     		<h2><a href="{{ site.baseurl }}{{ module.url }}">{{ module.title }}</a></h2>
     	</li>
+      <li>Year: {{ module.year}}</li>
     	<li>Semester: {{ module.semester}}</li>
     	<li>Credits: {{ module.credits }}</li>
     	<li>{{ module.excerpt }}</li>
     	<a href="{{ site.baseurl }}{{ module.url }}">View Module</a>
-  	</ul>
-  	{% endfor %}
+    </ul>
+
+  {% endfor %}
