@@ -5,11 +5,9 @@ excerpt: This module focuses on equipping students with a combination of skills,
 year: 4
 semester: 2
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Design Presentation and Reporting
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Design Presentation and Reporting
-
 
 ##Rationale
 

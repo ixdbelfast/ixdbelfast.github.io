@@ -5,11 +5,9 @@ excerpt: Examining how storytelling can be used to enhance content, this module 
 year: 4
 semester: 1
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Research and Writing
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Research and Writing
-
 
 ##Rationale
 

@@ -5,11 +5,9 @@ excerpt: Examining how storytelling can be used to enhance content, this module 
 year: 2
 semester: 1
 credits: 20
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Designing User Experiences
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Designing User Experiences
-
 
 ##Rationale
 

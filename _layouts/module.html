@@ -1,7 +1,30 @@
----
-layout: post
----
+<!DOCTYPE html>
+<html>
 
-<a href="{{ site.baseurl }}/curriculum">&larr; Back to curriculum</a>
+	{% include head.html %}
 
-{{ content }}
+    <body id="curriculum">
+
+    {% include header.html %}
+
+    	<div class="container group">
+    		
+    		<h1>{{ page.title }}</h1>
+		    	<ul class="details">
+		        	<li>Year: {{ page.year}}</li>
+		          	<li>Semester: {{ page.semester}}</li>
+		          	<li>Credits: {{ page.credits }}</li>
+		          	<li>Delivery: {{ page.delivery }}</li>
+		          	<li>Co-requisites: {{ page.corequisites }}</li>
+		        </ul>
+
+      		{{ content }}
+
+      		<a href="{{ site.baseurl }}/curriculum">&larr; Back to curriculum</a>
+
+    	</div>
+
+	{% include footer.html %}
+
+    </body>
+</html>

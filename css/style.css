@@ -158,7 +158,8 @@ header {
     text-align: right; }
     header nav li {
       display: inline;
-      margin-left: 20px; }
+      margin-left: 20px;
+      font-weight: 500; }
 
 /* ACTIVE STATES */
 #home a.home,
@@ -172,7 +173,7 @@ header {
 /* LAYOUT
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 header {
-  height: 400px;
+  height: 500px;
   background-color: #3498db; }
 
 .container {

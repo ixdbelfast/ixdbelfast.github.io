@@ -5,11 +5,9 @@ excerpt: Exploring aspects of iconography, branding, and visual identity, this p
 year: 1
 semester: 2
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Imaging and Data Visualisation
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Imaging and Data Visualisation
-
 
 ##Rationale
 

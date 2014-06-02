@@ -5,11 +5,9 @@ excerpt: Placing a heavy emphasis on a design-focussed approach towards interact
 year: 1
 semester: 1
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Introduction to Communication Design
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Introduction to Communication Design
-
 
 ##Rationale
 

@@ -5,11 +5,9 @@ excerpt: Design Presentation and Reporting equips students with the skills – b
 year: 4
 semester: 2
 credits: 20
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Major Project
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Major Project
-
 
 ##Rationale
 

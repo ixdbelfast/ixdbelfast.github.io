@@ -5,11 +5,9 @@ excerpt: We’ve been led to believe that a picture is worth a thousand words. T
 year: 1
 semester: 2
 credits: 20
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Exploring Identity
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Exploring Identity
-
 
 ##Rationale
 

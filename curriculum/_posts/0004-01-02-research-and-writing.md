@@ -5,11 +5,9 @@ excerpt: This module is intended to consolidate the students’ knowledge and un
 year: 4
 semester: 1
 credits: 20
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Major Project Prototyping
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Major Project Prototyping
-
 
 ##Rationale
 

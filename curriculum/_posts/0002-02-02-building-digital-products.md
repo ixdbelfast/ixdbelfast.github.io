@@ -5,11 +5,9 @@ excerpt: This module introduces students to the ideas and principles, which unde
 year: 2
 semester: 2
 credits: 20
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Designing With Content
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Designing With Content
-
 
 ##Rationale
 

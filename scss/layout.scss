@@ -87,6 +87,7 @@ header {
 		li {
 			display: inline;
 			margin-left: 20px;
+			font-weight: 500;
 			}
 		}
 	}
@@ -107,8 +108,8 @@ header {
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 
 header {
-	height: 400px;
-	// background: url(../images/header.jpg) center center no-repeat;
+	height: 500px;
+	// background: url(../images/desk.png) right top no-repeat;
 	// background-size: cover;
 	background-color: $flat-blue;
 	}

@@ -5,11 +5,9 @@ excerpt: This module looks beyond the technical ‘how’ of interaction design 
 year: 2
 semester: 1
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites:  Narrative and Storytelling
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Narrative and Storytelling
-
 
 ##Rationale
 

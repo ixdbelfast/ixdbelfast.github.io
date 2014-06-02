@@ -5,11 +5,9 @@ excerpt: This module explores the importance of considering content – in all i
 year: 2
 semester: 2
 credits: 40
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
+corequisites: Creative Entrepreneurship
 ---
-
-+ __Delivery:__ Lectures, Seminars, Workshops and Self-Directed Study
-+ __Co-requisites:__ Creative Entrepreneurship
-
 
 ##Rationale
 
