@@ -2,47 +2,52 @@
 
   <div class="container">
 
-    <h2 class="footer-heading">{{ site.name }}</h2>
-
-    <div class="footer-col-1 column">
       <ul>
-        <li>{{ site.title }}</li>
+        <li>{{ site.description }}</li>
         <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="http://twitter.com/{{ site.social }}">Follow us on Twitter</a></li>
+        
       </ul>
-    </div>
 
-    <div class="footer-col-2 column">
-      <a href="http://twitter.com/{{ site.social }}">Follow us on Twitter</a>
-    </div>
-
-    <div class="footer-col-3 column">
-      <p class="text">{{ site.description }}</p>
-    </div>
+      <small>The contents of this website are &copy; 2014 IxD Belfast under the terms of the MIT License. Proudly hosted by GitHub</small>
 
   </div>
 
 </footer>
 
 <!-- SCRIPTS -->
+<script src="//code.jquery.com/jquery-latest.min.js"></script>
+<script src="//unslider.com/unslider.min.js"></script>
 
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+$(function() {
+  $('.banner').unslider({
+    speed: 700,               //  The speed to animate each slide (in milliseconds)
+    delay: 5000,              //  The delay between slide animations (in milliseconds)
+    complete: function() {},  //  A function that gets called after every slide animation
+    keys: true,               //  Enable keyboard (left, right) arrow shortcuts
+    dots: true,               //  Display dot navigation
+    fluid: true             //  Support responsive design. May break non-responsive designs
+  });
+});
+</script>
 
 <!-- EQUAL HEIGHT MODULES -->
-// <script>
-// function equalHeight(group) {
-//    tallest = 0;
-//    group.each(function() {
-//       thisHeight = $(this).height();
-//       if(thisHeight > tallest) {
-//          tallest = thisHeight +100;
-//       }
-//    });
-//    group.height(tallest);
-// }
-// $(document).ready(function() {
-//    equalHeight($(".module"));
-// });
-// </script>
+<!--<script>
+function equalHeight(group) {
+tallest = 0;
+group.each(function() {
+thisHeight = $(this).height();
+if(thisHeight > tallest) {
+tallest = thisHeight +100;
+}
+});
+group.height(tallest);
+}
+$(document).ready(function() {
+equalHeight($(".module"));
+});
+<script>-->
 
 <!-- GOOGLE ANALYTICS -->
 <script>
