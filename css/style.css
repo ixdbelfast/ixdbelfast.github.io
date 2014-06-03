@@ -178,14 +178,14 @@ header {
   padding: 30px 0;
   margin-bottom: 60px; }
   header h1 {
-    width: 50%;
+    width: 30%;
     float: left; }
   header a {
     color: white; }
   header nav {
     float: right;
     display: block;
-    width: 50%;
+    width: 70%;
     text-align: right; }
     header nav li {
       display: inline;
@@ -194,9 +194,10 @@ header {
 
 /* ACTIVE STATES */
 #home a.home,
-#about a.about,
+#apply a.apply,
 #curriculum a.curriculum,
 #journal a.journal,
+#why-belfast a.why-belfast,
 #contact a.contact {
   border-bottom: 1px solid white;
   padding-bottom: 2px; }
@@ -257,6 +258,24 @@ footer {
   .module:nth-child(even) {
     clear: left;
     padding-right: 15px; }
+  .module:nth-child(2):before, .module:nth-child(6):before, .module:nth-child(10):before, .module:nth-child(12):before {
+    margin-top: -20px;
+    font-size: 32px;
+    color: #333333;
+    display: block;
+    width: 100%;
+    position: absolute;
+    font-weight: 100; }
+  .module:nth-child(2):before {
+    content: "Year 1"; }
+  .module:nth-child(6):before {
+    content: "Year 2"; }
+  .module:nth-child(10):before {
+    content: "Year 3"; }
+  .module:nth-child(12):before {
+    content: "Year 4"; }
+  .module:nth-child(2), .module:nth-child(3), .module:nth-child(6), .module:nth-child(7), .module:nth-child(10), .module:nth-child(11), .module:nth-child(12), .module:nth-child(13) {
+    margin-top: 40px; }
   .module li {
     list-style-type: none; }
 

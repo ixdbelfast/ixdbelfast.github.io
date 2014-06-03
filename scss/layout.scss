@@ -110,7 +110,7 @@ header {
 	margin-bottom: 60px;
 
 	h1 {
-		width: 50%;
+		width: 30%;
 		float: left;
 		}
 
@@ -121,7 +121,7 @@ header {
 	nav {
 		float: right;
 		display: block;
-		width: 50%;
+		width: 70%;
 		text-align: right;
 		li {
 			display: inline;
@@ -134,9 +134,10 @@ header {
 /* ACTIVE STATES */
 
 #home a.home,
-#about a.about,
+#apply a.apply,
 #curriculum a.curriculum,
 #journal a.journal,
+#why-belfast a.why-belfast,
 #contact a.contact   {
 	border-bottom: 1px solid white;
 	padding-bottom: 2px;
@@ -223,6 +224,47 @@ footer {
 	&:nth-child(even) {
 		clear: left;
 		padding-right: 15px;
+		}
+
+	&:nth-child(2):before,
+	&:nth-child(6):before,
+	&:nth-child(10):before,
+	&:nth-child(12):before  {
+		margin-top: -20px;
+		font-size: 32px;
+		color: $text-grey;
+		display: block;
+		width: 100%;
+		position: absolute;
+		font-weight: 100;
+		}
+
+	 &:nth-child(2):before {
+		content: "Year 1";
+		}
+
+	&:nth-child(6):before {
+		content: "Year 2";
+		}
+
+	&:nth-child(10):before {
+		content: "Year 3";
+		}
+
+	&:nth-child(12):before {
+		content: "Year 4";
+		}
+
+	&:nth-child(2),
+	&:nth-child(3),
+	&:nth-child(6),
+	&:nth-child(7),
+	&:nth-child(10),
+	&:nth-child(11),
+	&:nth-child(12),
+	&:nth-child(13),
+	 {
+		margin-top: 40px;
 		}
 
 	li {
