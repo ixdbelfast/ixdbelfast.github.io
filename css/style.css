@@ -204,7 +204,8 @@ header {
 /* LAYOUT
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 header {
-  height: 500px;
+  height: 560px;
+  background: url(../images/desk.png) center top no-repeat;
   background-color: #3498db; }
 
 .container {
