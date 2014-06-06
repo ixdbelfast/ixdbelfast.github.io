@@ -1,14 +1,14 @@
 ---
 layout: default
 ---
-<div class="post">
 
-    <h1>{{ page.title }}</h1>
-    <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+<article class="two left post-content">
+	 <h1>{{ page.title }}</h1>
+	{{ content }}
+</article>
+
+<div class="one right">
     <p>{% if page.avatar %} <img class="avatar" src="{{ page.avatar }}" />{% endif %} {% if page.author %} by {{ page.author }}{% endif %}</p>
-
-  <article class="post-content">
-  {{ content }}
-  </article>
+    <p class="post-date">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
 </div>

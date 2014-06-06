@@ -1,19 +1,29 @@
 ---
-layout: post
+layout: default
 title: Journal
 id: journal
 permalink: /journal/
 ---
 
+ <div class="two left">
+
   <ul class="posts">
     {% for post in site.categories.journal %}
       <li>
-        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <h1>{{ post.title }}</h1>  
+        <span class ="post-author"><img class="avatar" src="{{ post.avatar }}" />{{ post.author }}</span>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
-      <li>
-        <span class ="post-author"><img class="avatar" src="{{ post.avatar }}" />{{ post.author }}</span>  
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></li>
-      <li>{{ post.excerpt }}</li>
+      <li class="post-excerpt">{{ post.excerpt }}</li>
+      <li class="read-more"><a class="button" href="{{ site.baseurl }}{{ post.url }}">Read more</a></li>
     {% endfor %}
   </ul>
 
+</div>
+
+<div class="one right">
+
+  <h3>The Journal</h3>
+  <p>The Journal is a place for staff to post their thoughts on current more here....</p>
+
+</div>

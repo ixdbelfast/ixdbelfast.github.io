@@ -110,7 +110,6 @@ textarea {
 body {
   font-family: "lato", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   color: #333333;
-  font-size: 1em;
   -webkit-font-smoothing: antialiased; }
 
 a {
@@ -131,19 +130,20 @@ p {
 
 #home .two p:nth-of-type(1),
 #about .two p:nth-of-type(1),
-.overview p:nth-of-type(1) {
+.overview p:nth-of-type(1),
+.post-content p:nth-of-type(1) {
   font-size: 1.25em;
   /* 20/16 */
   line-height: 1.25em; }
 
 h1 {
-  font-size: 2em;
-  margin-bottom: 20px;
-  font-weight: 400; }
+  font-size: 2.2em;
+  margin-bottom: 20px; }
 
 .logo {
   color: white;
-  font-weight: 600; }
+  font-weight: 600;
+  font-size: 2em; }
   .logo span {
     font-size: 14px;
     clear: both;
@@ -155,7 +155,6 @@ h1 {
 h2 {
   font-size: 1.5em;
   /* 24/16 */
-  font-weight: 500;
   padding: 20px 0 10px; }
 
 h3 {
@@ -186,7 +185,8 @@ img {
 .avatar {
   border-radius: 50%;
   width: 50px;
-  margin-right: 5px; }
+  margin-right: 5px;
+  vertical-align: middle; }
 
 /* NAVIGATION
 ------------------------------------------------------------------------------------------------------------------------------------------ */
@@ -281,7 +281,7 @@ footer {
     display: block;
     width: 100%;
     position: absolute;
-    font-weight: 100; }
+    font-weight: 400; }
   .module:nth-child(2):before {
     content: "Year 1"; }
   .module:nth-child(6):before {
@@ -306,39 +306,55 @@ footer {
 
 /* POSTS
 ------------------------------------------------------------------------------------------------------------------------------------------ */
-.posts .avatar {
-  width: 15px; }
 .posts li {
   list-style-type: none;
   margin-left: 0;
   margin-bottom: 20px; }
 
-.post-date {
+.post-date,
+.post-author {
   font-size: 12px;
   color: #999;
   font-weight: 400; }
-  .post-date:before {
-    display: inline-block;
-    content: "";
-    vertical-align: middle;
-    width: 12px;
-    height: 12px;
-    margin-right: 3px;
-    margin-top: -3px;
-    background: transparent url("../images/icons/time.svg") no-repeat; }
+
+.post-date:before {
+  display: inline-block;
+  content: "";
+  vertical-align: middle;
+  width: 12px;
+  height: 12px;
+  margin-right: 3px;
+  margin-top: -3px;
+  background: transparent url("../images/icons/time.svg") no-repeat; }
 
 .post-link {
-  font-weight: 500;
+  font-weight: 600;
   display: block;
   clear: both;
   font-size: 1.125em;
   /* 18/16 */ }
 
 .post-author {
-  color: #999;
-  font-size: 12px;
-  margin-right: 5px;
-  font-weight: 400; }
+  margin-right: 5px; }
+
+#journal .avatar {
+  width: 30px; }
+#journal h1 {
+  margin-bottom: 0; }
+#journal li {
+  margin-bottom: 0; }
+  #journal li.read-more {
+    border-bottom: 1px solid #eee;
+    padding-bottom: 20px;
+    margin-bottom: 40px; }
+#journal .post-excerpt {
+  margin-top: 20px; }
+#journal .post-date,
+#journal .post-author {
+  font-size: 1em; }
+
+#home .avatar {
+  width: 15px; }
 
 /* SLIDESHOW
 ------------------------------------------------------------------------------------------------------------------------------------------ */
@@ -363,12 +379,12 @@ footer {
   font-size: 0.875em;
   /* 14/16 */
   font-weight: 800;
-  color: white;
-  background-color: #3498db;
+  background-color: transparent;
+  color: #3498db;
   border: 1px solid #3498db; }
   .button:hover {
-    background-color: transparent;
-    color: #3498db;
+    color: white;
+    background-color: #3498db;
     opacity: 1; }
 
 /* USEFUL CLASSES

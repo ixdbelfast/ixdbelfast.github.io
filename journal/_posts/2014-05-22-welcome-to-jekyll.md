@@ -5,7 +5,6 @@ date:   2014-05-22 11:55:35
 author: Paul McCormack
 avatar: https://pbs.twimg.com/profile_images/445539149399855104/hkXmrMxe.png
 categories: jekyll update
-excerpt: This is the excerpt from the post and it will automagically be pulled into your page. Pretty cool eh?
 ---
 
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
