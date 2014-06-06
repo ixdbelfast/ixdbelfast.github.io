@@ -6,11 +6,11 @@ layout: default
 	 <h1>{{ page.title }}</h1>
 	 <span class="post-date">{{ page.date | date: "%b %-d, %Y" }}{% if page.meta %} • {{ page.meta }}{% endif %}</span>
 	{{ content }}
+	<a class="back button" href="{{ site.baseurl }}/journal">&larr; Back to Journal</a>
 </article>
 
 <div class="one right">
     <p>{% if page.avatar %} <img class="avatar" src="{{ page.avatar }}" />{% endif %} {% if page.author %} by {{ page.author }}{% endif %}</p>
     <small>More info to go here - bio and twitter</small>
-
 
 </div>
