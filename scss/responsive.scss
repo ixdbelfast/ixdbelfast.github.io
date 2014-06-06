@@ -11,3 +11,20 @@
 
 }
 
+
+@media only screen and (max-width: 860px) {
+
+.two,
+.one {
+	width: 100%;
+	}
+
+}
+
+@media only screen and (max-width: 700px) {
+
+.module {
+	width: 100%;
+}
+
+}
