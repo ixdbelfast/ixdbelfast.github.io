@@ -7,20 +7,27 @@
 
     {% include header.html %}
 
-    	<div class="container overview group">
-    		
-    		<h1>{{ page.title }}</h1>
-		    	<ul class="details">
+	    <div class="container overview group">
+	    	<div class="two left">		
+	    		<h1>{{ page.title }}</h1>
+			    	
+	      		{{ content }}
+
+	      		<a class="back button" href="{{ site.baseurl }}/curriculum">&larr; Back to curriculum</a>
+
+	    	</div>
+    	
+
+    		<div class="one right">
+    			<h3>Module details</h3>
+				<ul class="details">
 		        	<li><strong>Year:</strong> {{ page.year}}</li>
 		          	<li><strong>Semester:</strong> {{ page.semester}}</li>
 		          	<li><strong>Credits:</strong> {{ page.credits }}</li>
 		          	<li><strong>Delivery:</strong> {{ page.delivery }}</li>
 		          	<li><strong>Co-requisites:</strong> {{ page.corequisites }}</li>
-		        </ul>
-
-      		{{ content }}
-
-      		<a class="back button" href="{{ site.baseurl }}/curriculum">&larr; Back to curriculum</a>
+	       		</ul>
+	       	</div>
 
     	</div>
 
