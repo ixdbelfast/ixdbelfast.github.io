@@ -141,6 +141,17 @@ h1 {
   margin-bottom: 20px;
   font-weight: 400; }
 
+.logo {
+  color: white;
+  font-weight: 600; }
+  .logo span {
+    font-size: 14px;
+    clear: both;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-weight: 400; }
+
 h2 {
   font-size: 1.5em;
   /* 24/16 */
