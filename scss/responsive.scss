@@ -43,8 +43,21 @@ header .logo {
 @media only screen and (max-width: 700px) {
 
 body {
-	margin-top: 100px;
-}
+	margin-top: 0px;
+	}
+
+header {
+	position: relative;
+	display: block;
+	height: 100px;
+	li, ul {
+		background: $flat-blue;
+		}
+
+	.nav-collapse {
+		margin-bottom: 30px;
+		}
+	}
 
 .module {
 	width: 100%;
