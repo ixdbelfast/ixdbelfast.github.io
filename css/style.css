@@ -110,7 +110,10 @@ textarea {
 body {
   font-family: "lato", "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
   color: #333333;
-  -webkit-font-smoothing: antialiased; }
+  -webkit-font-smoothing: antialiased;
+  background: url(../images/desk.png) center top no-repeat fixed;
+  background-color: #3498db;
+  margin-top: 660px; }
 
 a {
   -webkit-transition: all 150ms ease-in-out;
@@ -191,8 +194,12 @@ img {
 /* NAVIGATION
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 header {
-  padding: 30px 0;
-  margin-bottom: 60px; }
+  padding: 30px 0 10px;
+  position: fixed;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+  background-color: #3498db; }
   header h1 {
     width: 30%;
     float: left; }
@@ -220,17 +227,16 @@ header {
 
 /* LAYOUT
 ------------------------------------------------------------------------------------------------------------------------------------------ */
-header {
-  height: 560px;
-  background: url(../images/desk.png) center top no-repeat;
-  background-color: #3498db; }
+.content {
+  background-color: white;
+  padding-top: 40px;
+  padding-bottom: 50px; }
 
 .container {
   width: 940px;
   margin: 0 auto; }
 
 footer {
-  margin-top: 50px;
   background-color: #333;
   color: white;
   padding: 60px 0; }
