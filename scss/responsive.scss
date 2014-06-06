@@ -5,14 +5,33 @@
 
 @media only screen and (max-width: 980px) {
 
+header {
+
+	nav {
+		width: 65%;
+		}
+
+	h1 {
+		width: 35%;
+		}
+	}
+
+
 .container {
 	width: 90%;
 	}
-
 }
 
 
 @media only screen and (max-width: 860px) {
+
+
+
+
+header .logo {
+	float: left;
+	width: 80%;
+	}
 
 .two,
 .one {
@@ -23,8 +42,12 @@
 
 @media only screen and (max-width: 700px) {
 
+body {
+	margin-top: 100px;
+}
+
 .module {
 	width: 100%;
-}
+	}
 
 }

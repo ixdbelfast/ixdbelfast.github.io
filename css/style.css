@@ -420,12 +420,109 @@ footer {
 /* 980PX
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 @media only screen and (max-width: 980px) {
+  header nav {
+    width: 65%; }
+  header h1 {
+    width: 35%; }
+
   .container {
     width: 90%; } }
 @media only screen and (max-width: 860px) {
+  header .logo {
+    float: left;
+    width: 80%; }
+
   .two,
   .one {
     width: 100%; } }
 @media only screen and (max-width: 700px) {
+  body {
+    margin-top: 100px; }
+
   .module {
     width: 100%; } }
+/* RESPONSIVE NAV
+------------------------------------------------------------------------------------------------------------------------------------------ */
+@media screen and (max-width: 860px) {
+  .nav-collapse {
+    width: 100%; }
+
+  .nav-collapse ul {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    display: block;
+    list-style: none; }
+
+  .nav-collapse li {
+    width: 100%;
+    display: block;
+    margin: 0 0 10px;
+    font-size: 20px;
+    padding-right: 20px;
+    text-align: center; }
+
+  .js .nav-collapse {
+    clip: rect(0 0 0 0);
+    max-height: 0;
+    position: absolute;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 20px;
+    zoom: 1; }
+
+  .nav-collapse.opened {
+    max-height: 9999px; }
+
+  .nav-collapse.disable-pointer-events {
+    pointer-events: none !important; }
+
+  a.nav-toggle {
+    width: 20%;
+    float: right;
+    clear: none; }
+
+  .nav-toggle {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    margin-bottom: 20px;
+    display: block;
+    clear: both; }
+
+  .nav-toggle {
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+    display: block;
+    color: white;
+    padding: 10px;
+    text-align: right;
+    padding-right: 40px;
+    z-index: 2;
+    height: 40px; }
+
+  .nav-toggle:before {
+    content: " ";
+    position: absolute;
+    width: 1.5em;
+    height: 0.225em;
+    background: white;
+    box-shadow: 0 0.60em 0 0 white, 0 1.2em 0 0 white; } }
+@media screen and (min-width: 860px) {
+  .js .nav-collapse {
+    position: relative; }
+
+  .js .nav-collapse.closed {
+    max-height: none; }
+
+  .nav-toggle {
+    display: none; } }
