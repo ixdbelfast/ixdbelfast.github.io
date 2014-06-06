@@ -172,6 +172,11 @@ small {
 img {
   max-width: 100%; }
 
+.avatar {
+  border-radius: 50%;
+  width: 50px;
+  margin-right: 5px; }
+
 /* NAVIGATION
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 header {
@@ -288,6 +293,42 @@ footer {
 .overview .back {
   margin-top: 50px; }
 
+/* POSTS
+------------------------------------------------------------------------------------------------------------------------------------------ */
+.posts .avatar {
+  width: 15px; }
+.posts li {
+  list-style-type: none;
+  margin-left: 0;
+  margin-bottom: 20px; }
+
+.post-date {
+  font-size: 12px;
+  color: #999;
+  font-weight: 400; }
+  .post-date:before {
+    display: inline-block;
+    content: "";
+    vertical-align: middle;
+    width: 12px;
+    height: 12px;
+    margin-right: 3px;
+    margin-top: -3px;
+    background: transparent url("../images/icons/time.svg") no-repeat; }
+
+.post-link {
+  font-weight: 500;
+  display: block;
+  clear: both;
+  font-size: 1.125em;
+  /* 18/16 */ }
+
+.post-author {
+  color: #999;
+  font-size: 12px;
+  margin-right: 5px;
+  font-weight: 400; }
+
 /* SLIDESHOW
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 .banner {
@@ -304,6 +345,7 @@ footer {
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 .button {
   margin-top: 10px;
+  margin-bottom: 20px;
   display: inline-block;
   padding: 12px 20px;
   border-radius: 6px;

@@ -23,8 +23,8 @@ permalink: /
 	<p>Our teaching team has an internationally respected profile in the field of interaction design. Our team – Christopher Murphy, Paul McCormack and Tim Potter – are regularly invited to speak at events all over the world and contribute to many of the industry’s leading publications, ensuring that what we teach is relevant, up-to-date and what industry needs.</p>
 
 	<p>In addition to our core team, the course draws upon the talents of a wide range of international visiting lecturers. Recent lecturers that have worked with our students include: Nicholas Felton (Facebook), Cennydd Bowles (Twitter), Elliot Jay Stocks (Adobe) and Eva-Lotta Lamm (Google).</p>
-	<p>
-	With these high profile, design-focused connections, the course ensures the student experience is challenging and dynamic, offering opportunities internationally in what is a high growth global industry.</p>
+
+	<p>With these high profile, design-focused connections, the course ensures the student experience is challenging and dynamic, offering opportunities internationally in what is a high growth global industry.</p>
 
 </div>
 
@@ -38,10 +38,10 @@ permalink: /
   <ul class="posts">
     {% for post in site.categories.journal %}
       <li>
+        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>  
+        <span class ="post-author"><img class="avatar" src="{{ post.avatar }}" />{{ post.author }}</span>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </li>
-      <p>by {{ post.author }}</p>
     {% endfor %}
   </ul>
 
