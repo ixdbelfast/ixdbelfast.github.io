@@ -518,14 +518,18 @@ ul.links {
 @media only screen and (max-width: 460px) {
   .staff li {
     width: 100%; } }
+@media only screen and (max-width: 380px) {
+  .logo {
+    font-size: 1.5em;
+    /* 24/16 */ } }
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 @media screen and (max-width: 860px) {
   .nav-collapse {
-    width: 100%; }
+    width: 95%; }
 
   .nav-collapse ul {
-    margin: 0;
+    margin: 0 0 0 -2.5%;
     padding: 0;
     width: 100%;
     display: block;
@@ -534,18 +538,16 @@ ul.links {
   .nav-collapse li {
     width: 100%;
     display: block;
-    margin: 0 0 10px;
+    margin: 0 0 0px;
     font-size: 20px;
-    padding-right: 20px;
-    text-align: center; }
+    text-align: center;
+    padding-bottom: 20px; }
 
   .js .nav-collapse {
     clip: rect(0 0 0 0);
     max-height: 0;
     position: absolute;
     display: block;
-    overflow: hidden;
-    padding-bottom: 20px;
     zoom: 1; }
 
   .nav-collapse.opened {
@@ -555,21 +557,9 @@ ul.links {
     pointer-events: none !important; }
 
   a.nav-toggle {
-    width: 20%;
-    float: right;
-    clear: none; }
-
-  .nav-toggle {
-    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
-    -webkit-touch-callout: none;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    -o-user-select: none;
-    user-select: none;
-    margin-bottom: 20px;
-    display: block;
-    clear: both; }
+    width: 60px;
+    position: absolute;
+    right: 0; }
 
   .nav-toggle {
     -webkit-tap-highlight-color: rgba(0, 0, 0, 0);

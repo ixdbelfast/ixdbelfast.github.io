@@ -1,0 +1,1 @@
+var navigation=responsiveNav(".nav-collapse",{animate:!0,transition:284,label:" ",insert:"before",customToggle:"",closeOnNavClick:!0,openPos:"relative",navClass:"nav-collapse",navActiveClass:"js-nav-active",jsClass:"js",init:function(){},open:function(){},close:function(){}});

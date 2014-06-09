@@ -77,5 +77,14 @@ header {
 
 	.staff li {
 		width: 100%;
+		}
 	}
+
+
+
+@media only screen and (max-width: 380px) {
+
+	.logo {
+		font-size: 1.5em; /* 24/16 */
+		}
 	}
