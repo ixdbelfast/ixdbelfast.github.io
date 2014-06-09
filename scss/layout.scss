@@ -6,6 +6,7 @@
 $ixd-blue: 			#243086;
 $text-grey: 		#333333;
 $flat-blue:			#3498DB;
+$light-grey: 		#999999;
 
 
 /* SETTINGS */
@@ -95,6 +96,11 @@ h3 {
 	padding: 20px 0 10px;
 	}
 
+h4 {
+	margin: 30px 0 20px;
+	font-size: 1.125em; /* 18/16 */
+	}
+
 li {
 	list-style-position: outside;
 	margin-left: 20px;
@@ -107,7 +113,7 @@ strong {
 small {
 	font-size: 0.75em; /* 12/16 */
 	text-align: center;
-	margin-top: 20px;
+	margin-top: 80px;
 	display: block;
 	opacity: 0.5;
 	}
@@ -193,10 +199,14 @@ footer {
 	background-color: #333;
 	color: white;
 	padding: 60px 0;
+	text-align: center;
 	a,
 	p {
 		color:white;
 		}
+	li {
+		display: inline;
+	}
 	}
 
 .one {
@@ -338,7 +348,7 @@ footer {
 .post-date,
 .post-author {
 	font-size: 12px;
-	color: #999;
+	color: $light-grey;
 	font-weight: 400;
 	}
 
@@ -408,7 +418,7 @@ footer {
 		}
 	}
 
-#home .avatar {
+#home .posts .avatar {
 		width: 15px;
 		}
 
@@ -457,6 +467,82 @@ footer {
 		opacity: 1;
 		}
 	}
+
+
+/* STAFF
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+.staff {
+	display: block;
+	clear: both;
+	li {
+		list-style-type: none;
+		text-align: center;
+		margin-bottom: 20px;
+		width: 33.3333%;
+		float: left;
+		margin-left: 0;
+
+		img {
+			clear: both;
+			display: block;
+			margin: 0 auto;
+			margin-bottom: 5px;
+
+			&.avatar {
+				width: 80px;
+				}
+			}
+
+		.name {
+
+		}
+
+		.position {
+			clear: both;
+			display: block;
+			font-size: 14px;
+			color: $light-grey;
+			}
+		}
+
+}
+
+/* ICONS
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+
+ul.links {
+	margin-bottom: 30px;
+
+	li {
+		padding: 10px 20px;
+		&:before {
+			display: inline-block;
+		    content: "";
+		    vertical-align: middle;
+		    width: 18px;
+		    height: 18px;
+		    margin-right:5px;
+		    margin-top: -2px;
+		    background-repeat: no-repeat;
+			}
+		}
+	}
+
+.email:before {
+    background-image: url('../images/icons/email.svg');
+	}
+
+.twitter:before {
+	 background-image: url('../images/icons/twitter.svg');
+	}
+
+.github:before {
+	 background-image: url('../images/icons/github.svg');
+	}
+
+
 
 /* USEFUL CLASSES
 ------------------------------------------------------------------------------------------------------------------------------------------ */

@@ -165,6 +165,11 @@ h3 {
   /* 20/16 */
   padding: 20px 0 10px; }
 
+h4 {
+  margin: 30px 0 20px;
+  font-size: 1.125em;
+  /* 18/16 */ }
+
 li {
   list-style-position: outside;
   margin-left: 20px; }
@@ -176,7 +181,7 @@ small {
   font-size: 0.75em;
   /* 12/16 */
   text-align: center;
-  margin-top: 20px;
+  margin-top: 80px;
   display: block;
   opacity: 0.5; }
 
@@ -239,10 +244,13 @@ header {
 footer {
   background-color: #333;
   color: white;
-  padding: 60px 0; }
+  padding: 60px 0;
+  text-align: center; }
   footer a,
   footer p {
     color: white; }
+  footer li {
+    display: inline; }
 
 .one {
   width: 33.3333%; }
@@ -320,7 +328,7 @@ footer {
 .post-date,
 .post-author {
   font-size: 12px;
-  color: #999;
+  color: #999999;
   font-weight: 400; }
 
 .post-date:before {
@@ -366,7 +374,7 @@ footer {
   margin-bottom: 30px;
   display: block; }
 
-#home .avatar {
+#home .posts .avatar {
   width: 15px; }
 
 /* SLIDESHOW
@@ -399,6 +407,56 @@ footer {
     color: white;
     background-color: #3498db;
     opacity: 1; }
+
+/* STAFF
+------------------------------------------------------------------------------------------------------------------------------------------ */
+.staff {
+  display: block;
+  clear: both; }
+  .staff li {
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 20px;
+    width: 33.3333%;
+    float: left;
+    margin-left: 0; }
+    .staff li img {
+      clear: both;
+      display: block;
+      margin: 0 auto;
+      margin-bottom: 5px; }
+      .staff li img.avatar {
+        width: 80px; }
+    .staff li .position {
+      clear: both;
+      display: block;
+      font-size: 14px;
+      color: #999999; }
+
+/* ICONS
+------------------------------------------------------------------------------------------------------------------------------------------ */
+ul.links {
+  margin-bottom: 30px; }
+  ul.links li {
+    padding: 10px 20px; }
+    ul.links li:before {
+      display: inline-block;
+      content: "";
+      vertical-align: middle;
+      width: 18px;
+      height: 18px;
+      margin-right: 5px;
+      margin-top: -2px;
+      background-repeat: no-repeat; }
+
+.email:before {
+  background-image: url("../images/icons/email.svg"); }
+
+.twitter:before {
+  background-image: url("../images/icons/twitter.svg"); }
+
+.github:before {
+  background-image: url("../images/icons/github.svg"); }
 
 /* USEFUL CLASSES
 ------------------------------------------------------------------------------------------------------------------------------------------ */
@@ -434,7 +492,14 @@ footer {
 
   .two,
   .one {
-    width: 100%; } }
+    width: 100%; }
+
+  ul.links li {
+    width: 100%;
+    display: block;
+    clear: both;
+    padding: 10px 0;
+    margin: 0; } }
 @media only screen and (max-width: 700px) {
   body {
     margin-top: 0px; }
@@ -449,6 +514,9 @@ footer {
       margin-bottom: 30px; }
 
   .module {
+    width: 100%; } }
+@media only screen and (max-width: 460px) {
+  .staff li {
     width: 100%; } }
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */

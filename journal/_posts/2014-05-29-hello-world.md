@@ -3,7 +3,7 @@ layout: post
 title:  Hello World
 date:   2014-05-29 12:55:35
 author: Tim Potter
-avatar: https://pbs.twimg.com/profile_images/454367122781503488/w_R_Lcmr.jpeg
+avatar: https://avatars1.githubusercontent.com/u/5586584?s=400
 categories: jekyll update
 excerpt: This is the excerpt from the post and it will automagically be pulled into your page. Pretty cool eh?
 ---

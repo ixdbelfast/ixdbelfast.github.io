@@ -3,7 +3,7 @@ layout: post
 title:  Welcome to Jekyll!
 date:   2014-05-22 11:55:35
 author: Paul McCormack
-avatar: https://pbs.twimg.com/profile_images/445539149399855104/hkXmrMxe.png
+avatar: https://avatars3.githubusercontent.com/u/6138096?s=400
 categories: jekyll update
 ---
 
