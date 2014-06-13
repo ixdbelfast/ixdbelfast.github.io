@@ -519,9 +519,12 @@ ul.links {
   .logo {
     font-size: 1.5em;
     /* 24/16 */ } }
-@media only screen and (max-height: 1000px) {
+@media only screen and (max-height: 900px) {
   body {
     margin-top: 530px; } }
+@media only screen and (max-height: 600px) {
+  body {
+    margin-top: 440px; } }
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 @media screen and (max-width: 860px) {

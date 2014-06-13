@@ -80,9 +80,16 @@ header {
 	}
 
 
-@media only screen and (max-height: 1000px) {
+@media only screen and (max-height: 900px) {
 
 body {
 	margin-top: 530px;
+	}
+}
+
+@media only screen and (max-height: 600px) {
+
+body {
+	margin-top: 440px;
 	}
 }
