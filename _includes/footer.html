@@ -7,19 +7,19 @@
   <h4>Staff</h4>
   <ul class="staff group">
       <li>
-        <img class="avatar" src="https://pbs.twimg.com/profile_images/3363977232/3719860c3f790ed9b16e25868caf2295.jpeg" alt="Chris Murphy - Senior Lecturer" />
-        <a class="name" href="https://twitter.com/fehler">Christopher Murphy</a>
-        <span class="position">Senior Lecturer</span>
+        <img class="avatar" src="{{ site.authors.chris.avatar }}" alt="{{ site.authors.chris.name }} - {{ site.authors.chris.position }}" />
+        <a class="name" href="{{ site.authors.chris.twitter }}">{{ site.authors.chris.name }}</a>
+        <span class="position">{{ site.authors.chris.position }}</span>
       </li>
     <li>
-      <img class="avatar" src="https://avatars3.githubusercontent.com/u/6138096?s=400" alt="Paul McCormack - Lecturer" />
-      <a class="name" href="https://twitter.com/eleventhirty">Paul McCormack</a>
-      <span class="position">Lecturer</span>
+      <img class="avatar" src="{{ site.authors.paul.avatar }}" alt="{{ site.authors.paul.name }} - {{ site.authors.paul.position }}" />
+      <a class="name" href="{{ site.authors.paul.twitter }}">{{ site.authors.paul.name }}</a>
+      <span class="position">{{ site.authors.paul.position }}</span>
     </li>
     <li>
-      <img class="avatar" src="https://avatars1.githubusercontent.com/u/5586584?s=400" alt="Tim Potter - Associate Lecturer" />
-      <a class="name" href="https://twitter.com/tejpotter">Tim Potter</a>
-      <span class="position">Associate Lecturer</span>
+      <img class="avatar" src="{{ site.authors.tim.avatar }}" alt="{{ site.authors.tim.name }} - {{ site.authors.tim.position }}" />
+      <a class="name" href="{{ site.authors.tim.twitter }}">{{ site.authors.tim.name }}</a>
+      <span class="position">{{ site.authors.tim.position }}</span>
     </li>
   </ul>
 
@@ -32,9 +32,13 @@
     
   </ul>
 
-      <small>The contents of this website are &copy; 2014 IxD Belfast under the terms of the MIT License. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and hosted by <a href="https://github.com" />GitHub</small>
+      <small>The contents of this website are &copy; 2014 IxD Belfast under the terms of the MIT License. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and hosted by <a href="https://github.com">GitHub</a></small>
 
   </div>
+
+  <!-- {% for author in site.authors %}
+    <p><img class="avatar" src="{{ site.authors.avatar }}" /> by {{ authors.name }}</p>
+  {% endfor %} -->
 
 </footer>
 

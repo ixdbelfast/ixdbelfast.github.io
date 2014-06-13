@@ -10,7 +10,8 @@ layout: default
 </article>
 
 <div class="one right">
-    <p>{% if page.avatar %} <img class="avatar" src="{{ page.avatar }}" />{% endif %} {% if page.author %} by {{ page.author }}{% endif %}</p>
-    <!-- <small>More info to go here - bio and twitter</small> -->
-
+	{% if page.author %}
+    	{% assign author = site.authors[page.author] %}
+        <p><img class="avatar" src="{{ author.avatar }}" /> by {{ author.name }}</p>
+    {% endif %}
 </div>

@@ -13,18 +13,21 @@ authors:
   chris:
     name: Christopher Murphy
     avatar: https://pbs.twimg.com/profile_images/3363977232/3719860c3f790ed9b16e25868caf2295.jpeg
+    position: Senior Lecturer
     email: chris.murphy@ulster.ac.uk
-    web: http://www.richtaur.com/
+    web: http://monographic.org/
     twitter: https://twitter.com/fehler
   paul:
     name: Paul McCormack
     avatar: https://avatars3.githubusercontent.com/u/6138096?s=400
+    position: Lecturer
     email: p.mccormack@ulster.ac.uk
     web: http://www.eleventhirtydesign.com/
     twitter: https://twitter.com/eleventhirty
   tim:
     name: Tim Potter
     avatar: https://avatars1.githubusercontent.com/u/5586584?s=400
+    position: Associate Lecturer
     email: tej.potter@ulster.ac.uk
     web: http://littlethunder.co
     twitter: https://twitter.com/tejpotter

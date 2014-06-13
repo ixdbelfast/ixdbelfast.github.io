@@ -9,9 +9,10 @@ permalink: /journal/
 
   <ul class="posts">
     {% for post in site.categories.journal %}
+    {% assign author = site.authors[post.author] %}
       <li>
         <h1>{{ post.title }}</h1>  
-        <span class ="post-author"><img class="avatar" src="{{ post.avatar }}" />{{ post.author }}</span>
+        <span class ="post-author"><img class="avatar" src="{{ author.avatar }}" />{{ author.name }}</span>
         <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
       </li>
       <li class="post-excerpt">{{ post.excerpt }}</li>
@@ -24,6 +25,6 @@ permalink: /journal/
 <div class="one right">
 
   <h3>The Journal</h3>
-  <p>The Journal is a place for staff to post their thoughts on course reated content and current industry topics.</p>
+  <p>The Journal is a place for staff to post their thoughts on course related content and current industry topics.</p>
 
 </div>
