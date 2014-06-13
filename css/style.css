@@ -474,9 +474,6 @@ ul.links {
   clear: both;
   visibility: hidden; }
 
-/* Add a media query where the content naturally breaks. This is not device specific, it's content specific */
-/* 980PX
------------------------------------------------------------------------------------------------------------------------------------------- */
 @media only screen and (max-width: 980px) {
   header nav {
     width: 65%; }
@@ -522,6 +519,9 @@ ul.links {
   .logo {
     font-size: 1.5em;
     /* 24/16 */ } }
+@media only screen and (max-height: 1000px) {
+  body {
+    margin-top: 530px; } }
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 @media screen and (max-width: 860px) {
