@@ -4,9 +4,10 @@
 
 + Add content to Year 3 Placement modules
 + Copyright footer details
-+ Why Belfast section needs content
++ Why Belfast section needs content and slideshow
 + Setup info@ixdbelfast.org email address
 + Finish first blog post
 + Student showcase - work needed
++ Staff details on contact page
 
 
