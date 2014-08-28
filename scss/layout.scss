@@ -424,6 +424,89 @@ footer {
 		}
 
 
+/* TIMETABLE
+------------------------------------------------------------------------------------------------------------------------------------------ */
+
+.timetable {
+
+	.group {
+		border-top: 1px solid #ccc;
+		padding: 15px;
+	}
+
+	.alt {
+		background-color: #f9f9f9;
+	}
+
+	h2 {
+		padding-top: 15px;
+		}
+
+	.time,
+	.class-details, {
+		display: block;
+		float: left;
+		}
+
+	.time {
+		margin-right: 60px;
+		}
+
+	.day {
+		width: 20%;
+		float: left;
+		position: absolute;
+		}
+
+	.class {
+		border-bottom: 1px solid #eee;
+		width: 80%;
+		display: block;
+		float: left;
+		margin-bottom: 20px;
+		margin-left: 20%;
+		}
+
+	.module-code,
+	.session,
+	.room {
+		float: left;
+		display: block;
+		padding-bottom: 20px;
+		}
+
+	.module-code {
+		&:before {
+			content: "Module Code: ";
+			font-weight: 300;
+			}
+		}
+
+	.room {
+		&:before {
+			content: "Room: ";
+			font-weight: 300;
+			}
+		}
+
+	ul {
+		li {
+			list-style-type: none;
+			padding: 0;
+			margin: 0 20px 0 0;	
+			font-size: 12px;
+			font-weight: bold;
+			opacity: .7;
+			}
+
+		}
+
+	.no-border {
+		border: none;
+	}
+}
+
+
 /* SLIDESHOW
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 
