@@ -427,11 +427,17 @@ footer {
 /* TIMETABLE
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 
+p.date {
+	float: right;
+	clear: both;
+	margin-top: -30px;
+	}
+
 .timetable {
 
 	.group {
 		border-top: 1px solid #ccc;
-		padding: 15px;
+		padding: 20px;
 	}
 
 	.alt {
@@ -463,8 +469,8 @@ footer {
 		width: 80%;
 		display: block;
 		float: left;
-		margin-bottom: 20px;
 		margin-left: 20%;
+		padding-bottom: 20px;
 		}
 
 	.module-code,
@@ -472,7 +478,7 @@ footer {
 	.room {
 		float: left;
 		display: block;
-		padding-bottom: 20px;
+		
 		}
 
 	.module-code {
@@ -490,6 +496,7 @@ footer {
 		}
 
 	ul {
+
 		li {
 			list-style-type: none;
 			padding: 0;

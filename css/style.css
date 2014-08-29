@@ -380,9 +380,14 @@ footer {
 
 /* TIMETABLE
 ------------------------------------------------------------------------------------------------------------------------------------------ */
+p.date {
+  float: right;
+  clear: both;
+  margin-top: -30px; }
+
 .timetable .group {
   border-top: 1px solid #ccc;
-  padding: 15px; }
+  padding: 20px; }
 .timetable .alt {
   background-color: #f9f9f9; }
 .timetable h2 {
@@ -402,14 +407,13 @@ footer {
   width: 80%;
   display: block;
   float: left;
-  margin-bottom: 20px;
-  margin-left: 20%; }
+  margin-left: 20%;
+  padding-bottom: 20px; }
 .timetable .module-code,
 .timetable .session,
 .timetable .room {
   float: left;
-  display: block;
-  padding-bottom: 20px; }
+  display: block; }
 .timetable .module-code:before {
   content: "Module Code: ";
   font-weight: 300; }
@@ -545,7 +549,17 @@ ul.links {
     display: block;
     clear: both;
     padding: 10px 0;
-    margin: 0; } }
+    margin: 0; }
+
+  .timetable .group {
+    padding: 20px 0; }
+  .timetable .day,
+  .timetable .time,
+  .timetable .class {
+    width: 100%;
+    position: relative;
+    clear: both;
+    margin-left: 0; } }
 @media only screen and (max-width: 700px) {
   body {
     margin-top: 0px; }

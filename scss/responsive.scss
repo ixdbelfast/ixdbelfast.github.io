@@ -39,6 +39,21 @@ ul.links li {
 	margin:0;	
 	}
 
+.timetable {
+
+	.group {
+		padding: 20px 0;
+		}
+	.day,
+	.time, 
+	.class {
+		width: 100%;
+		position: relative;
+		clear: both;
+		margin-left: 0;
+		}
+	}
+
 }
 
 @media only screen and (max-width: 700px) {
@@ -78,6 +93,9 @@ header {
 		font-size: 1.5em; /* 24/16 */
 		}
 	}
+
+
+
 
 
 @media only screen and (min-width: 700px) and (max-height: 900px) {
