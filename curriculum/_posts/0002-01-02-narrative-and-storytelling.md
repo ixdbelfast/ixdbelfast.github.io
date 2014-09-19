@@ -8,6 +8,7 @@ semester: 1
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Designing User Experiences
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/AAD321/AAD321.md
 ---
 
 ##Rationale
