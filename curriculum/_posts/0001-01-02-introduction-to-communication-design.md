@@ -8,7 +8,8 @@ semester: 1
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Interaction Design Fundamentals
-github: https://github.com/PixelPaper/imaging-and-data-visualisation/blob/master/photography-and-photographers.md
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/AAD116/AAD116.md
+
 ---
 
 ##Rationale
