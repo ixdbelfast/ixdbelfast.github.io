@@ -2,6 +2,7 @@
 layout: module
 title:  Exploring Identity
 excerpt: Exploring aspects of iconography, branding, and visual identity, this practice-based module investigates how design considers issues of character and personality and how these can be communicated graphically. By introducing students to core software packages (Photoshop, Illustrator…) students develop the skills required to realise their ideas using industry standard software, equipping students with the drawing skills needed to create assets for industry.
+code: AAD117
 year: 1
 semester: 2
 credits: 40

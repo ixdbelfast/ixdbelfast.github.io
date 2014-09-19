@@ -2,6 +2,7 @@
 layout: module
 title:  Designing User Experiences
 excerpt: This module looks beyond the technical ‘how’ of interaction design and explores questions relating to ‘why’. Starting with users and their needs, the module investigates the experiential aspects and emotional perception of the things we create as designers, drawing from the work of Don Norman, Jakob Nielsen, Bruce Tognazzini and other human computer interaction (HCI) experts.
+code: AAD320
 year: 2
 semester: 1
 credits: 40

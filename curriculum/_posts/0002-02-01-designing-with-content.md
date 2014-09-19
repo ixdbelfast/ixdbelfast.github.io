@@ -2,6 +2,7 @@
 layout: module
 title:  Designing with Content
 excerpt: This module explores the importance of considering content – in all its forms – as a core element of any piece of interaction design that can, itself, be designed. Through an emphasis on developing strategic approaches to content and its generation, students are introduced to additional possible career pathways, including that of the content strategist.
+code: AAD322
 year: 2
 semester: 2
 credits: 40

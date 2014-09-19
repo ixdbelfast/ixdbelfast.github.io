@@ -1,7 +1,8 @@
 ---
 layout: module
-title:  Building Digital Products
+title:  Creative Entrepreneurship
 excerpt: This module introduces students to the ideas and principles, which underpin creative entrepreneurship, placing a heavy focus on the emerging and rapidly growing field of digital product design.
+code: AAD323
 year: 2
 semester: 2
 credits: 20

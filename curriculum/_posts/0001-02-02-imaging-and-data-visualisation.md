@@ -2,6 +2,7 @@
 layout: module
 title:  Imaging and Data Visualisation
 excerpt: We’ve been led to believe that a picture is worth a thousand words. This module puts that truism to the test. Exploring non-verbal communication, we introduce students to photographic, illustrative and diagrammatic approaches to communication. Showcasing the power of the image in communication the module equips students with the ability to not only create images, but also brief others’ on how to create images, through the creation of functional mood boards.
+code: AAD118
 year: 1
 semester: 2
 credits: 20
