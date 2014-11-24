@@ -1,7 +1,7 @@
 ---
 layout: module
 title: Major Project Prototyping
-excerpt: Examining how storytelling can be used to enhance content, this module considers how concepts like art direction, pacing and narrative can be used to control the flow of information. Through the creation of a piece of narrative web-based content, students are taught the dynamics of design as it unfolds like a story, across frames and over time.
+excerpt: This module focuses on equipping students with the idea generation and prototyping skills required to produce a substantial and challenging body of work for the Major Project module in the following semester. It is intended to form a springboard for the students’ final outcome and is very closely linked to the deliverables of that module.
 code: AAD507
 year: 4
 semester: 1
