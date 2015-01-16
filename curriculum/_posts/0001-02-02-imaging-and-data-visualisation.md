@@ -55,7 +55,7 @@ Indicative lecture content includes:
 
 ###Required
 
-+ Suda, B., 2010. [A Practical Guide to Designing with Data.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-with-data) Penarth: Five Simple Steps.
++ Suda, B., 2010. [A Practical Guide to Designing with Data.](https://gumroad.com/l/ArWZ) Penarth: Five Simple Steps.
 + Tufte, E., 2001. [The Visual Display of Quantitative Information.](http://www.amazon.co.uk/exec/obidos/ASIN/0961392142/monographic-21) 2nd ed. Cheshire, CT: Graphics Press.
 + Marshall, L. and Meachem, L., 2010. [How to Use Images.](http://www.amazon.co.uk/exec/obidos/ASIN/1856696588/monographic-21) London: Laurence King.
 + Ingledew, J., 2011. [The A - Z of Visual Ideas: How to Solve any Creative Brief.](http://www.amazon.co.uk/exec/obidos/ASIN/1856697142/monographic-21) London: Laurence King.
