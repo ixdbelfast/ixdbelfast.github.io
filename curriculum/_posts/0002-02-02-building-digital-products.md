@@ -8,7 +8,7 @@ semester: 2
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Designing With Content
-github: http://
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/AAD323/AAD323.md
 ---
 
 ##Rationale
