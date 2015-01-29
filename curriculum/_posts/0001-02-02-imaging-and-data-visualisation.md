@@ -8,6 +8,7 @@ semester: 2
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Exploring Identity
+github: http://
 ---
 
 ##Rationale
