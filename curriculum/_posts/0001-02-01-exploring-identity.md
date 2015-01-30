@@ -8,6 +8,7 @@ semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Imaging and Data Visualisation
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/AAD117/AAD117.md
 ---
 
 ##Rationale
