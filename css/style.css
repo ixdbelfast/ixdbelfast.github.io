@@ -472,7 +472,7 @@ p.date {
     list-style-type: none;
     text-align: center;
     margin-bottom: 20px;
-    width: 33.3333%;
+    width: 50%;
     float: left;
     margin-left: 0; }
     .staff li img {
@@ -630,7 +630,7 @@ ul.links {
     right: 0; }
 
   .nav-toggle {
-    -webkit-tap-highlight-color: transparent;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
     -webkit-touch-callout: none;
     -webkit-user-select: none;
     -moz-user-select: none;
