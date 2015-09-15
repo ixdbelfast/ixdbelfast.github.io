@@ -2,13 +2,13 @@
 layout: module
 title:  Interaction Design Fundamentals
 excerpt: Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry.
-code: AAD115 
+code: IXD101 
 year: 1
 semester: 1
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Introduction to Communication Design
-github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/AAD115/AAD115.md
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD101/IXD101.md
 ---
 
 ##Rationale
