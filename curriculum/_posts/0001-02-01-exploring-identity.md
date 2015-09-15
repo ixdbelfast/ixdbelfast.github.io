@@ -2,13 +2,13 @@
 layout: module
 title:  Exploring Identity
 excerpt: Exploring aspects of iconography, branding, and visual identity, this practice-based module investigates how design considers issues of character and personality and how these can be communicated graphically. By introducing students to core software packages (Photoshop, Illustrator…) students develop the skills required to realise their ideas using industry standard software, equipping students with the drawing skills needed to create assets for industry.
-code: AAD117
+code: IXD103
 year: 1
 semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Imaging and Data Visualisation
-github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/AAD117/AAD117.md
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD103/IXD103.md
 ---
 
 ##Rationale
