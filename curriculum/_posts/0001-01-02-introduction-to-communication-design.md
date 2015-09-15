@@ -2,13 +2,13 @@
 layout: module
 title:  Introduction to Communication Design
 excerpt: In this module we introduce students to the history of communication design. Starting with imagined communication devices of the future (Minority Report, Prometheus…) we rewind, in a single lecture, to the era of cave painting (Lascaux, Chauvet…), demonstrating the connections that bind human communication together.
-code: AAD116
+code: IXD102
 year: 1
 semester: 1
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Interaction Design Fundamentals
-github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/AAD116/AAD116.md
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD102/IXD102.md
 
 ---
 
