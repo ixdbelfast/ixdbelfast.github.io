@@ -2,7 +2,7 @@
 layout: module
 title:  Design Presentation and Reporting
 excerpt: Design Presentation and Reporting equips students with the skills – both written and verbal – to confidently articulate their ideas, pitching them to an audience in a manner that is both reasoned and persuasive.
-code: AAD510
+code: IXD504
 year: 4
 semester: 2
 credits: 20

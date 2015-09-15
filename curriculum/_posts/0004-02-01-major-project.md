@@ -2,7 +2,7 @@
 layout: module
 title:  Major Project
 excerpt: This module focuses on equipping students with a combination of skills, centred on the design and build of a sustained piece of coursework, which enables them to showcase what they have learned throughout the entirety of the course. The aim of the module is to highlight the depth and breadth of knowledge students have acquired whilst on the course.
-code: AAD509
+code: IXD503
 year: 4
 semester: 2
 credits: 40

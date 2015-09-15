@@ -2,7 +2,7 @@
 layout: module
 title:  Research and Writing
 excerpt: This module is intended to consolidate the students’ knowledge and understanding of history and theory, by providing an opportunity for students to generate a body of unique research, tailored to their specialist area.
-code: AAD508
+code: IXD502
 year: 4
 semester: 1
 credits: 20

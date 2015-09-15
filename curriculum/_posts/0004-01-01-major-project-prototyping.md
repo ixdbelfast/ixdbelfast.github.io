@@ -2,7 +2,7 @@
 layout: module
 title: Major Project Prototyping
 excerpt: This module focuses on equipping students with the idea generation and prototyping skills required to produce a substantial and challenging body of work for the Major Project module in the following semester. It is intended to form a springboard for the students’ final outcome and is very closely linked to the deliverables of that module.
-code: AAD507
+code: IXD501
 year: 4
 semester: 1
 credits: 40
