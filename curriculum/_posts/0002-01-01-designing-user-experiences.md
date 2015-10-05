@@ -8,6 +8,7 @@ semester: 1
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites:  Narrative and Storytelling
+github: https://github.com/fehler/lectures/blob/master/IXD301/IXD301.md
 ---
 
 ##Rationale
