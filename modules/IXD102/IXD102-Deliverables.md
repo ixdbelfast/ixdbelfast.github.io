@@ -29,4 +29,4 @@ Details of requirements for this project will be posted in Week 03
 ###Deliverable 01 – Design Essay Webpage (50%)
 Students will be asked to write an essay on one designer from a supplied list of historical and contemporary figures. The essay will be created as a single page website with the design of the website to reflect the chosen designers style.
 
-Details of requirements for this project will be posted in Week 06
+Details of requirements for this project will be posted in Week 06.
