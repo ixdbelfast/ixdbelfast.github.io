@@ -1,4 +1,4 @@
-###Deliverable 01 - Type Specimen Poster (25%)
+##Deliverable 01 - Type Specimen Poster (25%)
 Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
 
 - Jenson
@@ -21,12 +21,12 @@ If you have any questions don't hesitate to get in touch.
 
 **Completion Date: Friday 9th October 2015** Rather than take a look through these in Week 04 I will leave the first feedback session until Week 07 when we can look at the first two projects (two posters for IMD and one for IxD (IxD have a group project instead of the second poster)) this will give everyone time to reflect on the first project and improve on things if necessary.
 
-###Deliverable 03 – Design History Presentation (25%)
+##Deliverable 03 – Design History Presentation (25%)
 Delivery of this particular project will differ for IxD and IMD, the themes for both groups will, however, be the same.
 
 Details of requirements for this project will be posted in Week 03
 
-###Deliverable 01 – Design Essay Webpage (50%)
+##Deliverable 01 – Design Essay Webpage (50%)
 Students will be asked to write an essay on one designer from a supplied list of historical and contemporary figures. The essay will be created as a single page website with the design of the website to reflect the chosen designers style.
 
 Details of requirements for this project will be posted in Week 06.
