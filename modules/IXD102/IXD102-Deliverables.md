@@ -21,10 +21,33 @@ If you have any questions don't hesitate to get in touch.
 
 **Completion Date: Friday 9th October 2015** Rather than take a look through these in Week 04 I will leave the first feedback session until Week 07 when we can look at the first two projects (two posters for IMD and one for IxD (IxD have a group project instead of the second poster)) this will give everyone time to reflect on the first project and improve on things if necessary.
 
-##Deliverable 02 – Design History Presentation (25%)
+##Deliverable 02 – Design History Poster/Presentation (25%)
 Delivery of this particular project will differ for IxD and IMD, the themes for both groups will, however, be the same.
 
-Details of requirements for this project will be posted in Week 03
+The titles below are relevant to both groups while IMD will create an A3 poster using **one** of the titles below as their these IxD will use the titles to create a ten minute presentation. 
+
+- Bauhaus and the New Typography
+- Design Systems for the Olympic Games
+- The Influence of Modern Art
+- The Modern Movement in America
+- Pioneers of Postmodern Graphic Design
+- Pioneers of Digital Design
+
+You will find most of the material you need to know from [Meggs' History of Graphic Design](http://www.amazon.co.uk/Meggs-History-Graphic-Design-Philip/dp/0470168730/ref=dp_ob_title_bk) don't worry about rushing out and buying it (it's pretty expensive) the library will have a copy you can work from.
+
+###IMD Poster
+As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design you have chosen. Look at this as an exhibition poster promoting a show celebrating the particular period you have chosen.
+
+###IxD Presentation
+You should have received an email outlining your groups and the title of your presentation. The presentation should be planned to last 10 minutes and where possible include a presentation element from each member of the team. 
+
+It will be useful to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone's input it will also allow us to see how each member of the team has performed.
+
+###Research, research, research
+As with any project research is vital at the early stages (and throughout) to ensure you are going in the right direction and what you are planning to present is relevant and accurate.
+
+###Deadline
+IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-009.
 
 ##Deliverable 03 – Design Essay Webpage (50%)
 Students will be asked to write an essay on one designer from a supplied list of historical and contemporary figures. The essay will be created as a single page website with the design of the website to reflect the chosen designers style.
