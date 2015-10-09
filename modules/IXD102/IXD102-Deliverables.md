@@ -41,7 +41,7 @@ As with the Type Specimen poster which you all managed so well, try to design yo
 ###IxD Presentation
 You should have received an email outlining your groups and the title of your presentation. The presentation should be planned to last 10 minutes and where possible include a presentation element from each member of the team. 
 
-It will be useful to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone's input it will also allow us to see how each member of the team has performed.
+It will be useful to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone's input it will also allow us to see how each member of the team has performed. This – [How to Collaborate On GitHub](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) is a useful resource on getting up and running with as a group.
 
 ###Research, research, research
 As with any project research is vital at the early stages (and throughout) to ensure you are going in the right direction and what you are planning to present is relevant and accurate.
