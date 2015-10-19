@@ -13,7 +13,7 @@ Paper-based exercises introduce fundamental design principles developed at the B
 - **Deliverable 03 Plane** – Continue with your 1, 2, 3 and 9 planes + tone and a more finely executed 9 planes + tone piece. After the paper exercises work up some multiple planes; 20 ways on computer, you can use as may planes as you wish. 
 
 - The final exercise for this week is to create a modular typeface built from planes. [Fontstruct](http://fontstruct.com) is an excellent tool to help you do this. Alternatively you could use Sketch or Illustrator.
-- **Deliverable 04 Type** – Continue with your 1 'M' 20 ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). 
+- **Deliverable 04 Type** – Continue with your 1 'M' 20 ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful.
 - **Deliverable 05 Colour** –
 
 ##Week 07-12 Screen
