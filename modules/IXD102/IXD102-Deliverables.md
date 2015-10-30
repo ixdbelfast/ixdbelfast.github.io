@@ -21,6 +21,8 @@ If you have any questions don't hesitate to get in touch.
 
 **Completion Date: Friday 9th October 2015** Rather than take a look through these in Week 04 I will leave the first feedback session until Week 07 when we can look at the first two projects (two posters for IMD and one for IxD (IxD have a group project instead of the second poster)) this will give everyone time to reflect on the first project and improve on things if necessary.
 
+---
+
 ##Deliverable 02 – Design History Poster/Presentation (25%)
 Delivery of this particular project will differ for IxD and IMD, the themes for both groups will, however, be the same.
 
@@ -49,7 +51,32 @@ As with any project research is vital at the early stages (and throughout) to en
 ###Deadline
 IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-009.
 
-##Deliverable 03 – Design Essay Webpage (50%)
-Students will be asked to write an essay on one designer from a supplied list of historical and contemporary figures. The essay will be created as a single page website with the design of the website to reflect the chosen designers style.
+---
 
-Details of requirements for this project will be posted in Week 06.
+##Deliverable 03 – Design Essay Webpage (50%)
+For the final we would like to you write an essay of no less than 1,500 words on one of the designers listed below.
+
+Your essay should be well planned and researched before you start writing. Take a look at a few of the designers in question to see which one you wish to cover.
+
+Your final essay should be in the form of a single page website suitably illustrated with photographs and images of the designers work. You may want to consider designing your essay in the style of the designer chosen or you may wish to use your own approach. **All** sources should be properly referenced one of our former IMD students [David Turner](https://davidturner.name/) created this very useful tool [ReferenceIt](https://referenceit.org) to help make the job easier.
+
+Before taking your essay to the web you should submit it to Turnitin for a quick review of originality. I will run through this process in Week 08.
+
+This project equates to 50% of your final mark for this module. 10% of this will cover use of proper grammar and spelling and another 10% will be given over to the final design.
+
+You should write your essay with [Markdown](https://daringfireball.net/projects/markdown) in the first instance. This will allow you to concentrate on the content at the beginning. Once completed you can convert it to [HTML5](https://daringfireball.net/projects/markdown/dingus) and add some CSS3 magic.
+
+- Jan Tschichold
+- Paul Rand
+- Saul Bass
+- Massimo Vignelli
+- Josef Müller Brockmann
+- Neville Brody
+- Paula Scher
+- Wolfgang Weingart
+- Stefan Sagmeister
+- Erik Spiekermann
+- Marian Bantjes
+- Jessica Hische 
+
+Your essay should be uploaded to your GitHub site/ Workspace by noon on 18th December 2015.
