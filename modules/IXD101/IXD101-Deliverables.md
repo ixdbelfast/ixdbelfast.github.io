@@ -15,7 +15,7 @@ Paper-based exercises introduce fundamental design principles developed at the B
 - The final exercise for this week is to create a modular typeface built from planes. [Fontstruct](http://fontstruct.com) is an excellent tool to help you do this. Alternatively you could use Sketch or Illustrator.
 
 - **Deliverable 04 Type** – Continue with your 1 'M' 20 ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful.
-- ** Deliverable 05 Colour** – Take one of your previous projects and revisit it using colour. Consider how complimentary, analagous or primary/secondary colours affect the design.
+- **Deliverable 05 Colour** – Take one of your previous projects and revisit it using colour. Consider how complimentary, analagous or primary/secondary colours affect the design.
 
 
 
