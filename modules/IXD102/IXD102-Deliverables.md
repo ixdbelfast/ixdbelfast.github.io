@@ -54,11 +54,11 @@ IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October 
 ---
 
 ##Deliverable 03 – Design Essay Webpage (50%)
-For the final we would like to you write an essay of no less than 1,500 words on one of the designers listed below.
+For the final we would like to you write an essay of **no less than 1,500 words** on one of the designers listed below.
 
 Your essay should be well planned and researched before you start writing. Take a look at a few of the designers in question to see which one you wish to cover.
 
-Your final essay should be in the form of a single page website suitably illustrated with photographs and images of the designers work. You may want to consider designing your essay in the style of the designer chosen or you may wish to use your own approach. **All** sources should be properly referenced one of our former IMD students [David Turner](https://davidturner.name/) created this very useful tool [ReferenceIt](https://referenceit.org) to help make the job easier.
+Your final essay should be in the form of a single page website, suitably illustrated with photographs and images of the designers work. You may want to consider designing your essay in the style of the designer chosen, or you may wish to use your own approach. **All** sources should be properly referenced; one of our former IMD students [David Turner](https://davidturner.name/) created this very useful tool [ReferenceIt](https://referenceit.org) to help make the job easier. 
 
 Before taking your essay to the web you should submit it to Turnitin for a quick review of originality. I will run through this process in Week 08.
 
