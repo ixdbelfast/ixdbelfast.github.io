@@ -66,7 +66,7 @@ This project equates to 50% of your final mark for this module. 10% of this will
 
 You should write your essay with [Markdown](https://daringfireball.net/projects/markdown) in the first instance. This will allow you to concentrate on the content at the beginning. Once completed you can convert it to [HTML5](https://daringfireball.net/projects/markdown/dingus) and add some CSS3 magic.
 
-To help you get started with your essay structure this PDF will provide a few guidelines – [Essay Writing 101](resources/essay_planning_101.pdf). The content of the PDF is a condensed version of content from the very useful [Skills You Need](http://www.skillsyouneed.com/learn/essay-planning.html) website.
+To help you get started with your essay structure this PDF will provide a few guidelines – [Essay Writing 101](resources/essay_planning_101.pdf). The content of the PDF is a condensed version of content from the very useful [Skills You Need](http://www.skillsyouneed.com/learn/essay-planning.html) website. This outline [essay plan]()
 
 - Jan Tschichold
 - Paul Rand
