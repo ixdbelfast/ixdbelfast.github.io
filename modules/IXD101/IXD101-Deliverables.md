@@ -34,4 +34,4 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 
 As a little additional exercise we would like to yo take the raw text and, using css, style it as closely as you can to the image below.
 
-![Typographic hierarchy exercise](images/make_this_1.png)
+![Typographic hierarchy exercise](img/make_this_1.png)
