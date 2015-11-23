@@ -20,6 +20,18 @@ Paper-based exercises introduce fundamental design principles developed at the B
 
 
 ##Week 07-12 Screen
+###HTML
 Using the story of John Baskerville as a starting point the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
-- **Deliverable 06 HTML** – Taking the raw John Baskerville text as your starting point create a simple HTML5 page on GitHub 
+- **Deliverable 06 HTML** – Taking the raw John Baskerville text as your starting point create a simple HTML5 page on GitHub. Save this as version1.html
+
+- **Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
+
+- **Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
+
+###CSS
+- **Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup.
+
+As a little additional exercise we would like to yo take the raw text and, using css, style it as closely as you can to the image below.
+
+![Typographic hierarchy exercise](images/make_this_1.png)
