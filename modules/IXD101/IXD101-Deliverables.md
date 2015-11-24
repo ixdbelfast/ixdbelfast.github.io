@@ -33,8 +33,11 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
 
 ###CSS
-- **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup.
+- **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
 
-As a little additional exercise we would like to yo take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
+This week we nave an additional exercise. wWe would like to yo take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
 
 ![Typographic hierarchy exercise](img/make_this_1.png)
+
+- **Week 11**
+- **Week 12**
