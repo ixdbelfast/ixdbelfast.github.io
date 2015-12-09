@@ -81,4 +81,4 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Marian Bantjes
 - Jessica Hische 
 
-Your essay should be uploaded to your GitHub site / Workspace by noon on 18th December 2015.
+Your essay should be uploaded to your GitHub site / Workspace by 11:00am Friday 8th January 2016.
