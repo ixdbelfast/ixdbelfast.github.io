@@ -37,7 +37,8 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 
 - This week we have an additional exercise. We would like to you take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
 
-![Typographic hierarchy exercise](img/make_this_1.png)
+![Typographic hierarchy exercise](img/make_this_1.gif)
 
-- **Week 11**
-- **Week 12**
+- **Week 11 – Deliverable 09 HTML** – This week we continued our exploration into CSS and applied a CSS reset and introduced a few media queries. Save this as version 7/8.
+
+- **Week 12 – Deliverable 09 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your Hello World page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. 
