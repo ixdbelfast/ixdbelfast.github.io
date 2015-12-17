@@ -24,13 +24,13 @@ authors:
     email: p.mccormack@ulster.ac.uk
     web: http://pixelpaper.github.io
     twitter: https://twitter.com/eleventhirty
-  tim:
-    name: Tim Potter
-    avatar: https://avatars1.githubusercontent.com/u/5586584?s=400
-    position: Associate Lecturer
-    email: tej.potter@ulster.ac.uk
-    web: http://timpotter.github.io
-    twitter: https://twitter.com/tejpotter
+  kyle:
+    name: Dr Kyle Boyd
+    avatar: https://pbs.twimg.com/profile_images/477017698761990144/s779Nozc_400x400.jpeg
+    position: Lecturer
+    email: ka.boyd@ulster.ac.uk
+    web: http://www.kyleboyd.co.uk
+    twitter: https://twitter.com/kylbyd
 
 # Google Analytics
 ua: "51233441-1"
