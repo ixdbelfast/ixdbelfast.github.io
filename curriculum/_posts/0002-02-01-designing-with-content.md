@@ -8,6 +8,7 @@ semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Creative Entrepreneurship
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD303/
 ---
 
 ##Rationale
