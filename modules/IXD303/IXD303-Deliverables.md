@@ -27,7 +27,13 @@ Deliverable 2 (60%)
 ------------------
 
 ###Elements Website
-Details on the requirements for this will be added in Week 03
+The [Periodic Table](http://www.rsc.org/periodic-table) as we know, is a table of the chemical elements arranged in order of atomic number, so that elements with similar atomic structure appear in vertical columns.
+
+There is an obvious order to this content but, as designers, there is no real reason why we cannot look at this existing order and present alternative arrangements. The results may not be viable, but as designers we sometimes have to question the status quo.
+
+This project will ask you to look at the content of the periodic table from the micro packets of information in each cell on the periodic table to the wider range of content when looking at the details of each element. 
+
+
 
 ---
 
