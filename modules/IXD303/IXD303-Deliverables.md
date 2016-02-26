@@ -36,8 +36,8 @@ This project will ask you to look at the content of the periodic table from the 
 ####Project requirements
 To cover everything required of this projects you should submit:
 - A branded homepage containing your version of the periodic table<sup>*</sup>
-- *At least* five additional element pages aimed at the 12–14 year old audience.
-- *At least* one element page aimed at undegraduate chemistry sudent.
+- *At least five* additional element pages aimed at the 12–14 year old audience.
+- *At least one* element page aimed at undegraduate chemistry sudent.
 - A [style guide](http://styleguides.io)
 
 <sup>*</sup>If your version of the Periodic Table is too difficult to create with simple markup and CSS you can present your final design as a static image. You can add individual, linked, elements below for access to the additional pages.
