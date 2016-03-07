@@ -545,7 +545,7 @@ ul.links {
   .two,
   .one {
     width: 100%; }
-
+    
   ul.links li {
     width: 100%;
     display: block;
@@ -590,6 +590,38 @@ ul.links {
 @media only screen and (min-width: 700px) and (max-height: 600px) {
   body {
     margin-top: 440px; } }
+
+/* PORTFOLIO PAGE
+------------------------------------------------------------------------------------------------------------------------------------------- */
+
+
+
+.portfolio ul {
+  position: relative;
+  margin: 0 0 30px;
+  padding: 0;
+  list-style-type: none; }
+
+ .portfolio li {
+    font-weight: 400;
+    display: block;
+    margin: 10px 0; }
+    
+  .portfolio  a {
+    text-decoration: none;}
+
+.year-one {
+  width: 25%; }
+
+.year-two {
+  width: 25%; }
+
+.year-three {
+  width: 25%; }
+
+.year-four {
+  width: 25%; }
+
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 @media screen and (max-width: 860px) {
@@ -651,7 +683,12 @@ ul.links {
     width: 1.5em;
     height: 0.225em;
     background: white;
-    box-shadow: 0 0.60em 0 0 white, 0 1.2em 0 0 white; } }
+    box-shadow: 0 0.60em 0 0 white, 0 1.2em 0 0 white; } 
+    
+   .year-one, .year-two, .year-three, .year-four {
+       width: 100%; } }
+
+
 @media screen and (min-width: 860px) {
   .js .nav-collapse {
     position: relative; }
