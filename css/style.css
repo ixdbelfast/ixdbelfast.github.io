@@ -685,8 +685,8 @@ ul.links {
     background: white;
     box-shadow: 0 0.60em 0 0 white, 0 1.2em 0 0 white; } 
     
-   .year-one, .year-two, .year-three, .year-four {
-       width: 100%; } }
+  /* .year-one, .year-two, .year-three, .year-four {
+       width: 100%; } } */
 
 
 @media screen and (min-width: 860px) {
@@ -698,3 +698,17 @@ ul.links {
 
   .nav-toggle {
     display: none; } }
+
+/*   CONTROLLING COLUMNS IN /PORTFOLIO/ FOR TABLET AND SMARTPHONE ------------------------------------------------------------------------------------------------------------------------------------------ */  
+    
+@media (max-width: 52em) {
+    
+    .year-one, .year-two, .year-three, .year-four {
+       width: 50%; }   
+    }
+
+@media (max-width: 30em) {
+    
+    .year-one, .year-two, .year-three, .year-four {
+       width: 100%; } 
+    }
