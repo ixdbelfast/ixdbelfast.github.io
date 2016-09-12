@@ -2,9 +2,9 @@
 layout: module
 title:  Designing User Experiences
 excerpt: This module looks beyond the technical ‘how’ of interaction design and explores questions relating to ‘why’. Starting with users and their needs, the module investigates the experiential aspects and emotional perception of the things we create as designers, drawing from the work of Don Norman, Jakob Nielsen, Bruce Tognazzini and other human computer interaction (HCI) experts.
-code: IXD301
+code: IXD303
 year: 2
-semester: 1
+semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites:  Narrative and Storytelling
