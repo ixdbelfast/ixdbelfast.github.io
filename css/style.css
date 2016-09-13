@@ -385,7 +385,7 @@ footer {
 p.date {
   float: right;
   clear: both;
-  margin-top: -30px; }
+  /* margin-top: -30px; */}
 
 .timetable .group {
   border-top: 1px solid #ccc;
