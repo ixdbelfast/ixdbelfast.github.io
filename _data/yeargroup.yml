@@ -1,5 +1,7 @@
-year2:
+year1:
   - link:
+    - name: "Lindsey Brown"
+      url: "http://libersword.tumblr.com"
     - name: "Jordan Earle"
       url: "http://jordanearle.tumblr.com"
     - name: "Oliver Gage"
@@ -43,7 +45,7 @@ year2:
     - name: "Leah Smyth"
       url: "http://leahpsmyth.tumblr.com"
 
-year3:
+year2:
   - link:
     - name: "Nathan Wilson"
       url: "http://helpfulwilson.com/"
@@ -60,6 +62,9 @@ year3:
     - name: "Hayley Gregg"
       url: "http://hayleygregg.com/"
       twitter: "hayleyygregg"
+    - name: "Josh Toan"
+      url: "http://joshtoan.com/"
+      twitter: "joshtoan"
     - name: "Inga Hampton"
       url: "http://ingahampton.com/"
       twitter: "Inga_Hampton"
@@ -69,6 +74,9 @@ year3:
     - name: "Kelsey Bones"
       url: "http://kelseybones.co.uk/"
       twitter: "kelseybones"
+    - name: "Scott McNab"
+      url: "http://scottmcnab.design/"
+      twitter: "_scottmcn"
     - name: "Aine O’Hagan"
       url: "http://aineohdesign.com/"
       twitter: "aine_ohagan"
@@ -88,11 +96,4 @@ year3:
       url: "http://poppygamble.com"
       twitter: "poppygamble"
 
-year4:
-  - link:
-    - name: "Scott McNab"
-      url: "http://scottmcnab.design/"
-      twitter: "_scottmcn"
-    - name: "Josh Toan"
-      url: "http://joshtoan.com/"
-      twitter: "joshtoan"
+
