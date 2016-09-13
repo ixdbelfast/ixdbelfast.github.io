@@ -11,7 +11,7 @@ corequisites:  Narrative and Storytelling
 github: https://github.com/fehler/lectures/blob/master/IXD301/IXD301.md
 ---
 
-##Rationale
+## Rationale
 
 This module looks beyond the technical ‘how’ of interaction design and explores questions relating to ‘why’. Starting with users and their needs, the module investigates the experiential aspects and emotional perception of the things we create as designers, drawing from the work of Don Norman, Jakob Nielsen, Bruce Tognazzini and other human computer interaction (HCI) experts.
 
@@ -22,7 +22,7 @@ Students are introduced to: user personas, based upon user research and structur
 Using a carefully considered approach, we put people at the heart of the design process, ensuring that students understand the importance of designing for real people with real needs.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -34,7 +34,7 @@ The essential aims of this module are:
 + To emphasise the importance of an iterative design process based on usability testing and user feedback. 
 
 
-##Content
+## Content
 
 This module introduces students to the importance of placing users at the heart of the design process. Through a series of practical, hands-on workshops, students are introduced to the importance of developing a user-centred approach to design.
 
@@ -53,9 +53,9 @@ Indicative lecture content includes:
 + Experiences That Linger in the Memory
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Bowles, C. and Box, J., 2010. [Undercover User Experience Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0321719905/monographic-21) San Francisco: Voices That Matter.
 + Walter, A., 2011. [Designing for Emotion](http://www.abookapart.com/products/designing-for-emotion) New York: A Book Apart.
@@ -63,7 +63,7 @@ Indicative lecture content includes:
 + Buxton, Bill., 2007. [Sketching User Experiences: Getting the Design Right and the Right Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0123740371/monographic-21) Massachusetts: Morgan Kaufmann.
 
 
-###Recommended
+### Recommended
 
 + Norman, D., 1998. [The Design of Everyday Things.](http://www.amazon.co.uk/exec/obidos/ASIN/0262640376/monographic-21) Massachusetts: The MIT Press.
 + Moggridge, B., 2006. [Designing Interactions.](http://www.amazon.co.uk/exec/obidos/ASIN/0262134748/monographic-21) Massachusetts: The MIT Press.

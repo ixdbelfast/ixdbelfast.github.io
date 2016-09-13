@@ -10,7 +10,7 @@ delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Design Presentation and Reporting
 ---
 
-##Rationale
+## Rationale
 
 This module focuses on equipping students with a combination of skills, centred on the design and build of a sustained piece of coursework, which enables them to showcase what they have learned throughout the entirety of the course. The aim of the module is to highlight the depth and breadth of knowledge students have acquired whilst on the course.
 
@@ -21,7 +21,7 @@ The module allows students to identify and focus on a topic that interests them,
 Through the creation of a substantial piece of work students demonstrate an understanding of both the project management and quality assurance skills needed to work within industry, assisting them in the process of securing employment.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -32,7 +32,7 @@ The essential aims of this module are:
 + To equip students with the skills required to present their work and engage in critical discussion. 
 
 
-##Content
+## Content
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. Lecture and seminar content are centred on developing students’ understanding of the project development and marketing process, with a focus on learning from international models of excellence.
 
@@ -47,9 +47,9 @@ Indicative lecture content includes:
 + Dealing With the Media
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Knowlton, B., 2012. [A Practical Guide to Managing Web Projects.](http://www.fivesimplesteps.com/products/a-practical-guide-to-managing-web-projects) Penarth: Five Simple Steps.
 + Osterwalder, A., and Pigneur, Y., 2010. [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.](http://www.amazon.co.uk/exec/obidos/ASIN/0470876417/monographic-21) London: John Wiley & Sons.
@@ -58,7 +58,7 @@ Indicative lecture content includes:
 + Murphy, C., 2014. [Talkaboutability.](http://tinybooks.org) Belfast: Tiny Books.
 
 
-###Recommended
+### Recommended
 
 + Long, J., 2013. [Design Evolution.](http://www.fivesimplesteps.com/products/design-evolution) Penarth: Five Simple Steps.
 + Hall, E., 2013. [Just Enough Research.](http://www.abookapart.com/products/just-enough-research) New York: A Book Apart.

@@ -11,7 +11,7 @@ corequisites: Exploring Identity
 github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD104/IXD104.md
 ---
 
-##Rationale
+## Rationale
 
 We’ve been led to believe that a picture is worth a thousand words. This module puts that truism to the test. Exploring non-verbal communication, we introduce students to photographic, illustrative and diagrammatic approaches to communication. Showcasing the power of the image in communication the module equips students with the ability to not only create images, but also brief others’ on how to create images, through the creation of functional mood boards.
 
@@ -20,7 +20,7 @@ The module explores both paper- and screen-based approaches to image creation an
 By asking students to deliver their coursework using digital channels, for example grouping courseworks into Flickr pools, students are also introduced to digital distribution methods and exposed to the various channels they might consider to develop and build their web-based profiles.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -32,7 +32,7 @@ The essential aims of this module are:
 + To visually portray complex data in a clear and intelligible manner. 
 
 
-##Content
+## Content
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. A weekly lecture and seminar programme that is designed to develop a knowledge and understanding of the creation and application of images – photographic, illustrative, and diagrammatic – to interaction design.
 
@@ -52,9 +52,9 @@ Indicative lecture content includes:
 + Meet Edward Tufte
 + Case Study: The Challenger: An Information Disaster
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Suda, B., 2010. [A Practical Guide to Designing with Data.](https://gumroad.com/l/ArWZ) Penarth: Five Simple Steps.
 + Tufte, E., 2001. [The Visual Display of Quantitative Information.](http://www.amazon.co.uk/exec/obidos/ASIN/0961392142/monographic-21) 2nd ed. Cheshire, CT: Graphics Press.
@@ -62,7 +62,7 @@ Indicative lecture content includes:
 + Ingledew, J., 2011. [The A - Z of Visual Ideas: How to Solve any Creative Brief.](http://www.amazon.co.uk/exec/obidos/ASIN/1856697142/monographic-21) London: Laurence King.
 
 
-###Recommended
+### Recommended
 
 + McCandless, D., 2010. [Information is Beautiful.](http://www.amazon.co.uk/exec/obidos/ASIN/0007492898/monographic-21) London: Collins.
 + Lima, M., 2011. [Visual Complexity: Mapping Patterns of Information.](http://www.amazon.co.uk/exec/obidos/ASIN/1616892196/monographic-21) Princeton: Princeton Architectural Press.

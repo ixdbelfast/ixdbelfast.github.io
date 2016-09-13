@@ -11,7 +11,7 @@ corequisites: Designing With Content
 github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD304
 ---
 
-##Rationale
+## Rationale
 
 This module introduces students to the ideas and principles, which underpin creative entrepreneurship, placing a heavy focus on the emerging and rapidly growing field of digital product design.
 
@@ -22,7 +22,7 @@ Through a series of interconnected lectures, seminars and workshops, students ar
 In addition to providing students with a holistic understanding of the nature of entrepreneurship, the module also introduces fundamental product and business-focused content, including: idea generation; market research; intellectual property (IP); business support networks and funding applications; pricing models; time management; and presentation and pitching skills.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -34,7 +34,7 @@ The essential aims of this module are:
 + To demonstrate skills in written and verbal communication.
 
 
-##Content 
+## Content 
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. The lecture programme covers the wide range of theories and tools that the contemporary digital entrepreneur’s needs. Using Alexander Osterwalder and Yves Pigneur’s _Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers_ we introduce the students to the fundamental stages involved in building a successful business.
 
@@ -53,9 +53,9 @@ Indicative lecture content includes:
 + Presentation Skills
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Osterwalder, A., and Pigneur, Y., 2010. [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers.](http://www.amazon.co.uk/exec/obidos/ASIN/0470876417/monographic-21) London: John Wiley & Sons.
 + Drucker, P., 2008. [Managing Oneself.](http://www.amazon.co.uk/exec/obidos/ASIN/142212312X/monographic-21) Harvard: Harvard Business Review Classics.
@@ -63,7 +63,7 @@ Indicative lecture content includes:
 + Ries, E., 2011. [The Lean Startup: How Constant Innovation Creates Radically Successful Businesses.](http://www.amazon.co.uk/exec/obidos/ASIN/0670921602/monographic-21) London: Portfolio Penguin.
 	
 	
-###Recommended
+### Recommended
 
 + Anderson, C., 2009. [The Longer Long Tail: How Endless Choice is Creating Unlimited Demand.](http://www.amazon.co.uk/exec/obidos/ASIN/1847940366/monographic-21) London: Random House Business.
 + Godin, S., 2007. [Small Is the New Big: And 183 Other Riffs, Rants, and Remarkable Business Ideas.](http://www.amazon.co.uk/exec/obidos/ASIN/0141030534/monographic-21) London: Penguin.

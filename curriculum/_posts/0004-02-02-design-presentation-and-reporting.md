@@ -10,7 +10,7 @@ delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Major Project
 ---
 
-##Rationale
+## Rationale
 
 Design Presentation and Reporting equips students with the skills – both written and verbal – to confidently articulate their ideas, pitching them to an audience in a manner that is both reasoned and persuasive.
 
@@ -19,7 +19,7 @@ The module allows students to expand upon their research skills to further a dee
 The module, which is tightly coupled with the Major Project module, is intended to enable students to develop the pitching skills necessary to present their ideas in an industry context. Equipping them with the abilities required to do this, students make a formal structured presentation that sets out the rationale, analysis, conclusions and critical appraisal of their Major Project.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -29,7 +29,7 @@ The essential aims of this module are:
 + To develop students’ formal presentation abilities, equipping them with the personal qualities required to pitch ideas confidently.
 
 
-##Content
+## Content
 
 Students are supported through a comprehensive lecture and seminar programme that equips them with the skills needed to confidently articulate their thinking, both verbally and in supporting written form. Lecture content is geared towards equipping students with an understanding of how to support and make an argument in a persuasive manner, whether verbal or written.
 
@@ -45,9 +45,9 @@ Indicative lecture content includes:
 + Taking the Presentation Online
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Bayley, S. and Mavity, R., 2008. [Life’s a Pitch.](http://www.amazon.co.uk/exec/obidos/ASIN/0552156833/monographic-21) London: Corgi.
 + Duarte, N., 2012. [HBR Guide to Persuasive Presentations.](http://www.amazon.co.uk/exec/obidos/ASIN/1422187101/monographic-21) Harvard: Harvard Business Review.
@@ -55,7 +55,7 @@ Indicative lecture content includes:
 + Murphy, C., 2014. [Don’t Die On Stage.](https://github.com/fehler/books) Belfast: Uncommon Knowledge.
 
 
-###Recommended
+### Recommended
 
 + Duarte, N., 2008. [slide:ology: The Art and Science of Creating Great Presentations.](http://www.amazon.co.uk/exec/obidos/ASIN/0596522347/monographic-21) San Francisco: O’Reilly Media.
 + Berkun, S., 2011. [Confessions of a Public Speaker.](http://www.amazon.co.uk/exec/obidos/ASIN/B002VL1CGM/monographic-21) San Francisco: O’Reilly Media.

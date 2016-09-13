@@ -11,7 +11,7 @@ corequisites: Imaging and Data Visualisation
 github: https://github.com/fehler/lectures/tree/master/IXD103
 ---
 
-##Rationale
+## Rationale
 
 Exploring aspects of iconography, branding, and visual identity, this practice-based module investigates how design considers issues of character and personality and how these can be communicated graphically. By introducing students to core software packages (Photoshop, Illustrator…) students develop the skills required to realise their ideas using industry standard software, equipping students with the drawing skills needed to create assets for industry.
 
@@ -20,7 +20,7 @@ Students are introduced to the principles of branding in the widest sense, explo
 This module runs concurrently with the Imaging and Data Visualisation module, which provides students with a broader contextual framework, exploring imagery in a much wider sense, and designed to complement the content of this module.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -31,7 +31,7 @@ The essential aims of this module are:
 + To develop the skills needed to create a range of assets to form the backbone of a comprehensive corporate identity campaign. 
 
 
-##Content
+## Content
 
 This module contains a series of practical, hands-on workshops, which equip students with both a theoretical understanding of iconography and identity, and the skills required to communicate their ideas visually. Paper-based exercises introduce students to the idea of rapid prototyping ideas and ‘thinking through paper’. Computer-based exercises take these sketches and prototypes and develop them further.
 
@@ -54,16 +54,16 @@ Indicative lecture content includes:
 + Case Study: Lufthansa
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Hicks, J., 2011. [The Icon Handbook.](http://www.fivesimplesteps.com/products/the-icon-handbook) Penarth: Five Simple Steps.
 + Mollerup, P., 2013. [Marks of Excellence: The History and Taxonomy of Trademarks.](http://www.amazon.co.uk/exec/obidos/ASIN/0714864749/monographic-21) 2nd ed. London: Phaidon.
 + Murphy, C. and Persson, N., 2013. [The Craft of Words: Part One – Macrocopy.](http://www.fivesimplesteps.com/products/the-craft-of-words) Penarth: Five Simple Steps.
 
 
-###Recommended
+### Recommended
 
 + Neumeier, M., 2011. [The Brand Gap: How to Bridge the Distance Between Business Strategy and Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0321348109/monographic-21) San Francisco: New Riders.
 + Wheeler, A., 2009. [Designing Brand Identity: An Essential Guide for the Whole Branding Team.](http://www.amazon.co.uk/exec/obidos/ASIN/1118099206/monographic-21) London: John Wiley & Sons.

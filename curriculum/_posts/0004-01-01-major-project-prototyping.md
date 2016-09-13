@@ -10,7 +10,7 @@ delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Research and Writing
 ---
 
-##Rationale
+## Rationale
 
 This module focuses on equipping students with the idea generation and prototyping skills required to produce a substantial and challenging body of work for the Major Project module in the following semester. It is intended to form a springboard for the students’ final outcome and is very closely linked to the deliverables of that module.
 
@@ -21,7 +21,7 @@ Through an emphasis on developing iterative prototypes at a range of fidelities 
 A structured lecture programme, coupled with a series of idea generation workshops, paper-prototyping workshops and applied lab sessions, equips students with the skills required to prototype their ideas and test their validity before embarking on the Major Project.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -33,7 +33,7 @@ The essential aims of this module are:
 + To build a series of prototypes that will inform and guide the construction of their Major Project.
 
 
-##Content
+## Content
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. Lecture and seminar content are centred on developing students’ understanding of the idea generation process, with a focus on learning from international models of excellence.
 
@@ -52,9 +52,9 @@ Indicative lecture content includes:
 + Paper- and Digital-Prototyping
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Kelley, T., and Kelley, D., 2013. [Creative Confidence: Unleashing the Creative Potential Within Us All.](http://www.amazon.co.uk/exec/obidos/ASIN/0007517998/monographic-21) London: William Collins.
 + Fried, J., and Heinemeier Hansson, D., 2010. [Rework.](http://www.amazon.co.uk/exec/obidos/ASIN/0091929784/monographic-21) London: Vermilion.
@@ -62,7 +62,7 @@ Indicative lecture content includes:
 + Noble, I. and Bestley, R., 2011. [Visual Research: An Introduction to Research Methodologies in Graphic Design.](http://www.amazon.co.uk/exec/obidos/ASIN/2940411603/monographic-21) 2nd ed. Lausanne: AVA Publishing.
 
 
-###Recommended
+### Recommended
 
 + Kelley, T., 2002. [The Art Of Innovation: Success Through Innovation the IDEO Way.](http://www.amazon.co.uk/exec/obidos/ASIN/186197583X/monographic-21) London: Profile Books.
 + Berkun, S., 2010. [The Myths of Innovation.](http://www.amazon.co.uk/exec/obidos/ASIN/1449389627/monographic-21) San Francisco: O’Reilly Media.

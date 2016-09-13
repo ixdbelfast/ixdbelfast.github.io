@@ -10,7 +10,7 @@ delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Major Project Prototyping
 ---
 
-##Rationale
+## Rationale
 
 This module is intended to consolidate the students’ knowledge and understanding of history and theory, by providing an opportunity for students to generate a body of unique research, tailored to their specialist area.
 
@@ -21,7 +21,7 @@ Students are expected to undertake a substantial piece of writing informed by th
 The module explores a range of research and writing strategies through a series of seminars that identify and explore several key areas of contemporary practice. The emphasis is placed upon evolving the high-level research and writing skills necessary to meet industry’s needs.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -31,7 +31,7 @@ The essential aims of this module are:
 + To develop skills in providing a critique of research performed by others.
 
 
-##Content
+## Content
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. Lecture content adopts a less technology-focused approach, instead focusing on context, including: disruptive pricing models (‘Free’, ‘The Long Tail’); shared creation (‘Wikinomics’); underlying shifts in our industry, for example the shift from service to product; varying startup approaches (‘The Lean Startup’); and the psychology of digital design.
 
@@ -48,16 +48,16 @@ Indicative lecture content includes:
 + Talkaboutability
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Armstrong, H., 2009. [Graphic Design Theory: Readings from the Field.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987722/monographic-21) Princeton: Princeton Architectural Press.
 + Lupton, E. and Abbott Miller, J., 1999. [Design Writing Research: Writing on Graphic Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0714838519/monographic-21) London: Phaidon.
 + Collins, H., 2010. [Creative Research: The Theory and Practice of Research for the Creative Industries.](http://www.amazon.co.uk/exec/obidos/ASIN/2940411085/monographic-21) Lausanne: Ava.
 
 
-###Recommended
+### Recommended
 
 + Truss, L., 2009. [Eats, Shoots and Leaves – The Zero Tolerance Approach to Punctuation.](http://www.amazon.co.uk/exec/obidos/ASIN/0007329067/monographic-21) London: Fourth Estate
 + Crystal, D., 2006. [The Fight for English: How Language Pundits Ate, Shot, and Left.](http://www.amazon.co.uk/exec/obidos/ASIN/B009JCVFIG/monographic-21) Oxford: Oxford University Press.

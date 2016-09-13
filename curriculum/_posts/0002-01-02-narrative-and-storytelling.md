@@ -11,7 +11,7 @@ corequisites: Designing User Experiences
 github: https://github.com/fehler/lectures/blob/master/IXD302/IXD302.md
 ---
 
-##Rationale
+## Rationale
 
 Examining how storytelling can be used to enhance content, this module considers how concepts like art direction, pacing and narrative can be used to control the flow of information. Through the creation of a piece of narrative web-based content, students are taught the dynamics of design as it unfolds like a story, across frames and over time.
 
@@ -22,7 +22,7 @@ We explore the importance of separating the ‘behaviour layer’ (introducing a
 The module explores both macro-interactions (how we move through content at a storytelling level) and micro interactions (how we design detailed interactions, for example, pressing a button). The intention is to explore the potentially rich ways in which we can use transitions and animations to connect content and tell stories in new and exciting ways.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -35,7 +35,7 @@ The essential aims of this module are:
 + To draw together a series of macro- and micro- prototypes to create a finished, cohesive piece.
 
 
-##Content 
+## Content 
 
 Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. The lecture programme is based on specific topics associated with narrative and storytelling. Key figures and contemporary practices are presented in each lecture, examining how a story unfolds over time and the methodology used to control the flow of information.
 
@@ -57,9 +57,9 @@ Indicative lecture content includes:
 + Transitions
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + McCloud, Scott, 1994. [Understanding Comics: The Invisible Art.](http://www.amazon.co.uk/exec/obidos/ASIN/006097625X/monographic-21) London: HarperCollins.
 + Mills, Robert, 2012. [A Practical Guide to Designing the Invisible.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-the-invisible) Penarth: Five Simple Steps.
@@ -67,7 +67,7 @@ Indicative lecture content includes:
 + Murphy, C. and Persson, N., 2013. [The Craft of Words: Part Two - Microcopy.](http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy) Penarth: Five Simple Steps.
 	
 	
-###Recommended
+### Recommended
 
 + Duckett, J., 2014. [JavaScript & JQuery: Interactive Front-end Web Development.](http://www.amazon.co.uk/exec/obidos/ASIN/1118531647/monographic-21)
 London: John Wiley & Sons.

@@ -24,7 +24,7 @@ Students undertake a series of exercises, which include: identifying content typ
 In short, the module prepares the student for the contemporary challenges facing interaction designers working in a brave new world of content in all its manifest forms.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -37,7 +37,7 @@ The essential aims of this module are:
 + To build a working example of how content is stored, retrieved, and edited on the web.
 
 
-##Content
+## Content
 
 This module focuses on equipping students with an understanding of how content can be shaped as a core part of the design process. Students are supported through a weekly lecture programme, coupled with practical exercises, that are designed to broaden their knowledge and understanding of what content is, where it might come from, and how it might be designed.
 
@@ -57,16 +57,16 @@ Indicative lecture content includes:
 + Putting it all Together
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Kissane, E., 2011. [The Elements of Content Strategy](http://www.abookapart.com/products/the-elements-of-content-strategy) New York: A Book Apart.
 + Murphy, C. and Persson, N., 2013. [The Craft of Words: Part One - Macrocopy.](http://www.fivesimplesteps.com/products/the-craft-of-words) Penarth: Five Simple Steps.
 + Murphy, C. and Persson, N., 2013. [The Craft of Words: Part Two - Microcopy.](http://www.fivesimplesteps.com/products/the-craft-of-words-microcopy) Penarth: Five Simple Steps.
 
 
-###Recommended
+### Recommended
 
 + McGrane, K., 2012. [Content Strategy for Mobile](http://www.abookapart.com/products/content-strategy-for-mobile) New York: A Book Apart.
 + Powers, D., 2010. [PHP Solutions: Dynamic Web Design Made Easy .](http://www.amazon.co.uk/exec/obidos/ASIN/1430232498/monographic-21) Berkeley: friends of ED.
