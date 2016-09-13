@@ -4,19 +4,19 @@ title: Student Portfolios
 id: portfolios
 permalink: /portfolios/
 ---
-  
+
     <h1>{{ page.title }}</h1>
 
 
   <div class="portfolio year-groups">
-    <section class="year-one left">
+    <section class="year-one quarter left">
         <h4>Year 1</h4>
         <p>No students enrolled</p>
       </section>
-      
+
 <!---------------------- /.year one ------------------------->
 
-      <section class="year-two left">
+      <section class="year-two quarter left">
         <h4>Year 2</h4>
         {% for main in site.data.yeargroup.year2 %}
         <ul>
@@ -33,7 +33,7 @@ permalink: /portfolios/
 
 <!---------------------- /.year two ------------------------->
 
-      <section class="year-three left">
+      <section class="year-three quarter left">
         <h4>Year 3</h4>
    {% for main in site.data.yeargroup.year3 %}
         <ul>
@@ -50,7 +50,7 @@ permalink: /portfolios/
 
 <!---------------------- /.year three ------------------------->
 
-      <section class="year-four right">
+      <section class="year-four quarter left">
         <h4>Year 4</h4>
           {% for main in site.data.yeargroup.year4 %}
         <ul >
@@ -66,6 +66,5 @@ permalink: /portfolios/
       </section>
 
 <!---------------------- /.year four ------------------------->
-      
+
     </div>
-    

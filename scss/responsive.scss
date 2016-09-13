@@ -24,10 +24,15 @@ header .logo {
 	}
 
 .two,
-.one {
+.one,
+.third,
+.half {
 	width: 100%;
 	}
 
+.quarter {
+	width: 50%;
+}
 ul.links li {
 	width: 100%;
 	display: block;
