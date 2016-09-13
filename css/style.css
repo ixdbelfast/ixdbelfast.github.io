@@ -589,6 +589,9 @@ ul.links {
       background: #3498DB; }
     header .nav-collapse {
       margin-bottom: 30px; }
+    
+  .portfolio ul {
+    list-style: none; }
 
   .module {
     width: 100%; } }
