@@ -12,7 +12,7 @@ github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/I
 
 ---
 
-##Rationale
+## Rationale
 
 In this module we introduce students to the history of communication design. Starting with imagined communication devices of the future (Minority Report, Prometheus…) we rewind, in a single lecture, to the era of cave painting (Lascaux, Chauvet…), demonstrating the connections that bind human communication together.
 
@@ -23,7 +23,7 @@ Students are introduced to version control systems, and are assisted in establis
 The module is intended to introduce students to fundamental study skills, ensuring their transition into university education is managed and phased. The module introduces study skills exercises and embraces group projects to help students build a sense of community.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -34,7 +34,7 @@ The essential aims of this module are:
 + To introduce students to the idea of version control (Git, Subversion…), enabling them to work as part of a team, tracking different team members’ contributions.
 
 
-##Content
+## Content
 
 This module equips students with a comprehensive understanding of the history of communication design. Through a series of connected lectures, students are introduced to the breadth and depth of communication approaches, intended to inform their practical work.
 
@@ -56,15 +56,15 @@ Indicative lecture content includes:
 + Fictional User Interfaces and Beyond
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Meggs, P. and Purvis, A., 2011. [History of Graphic Design.](http://www.amazon.co.uk/exec/obidos/ASIN/0470168730/monographic-21) 5th ed. London: John Wiley & Sons.
 + Eskilson, S., 2012. [Graphic Design: A New History.](http://www.amazon.co.uk/exec/obidos/ASIN/1856695115/monographic-21) 2nd ed. London: Laurence King.
 
 
-###Recommended
+### Recommended
 
 + Livingston, A. and Livingston, I., 2012. [The Thames & Hudson Dictionary of Graphic Design and Designers](http://www.amazon.co.uk/exec/obidos/ASIN/0500204136/monographic-21) 3rd ed. London: Thames & Hudson.
 + Newark, Q., 2007. [What is Graphic design? (Graphic Design for the Real World).](http://www.amazon.co.uk/exec/obidos/ASIN/2940361878/monographic-21) Hove: RotoVision.
