@@ -1,7 +1,7 @@
 /* RESPONSIVE NAV
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 
-@media screen and (max-width:860px) {
+@media screen and (max-width:980px) {
 
 .nav-collapse {
   width: 95%;
@@ -74,14 +74,14 @@ a.nav-toggle {
    width: 1.5em;
   height: 0.225em;
   background: white;
-  box-shadow: 
+  box-shadow:
     0 0.60em 0 0 white,
     0 1.2em 0 0 white;
 }
 
 }
 
-@media screen and (min-width: 860px) {
+@media screen and (min-width: 980px) {
 
 .js .nav-collapse {
   position: relative;

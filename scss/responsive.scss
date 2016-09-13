@@ -2,12 +2,9 @@
 
 header {
 
-	nav {
-		width: 65%;
-		}
-
 	h1 {
 		width: 35%;
+		position: relative;
 		}
 	}
 
@@ -36,7 +33,7 @@ ul.links li {
 	display: block;
 	clear: both;
 	padding: 10px 0;
-	margin:0;	
+	margin:0;
 	}
 
 .timetable {
@@ -45,7 +42,7 @@ ul.links li {
 		padding: 20px 0;
 		}
 	.day,
-	.time, 
+	.time,
 	.class {
 		width: 100%;
 		position: relative;
