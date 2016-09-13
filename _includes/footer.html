@@ -25,14 +25,14 @@
 
   <h4>Contact</h4>
   <ul class="links">
-    
+
     <li class="email"><a href="mailto:{{ site.email }}">Send us an Email</a></li>
     <li class="twitter"><a href="http://twitter.com/{{ site.social }}">Follow us on Twitter</a></li>
     <li class="github"><a href="http://github.com/{{ site.social }}/ixdbelfast.github.io/tree/master/curriculum/_posts">#opencurriculum on GitHub</a></li>
-    
+
   </ul>
 
-      <small>The contents of this website are &copy; 2014 IxD Belfast under the terms of the MIT License. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and hosted by <a href="https://github.com">GitHub</a></small>
+      <small>The contents of this website are &copy; {{ site.time | date: '%Y' }} IxD Belfast under the terms of the MIT License. Powered by <a href="http://jekyllrb.com/">Jekyll</a> and hosted by <a href="https://github.com">GitHub</a></small>
 
   </div>
 
@@ -71,4 +71,3 @@ $(function() {
   ga('create', 'UA-{{ site.ua }}', '{{ site.url }}');
   ga('send', 'pageview');
 </script>
-
