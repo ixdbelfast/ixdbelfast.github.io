@@ -11,20 +11,10 @@ permalink: /portfolios/
   <div class="portfolio year-groups">
     <section class="year-one left">
         <h4>Year 1</h4>
-
-        {% for main in site.data.yeargroup.year1 %}
-        <ul >
-          {% assign sorted_links = (main.link | sort: 'name') %}
-          {% for item in sorted_links %}
-          <li>
-            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
-          </li>
-          {% endfor %}
-        </ul>
-        {% endfor %}
+        <p>No students enrolled</p>
       </section>
-      <!-- /.year one -->
+      
+<!---------------------- /.year one ------------------------->
 
       <section class="year-two left">
         <h4>Year 2</h4>
@@ -40,20 +30,42 @@ permalink: /portfolios/
         </ul>
         {% endfor %}
       </section>
-      <!-- /.year two -->
+
+<!---------------------- /.year two ------------------------->
 
       <section class="year-three left">
         <h4>Year 3</h4>
-
-        <p>No students enrolled</p>
+   {% for main in site.data.yeargroup.year3 %}
+        <ul>
+          {% assign sorted_links = (main.link | sort: 'name') %}
+          {% for item in sorted_links %}
+          <li>
+            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
       </section>
-      <!-- /.year three -->
+
+<!---------------------- /.year three ------------------------->
 
       <section class="year-four right">
         <h4>Year 4</h4>
-
-        <p>No students enrolled</p>
+          {% for main in site.data.yeargroup.year4 %}
+        <ul >
+          {% assign sorted_links = (main.link | sort: 'name') %}
+          {% for item in sorted_links %}
+          <li>
+            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
       </section>
-      <!-- /.year four -->
+
+<!---------------------- /.year four ------------------------->
+      
     </div>
     
