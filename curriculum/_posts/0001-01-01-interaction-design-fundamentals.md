@@ -2,7 +2,7 @@
 layout: module
 title:  Interaction Design Fundamentals
 excerpt: Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry.
-code: IXD101 
+code: IXD101
 year: 1
 semester: 1
 credits: 40
@@ -11,16 +11,16 @@ corequisites: Introduction to Communication Design
 github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD101/IXD101.md
 ---
 
-##Rationale
+## Rationale
 
-Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry. 
+Placing a heavy emphasis on a design-focussed approach towards interaction design, this module introduces the fundamentals of the craft of communication design, both off- and on-screen. Through a combination of core analogue (drawing, making) and digital (HTML, CSS) skills, students are equipped with the tools required to practice in today’s interaction design industry.
 
 A twin-stranded module, Design Practice Fundamentals is delivered both off-screen and on-screen, to introduce students embarking on the course to the idea that interaction design can, and should, be developed off-screen as well as on-screen. Paper-based exercises introduce students to fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. Complimenting these studio sessions, lab sessions ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
 This module runs concurrently with the Introduction to Communication Design history and theory module, which provides students with a contextual framework that is designed to complement the practical nature of this module.
 
 
-##Aims
+## Aims
 
 The essential aims of this module are:
 
@@ -31,7 +31,7 @@ The essential aims of this module are:
 + To ensure students understand the principle of ‘learning how to learn’ and begin to develop their own awareness and toolsets proactively.
 
 
-##Content
+## Content
 
 This module contains a series of practical, hands-on workshops, which enable students to fully explore the foundational principles of interaction design, both off- and on-screen. Paper-based exercises introduce students to fundamental communication design principles, including those developed at the Bauhaus, Ulm School of Design and beyond. Computer-based exercises introduce students to the core languages (HTML5 and CSS3) required to understand web standards.
 
@@ -54,9 +54,9 @@ Indicative lecture content includes:
 + Responsive Foundations
 
 
-##Reading List
+## Reading List
 
-###Required
+### Required
 
 + Lupton, E. and Cole Phillips, J., 2008. [Graphic Design: The New Basics.](http://www.amazon.co.uk/exec/obidos/ASIN/1568987021/monographic-21) Princeton: Princeton Architectural Press.
 + Boulton, M., 2010. [A Practical Guide to Designing for the Web.](http://www.fivesimplesteps.com/products/a-practical-guide-to-designing-for-the-web) Penarth: Five Simple Steps.
@@ -65,7 +65,7 @@ Indicative lecture content includes:
 + Cederholm, D., 2010. [CSS3 For Web Designers.](http://www.abookapart.com/products/css3-for-web-designers) New York: A Book Apart.
 
 
-###Recommended
+### Recommended
 
 + Lupton, E., 2010. [Thinking with Type: A Critical Guide for Designers, Writers, Editors and Students.](http://www.amazon.co.uk/exec/obidos/ASIN/1568989695/monographic-21) 2nd ed. Princeton: Princeton Architectural Press.
 + Lidwell, W., Holden, K. and Butler, J., 2010. [Universal Principles of Design.](http://www.amazon.co.uk/exec/obidos/ASIN/1592535879/monographic-21) 2nd ed. Rockport Publishers.
@@ -82,7 +82,3 @@ https://medium.com/education-learning/6231db25bb8e
 It's also worth looking at the Medium stats when we do this. Articles that are around a five minute read are twice as likely to be read as articles that are a ten minute read. Keep the accompanying articles tightly focused.
 
 -->
-
-
-
-
