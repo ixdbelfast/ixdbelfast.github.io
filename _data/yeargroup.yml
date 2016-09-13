@@ -1,7 +1,5 @@
 year2:
   - link:
-    - name: "Lindsey Brown"
-      url: "http://libersword.tumblr.com"
     - name: "Jordan Earle"
       url: "http://jordanearle.tumblr.com"
     - name: "Oliver Gage"
@@ -90,7 +88,7 @@ year3:
       url: "http://poppygamble.com"
       twitter: "poppygamble"
       
-  year4:
+year4:
   - link:
     - name: "Scott McNab"
       url: "http://scottmcnab.design/"
