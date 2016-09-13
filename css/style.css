@@ -383,14 +383,14 @@ footer {
 /* TIMETABLE
 ------------------------------------------------------------------------------------------------------------------------------------------ */
 h2.year {
-   margin-top: 30px;
-   border-top: 1px solid #ccc;
+   margin-top: 50px;
+   border-top: 2px solid #ccc;
 }
 
 p.date {
   float: right;
   clear: both;
-  margin-top: -30px; }
+  margin-top: -40px; }
 
 .timetable .group {
   border-top: 1px solid #ccc;
