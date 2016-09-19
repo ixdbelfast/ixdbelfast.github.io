@@ -34,4 +34,4 @@ Deliverable 2 - Master-Apprentice: Responsive Storytelling (40%)
 
 We are expecting a number of Master-Apprentice Lessons, as detailed below. For each deliverable I’ve supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
 
-[Details of the Master Apprentice Lessons Here]()
+[Details of the Master Apprentice Lessons Here](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD302/IXD302-Master-Apprentice-Responsive-Storytelling.md)
