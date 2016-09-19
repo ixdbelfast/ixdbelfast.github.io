@@ -39,12 +39,6 @@ Originally developed in 2010 for A List Apart, to accompany Ethan's article [Res
 
 As a practising designer – who wears both industry and academic hats – I wanted to offer a small hat tip to Ethan, a good friend, and 'Heroes and Villains' seemed like a lovely way to do that.
 
-Seeking Ethan's permission, he stated:
-
-> INSERT ETHAN'S QUOTE HERE
-
-/* Close it out here. */
-
 
 Lesson 1: HTML and Semantics
 ----------------------------
