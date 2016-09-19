@@ -11,7 +11,7 @@ corequisites: Creative Entrepreneurship
 github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD301/IXD301.md
 ---
 
-##Rationale
+## Rationale
 
 This module explores the importance of considering content – in all its forms – as a core element of any piece of interaction design that can, itself, be designed. As content strategist Karen McGrane puts it: “Well-structured content is the backbone and starting point of all successful web designs and user interactions.” Through an emphasis on developing strategic approaches to content and its generation, students are introduced to additional possible career pathways, including that of the content strategist.
 
