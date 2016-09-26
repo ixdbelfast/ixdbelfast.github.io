@@ -1,5 +1,5 @@
 ##Deliverable 01 - Type Specimen Poster (25%)
-Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
+<!--  Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
 
 - Jenson
 - Bembo
@@ -81,4 +81,4 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Marian Bantjes
 - Jessica Hische 
 
-Your essay should be uploaded to your GitHub site / Workspace by 11:00am Friday 8th January 2016.
+Your essay should be uploaded to your GitHub site / Workspace by 11:00am Friday 8th January 2016. -->
