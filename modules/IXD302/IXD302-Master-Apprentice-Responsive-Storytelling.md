@@ -79,7 +79,7 @@ Using what you learned from the first exercise, mark up the Baker Street copy su
 
 ---- 
 
-
+<!---
 
 Lesson 2: Art Direction and Element Collages
 --------------------------------------------
@@ -280,7 +280,7 @@ Using one of the following create one map of the location of Sherlock Holmes Bak
 FIN
 ----------
 
-
+<!---
 
 
 
