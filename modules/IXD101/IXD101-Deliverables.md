@@ -8,7 +8,7 @@ This page is designed to give you a clear breakdown of the deliverables expected
 ##Week 01-06 Paper 
 Paper-based exercises introduce fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond.  
 
-- **Week 02 - Deliverable 01 Dot** - Along with your paper exercises working with 1, 2, 3, 5 and 50 dots this weeks deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.
+<!-- - **Week 02 - Deliverable 01 Dot** - Along with your paper exercises working with 1, 2, 3, 5 and 50 dots this weeks deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.
 
 - **Week 03 - Deliverable 02 Line** - Along with your paper exercises working with 1, 2, 3, 5 and 50 lines this weeks deliverable is to create a background screen for your laptop using nothing but lines. Again, try to avoid colour as much as possible.  
 
@@ -41,4 +41,4 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 
 - **Week 11 – Deliverable 10 HTML** – This week we continued our exploration into CSS and applied a CSS reset and introduced a few media queries. Save this as version 7/8.
 
-- **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your **Hello World** page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. 
+- **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your **Hello World** page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. -->
