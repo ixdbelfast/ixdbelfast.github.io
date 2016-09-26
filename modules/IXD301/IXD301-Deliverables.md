@@ -3,11 +3,11 @@ IXD301 Deliverables
 
 This page is designed to give you a clear breakdown of the deliverables expected for the module. There are five deliverables:
 
-Deliverable 1 - Portfolio Website 
-Deliverable 2 - Elements Website 
-Deliverable 3 - Masterclass: Micro-Publications
-Deliverable 4 - Masterclass (Orchestrating Content)
-Deliverable 5 – Research and Discovery 
++ Deliverable 1 - Portfolio Website 
++ Deliverable 2 - Elements Website 
++ Deliverable 3 - Masterclass: Micro-Publications
++ Deliverable 4 - Masterclass (Orchestrating Content)
++ Deliverable 5 – Research and Discovery 
 
 This module will focus on content in all its forms and will give students a thorough understanding of how to structure and manage content in both a theoretical and practical sense.
 
