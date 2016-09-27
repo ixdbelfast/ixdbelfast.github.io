@@ -26,8 +26,6 @@ year1:
       url: ""
     - name: "Kezie Todd"
       url: ""
-    - name: "Timothy Davidson"
-      url: ""
     - name: "Caoimhe Walsh"
       url: ""
 
@@ -75,6 +73,10 @@ year2:
       url: "http://marksleatorblog.tumblr.com"
     - name: "Leah Smyth"
       url: "http://leahpsmyth.tumblr.com"
+    - name: "Conor Hemphill-Hewitt"
+    - name: "James Morrison"
+    - name: "Andrew McCaughey"
+
 
 year3:
   - link:
