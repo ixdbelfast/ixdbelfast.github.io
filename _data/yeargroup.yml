@@ -1,7 +1,7 @@
 year1:
   - link:
     - name: "Timothy Davidson"
-      url: ""
+      url: "http://timtim-101.tumblr.com/"
     - name: "Eva Garcia"
       url: ""
     - name: "Jordan Gault"
@@ -19,13 +19,13 @@ year1:
     - name: "Clare McElhill"
       url: ""
     - name: "Aoife McLaughlin"
-      url: ""
+      url: "http://ayfa.tumblr.com/"
     - name: "Ross Nelson"
       url: ""
     - name: "Craig Stewart"
       url: ""
     - name: "Kezie Todd"
-      url: ""
+      url: "http://sayskez.tumblr.com/"
     - name: "Caoimhe Walsh"
       url: ""
 
@@ -74,8 +74,11 @@ year2:
     - name: "Leah Smyth"
       url: "http://leahpsmyth.tumblr.com"
     - name: "Conor Hemphill-Hewitt"
+      url: ""
     - name: "James Morrison"
+      url: ""
     - name: "Andrew McCaughey"
+      url: ""
 
 
 year3:
@@ -122,12 +125,12 @@ year3:
     - name: "Poppy Gamble"
       url: "http://poppygamble.com"
       twitter: "poppygamble"
-      
-year4:
-  - link:
     - name: "Scott McNab"
       url: "http://scottmcnab.design/"
       twitter: "_scottmcn"
+      
+year4:
+  - link:
     - name: "Josh Toan"
       url: "http://joshtoan.com/"
       twitter: "joshtoan"
