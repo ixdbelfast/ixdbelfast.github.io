@@ -11,7 +11,17 @@ permalink: /portfolios/
   <div class="portfolio year-groups">
     <section class="year-one quarter left">
         <h4>Year 1</h4>
-        <p>No students enrolled</p>
+        {% for main in site.data.yeargroup.year1 %}
+        <ul>
+          {% assign sorted_links = (main.link | sort: 'name') %}
+          {% for item in sorted_links %}
+          <li>
+            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
       </section>
 
 <!---------------------- /.year one ------------------------->
