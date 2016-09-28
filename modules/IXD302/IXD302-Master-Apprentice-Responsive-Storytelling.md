@@ -50,7 +50,7 @@ Before we do anything we look for meaning. HTML is a design element. Let's not f
 
 /* The first exercise is a worksheet that is supplied. It's A4 and it's downloadable and printable. The idea is the students look at the markup below and identify the elements on the worksheet. */
 
-[Download Worksheet Here](https://www.dropbox.com/s/d8rfu1i7oshb6ej/HTML%20and%20Semantic%20Handout.pdf?dl=0)
+[Download Worksheet Here](https://www.dropbox.com/s/neiesxpaqv4lzg7/HTMLandSemantics.pdf?dl=0)
 
 Download the worksheet and identify the following elements. Note: Markup is a tricky beast and there are many ways of marking up content. Your version may be different to ours, that's OK, as long as you've thought through the decisions you're making.
 
@@ -63,7 +63,7 @@ Bonus: It's debatable whether this page contains an `article` element. We don't 
 
 Using what you learned from the first exercise, mark up the Baker Street copy supplied, focusing on amplifying semantics and meaning:
 
-+ [Heroes and Villains Copy](https://www.dropbox.com/s/z2eor5ywz09y74e/Heroes%20and%20Villans.zip?dl=0)
++ [Heroes and Villains Copy](https://www.dropbox.com/s/k45ek547zsrjmq7/Heroes%20and%20Villans.zip?dl=0)
 
 
 ####Resources
