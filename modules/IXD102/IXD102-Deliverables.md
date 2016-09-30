@@ -6,11 +6,13 @@ I’m looking for a good solid paragraph on each point.
 
 ###Markdown.
 
-Markdown is an incredibly useful way to write and read text that can be converted into structurally valid HTML.
+Markdown is an incredibly useful way to write and read text that can be converted into valid HTML.
 
 Everything you need to know about Markdown can be found on [John Gruber’s](https://twitter.com/gruber?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Daring Fireball](http://daringfireball.net/projects/markdown/) website.
 
-Taking the attached [plain text file] (resources/week01_markdown.zip) and using the jpg as a guide use Markdown to add style.
+Taking the attached [plain text file*] (resources/week01_markdown.zip) and using the jpg as a guide use Markdown to add style to the copy. When complete, take a screen grab of the result and post it to your Tumblr.
+
+*Click download on the next page to access a zipped file for the Markdown exercise.
 
 <!--##Deliverable 01 - Type Specimen Poster
   Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
