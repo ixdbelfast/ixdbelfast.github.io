@@ -1,5 +1,11 @@
-##Deliverable 01 - Type Specimen Poster (25%)
-<!--  Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
+##Week 01 Question.
+
+Watch –  Michael Bierut’s [5 Secrets From 86 Notebooks](http://99u.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks) and write your thoughts on each of the five points. Try to aim for around 300–500 words (ot more if you need).
+
+I’m looking for a good solid paragraph on each point.
+
+<!--##Deliverable 01 - Type Specimen Poster
+  Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
 
 - Jenson
 - Bembo
