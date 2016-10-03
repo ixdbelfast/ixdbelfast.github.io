@@ -10,7 +10,7 @@ Markdown is an incredibly useful way to write and read text that can be converte
 
 Everything you need to know about Markdown can be found on [John Gruber’s](https://twitter.com/gruber?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) [Daring Fireball](http://daringfireball.net/projects/markdown/) website.
 
-Link for [MarkdownPreview](https://github.com/gruehle/MarkdownPreview)
+Link for [MarkdownPreview](https://github.com/gruehle/MarkdownPreview) for Brackets.
 
 Taking the attached [plain text file*] (resources/week01_markdown.zip) and using the jpg as a guide use Markdown to add style to the copy. When complete, take a screen grab of the result and post it to your Tumblr.
 
