@@ -16,7 +16,7 @@ Taking the attached [plain text file*] (resources/week01_markdown.zip) and using
 
 *Click download on the next page to access a zipped file for the Markdown exercise.
 
-Deliverable 01 - Type Specimen Poster
+###Deliverable 01 - Type Specimen Poster
   Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
 
 - Jenson
