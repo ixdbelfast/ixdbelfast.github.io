@@ -79,7 +79,7 @@ Using what you learned from the first exercise, mark up the Baker Street copy su
 
 ---- 
 
-<!---
+
 
 Lesson 2: Art Direction and Element Collages
 --------------------------------------------
@@ -128,7 +128,7 @@ Consider:
 
 
 ---- 
-
+<!---
 
 
 Lesson 3: Typography
