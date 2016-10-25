@@ -142,6 +142,8 @@ As such it's important to consider the typography for your 'Heroes and Villains'
 
 The first encourages you to explore web typography, including: Typekit and Google Fonts. The second takes the knowledge you learned in Exercise 3A and applies it to 'Heroes and Villans'.
 
+Here is a Tutorial about how to use Web Typography [Here](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/index.md)
+
 
 ###Exercise 3A
 
