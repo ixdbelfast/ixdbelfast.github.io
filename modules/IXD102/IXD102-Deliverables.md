@@ -58,6 +58,8 @@ You will find most of the material you need to know from [Meggs' History of Grap
 
 As with the previous one your poster should be A3 (420mm x 297mm) and ideally created in Adobe Illustrator or Photoshop, alternatively you may use Sketch.
 
+Check out [Josef Müller Brockmanm’s Posters](https://uk.pinterest.com/eleventhirty/jmb/) for a little guidance on layout. Don’t forget to do your own research too!
+
 **Completion Date: Thursday 10th November 2016** We will look at a selection of the final posters on during the Friday lecture
 
 <!-- ###IMD Poster
