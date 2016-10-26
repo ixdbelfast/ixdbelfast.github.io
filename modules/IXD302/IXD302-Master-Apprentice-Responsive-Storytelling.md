@@ -152,7 +152,9 @@ In order to explore how web typrography works I would like you to to find a piec
 + [Typographic Details *Hat Tip Chris Murphy*](http://dev.monographic.org/typographicdetails/)
 + [Thunderbird](https://www.dropbox.com/s/5q1xjveob7ojdph/thunderbird.JPG?dl=0)
 + [Apple](https://www.dropbox.com/s/whvxda55a4py4v8/apple.JPG?dl=0)
-+ [XXXX](#)
++ [Tim Berners Lee](https://www.dropbox.com/s/07da0hr6anrfam9/webmaster.jpg?dl=0)
++ [Taylor Swift](https://www.dropbox.com/s/ayr9df429yz1v32/taylorswift.jpg?dl=0)
++ [Steve Jobs](https://www.dropbox.com/s/243fqk02cc9ogt7/quote.jpg?dl=0)
 
 ###Exercise 3B
 
