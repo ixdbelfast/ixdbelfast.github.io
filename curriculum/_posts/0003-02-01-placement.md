@@ -1,7 +1,7 @@
 ---
 layout: module
 title:  Placement
-excerpt: Module content will be added soon.
+excerpt: This optional module provides an opportunity for students to gain first hand practical experience within a professional environment prior to their final year of study.
 code: IXD306
 year: 3
 semester: 1&2
