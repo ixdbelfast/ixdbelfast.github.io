@@ -6,7 +6,7 @@ code: IXD306
 year: 3
 semester: 1&2
 credits: 60
-delivery: 
+delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites:
 ---
 
