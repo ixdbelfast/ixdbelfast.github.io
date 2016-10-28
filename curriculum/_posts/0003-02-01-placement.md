@@ -8,8 +8,7 @@ semester: 1&2
 credits: 60
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites:
-github:
-https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD306
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD306
 ---
 
 ## Rationale
