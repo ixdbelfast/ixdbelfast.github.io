@@ -142,6 +142,8 @@ As such it's important to consider the typography for your 'Heroes and Villains'
 
 The first encourages you to explore web typography, including: Typekit and Google Fonts. The second takes the knowledge you learned in Exercise 3A and applies it to 'Heroes and Villans'.
 
+Here are some examples from work by Chris Murphy (*Hat Tip*): [Typographic Details](http://dev.monographic.org/typographicdetails/)
+
 Here is a Tutorial about how to use Web Typography [Here](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/index.md)
 
 
@@ -149,7 +151,6 @@ Here is a Tutorial about how to use Web Typography [Here](https://github.com/kyl
 
 In order to explore how web typrography works I would like you to to find a piece of typography.  Ths could be from a magazine or a famous quote. Using Google Fonts or Typekit recreate it aka Master-Apprentice from HTML and CSS. We have included some examples:
 
-+ [Typographic Details *Hat Tip Chris Murphy*](http://dev.monographic.org/typographicdetails/)
 + [Thunderbird](https://www.dropbox.com/s/5q1xjveob7ojdph/thunderbird.JPG?dl=0)
 + [Apple](https://www.dropbox.com/s/whvxda55a4py4v8/apple.JPG?dl=0)
 + [Tim Berners Lee](https://www.dropbox.com/s/07da0hr6anrfam9/webmaster.jpg?dl=0)
@@ -158,7 +159,7 @@ In order to explore how web typrography works I would like you to to find a piec
 
 ###Exercise 3B
 
-Now that you have explored web typography we wish to apply this to your 'Heroes and Villans' project.  Remember to consider the typography for Headings, Blockquotes  and take inspiration from your moodboards and style tiles in Excercise 2.
+Now that you have explored web typography we wish to apply this to your 'Heroes and Villans' project.  Remember to consider the typography for Headings, Blockquotes  and take inspiration from your moodboards and style tiles in Excercise 2. Also consider the Takhe project.
 
 
 ####Resources
