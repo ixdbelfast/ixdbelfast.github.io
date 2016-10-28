@@ -1,7 +1,7 @@
 IXD306 Deliverables
 ===========================
 
-This page is designed to give you a clear breakdown of the deliverables expected for the module. Deliverables for this module are broken into two main sections with a series of weekly deliverables for each section.
+This page is designed to give you a clear breakdown of the deliverables expected for the module.
 
 ###Course Work 1: (Placement Journal) 60%
 An ongoing logbook or blog that records the students experience during placement, supported by a final written report (Minimum 2,000 words) that clearly demonstrates a reflection on the student’s individual experience. 
