@@ -21,7 +21,7 @@ Paper-based exercises introduce fundamental design principles developed at the B
 
 - **Week 05 - Deliverable 04 Type** – Continue with your 1 'M' six ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful.
 
-<!-- - **Week 06 - Deliverable 05 Colour** – Take one of your previous projects and revisit it using colour. Consider how complimentary, analagous or primary/secondary colours affect the design.
+
 
 
 
@@ -29,9 +29,9 @@ Paper-based exercises introduce fundamental design principles developed at the B
 ###HTML
 Using the story of John Baskerville as a starting point the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
-- **Week 07 - Deliverable 06 HTML** – Taking the raw John Baskerville text as your starting point create a simple HTML5 page on GitHub. Save this as version1.html
+- **Week 06 - Deliverable 06 HTML** – Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as history1.html
 
-- **Week 08 - Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
+<!-- **Week 07 - Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
 
 - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
 
