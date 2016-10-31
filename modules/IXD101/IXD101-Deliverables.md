@@ -31,7 +31,7 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 
 - **Week 06 - Deliverable 06 HTML** – Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as history1.html
 
-The [John Baskerville text](resources/john-baskerville.txt) can be found here.
+The [John Baskerville text](resources/john-baskerville.txt.zip) can be found here.
 
 <!-- **Week 07 - Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
 
