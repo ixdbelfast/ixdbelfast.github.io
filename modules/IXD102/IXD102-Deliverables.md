@@ -74,7 +74,7 @@ It will be useful to get together in your teams at some stage early next week to
 As with any project research is vital at the early stages (and throughout) to ensure you are going in the right direction and what you are planning to present is relevant and accurate.
 
 ###Deadline
-IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-009.
+IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-009. -->
 
 ---
 
@@ -106,4 +106,4 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Marian Bantjes
 - Jessica Hische 
 
-Your essay should be uploaded to your GitHub site / Workspace by 11:00am Friday 8th January 2016. -->
+Your essay should be uploaded to your GitHub site / Workspace by 11:00am Friday 6th January 2017. -->
