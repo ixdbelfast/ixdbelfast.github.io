@@ -33,9 +33,29 @@ Using the story of John Baskerville as a starting point the screen-based exercis
 
 The [John Baskerville text](resources/john-baskerville.txt.zip) can be found here.
 
-<!-- **Week 07 - Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
+**Week 07 - Deliverable 07 HTML** – Add a nested, unordered list and save as version2.html and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as version3.html
 
-- **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
+Hot type
+  - Deberny & Peignot
+  - Fry Foundry
+  - American Type Founders
+  - Linotype
+  - Lanston Monotype
+
+Cold type
+  - Autologic
+  - Berthold
+  - Compugraphic
+  - Hell AG
+  - Monotype
+
+Digital type
+  - Linotype
+  - URW++
+  - Monotype
+  - Bitstream
+
+<!--  - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
 
 ###CSS
 - **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
