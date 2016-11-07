@@ -172,7 +172,6 @@ Now that you have explored web typography we wish to apply this to your 'Heroes 
 
 
 ---- 
-<!---
 
 
 Lesson 4: Responsive Web Design (RWD)
@@ -192,7 +191,6 @@ Create a layout for mobile, iphone, and ipad viewports using % for structural st
 CSS Media Queries are a feature in CSS3 which allows you to specify when certain CSS rules should be applied.  is allows you to apply a special CSS for mobile, or adjust a layout for print. A media query contains one or more expressions, expressed as media features, which resolve to either true or false. When result of the query is true the browser renders the css styles included that media query.
 
 
-
 ####Resources
 
 + [If you want to understand RWD get this book](https://abookapart.com/products/responsive-web-design)
@@ -204,6 +202,7 @@ CSS Media Queries are a feature in CSS3 which allows you to specify when certain
 
 
 ---- 
+<!---
 
 
 
