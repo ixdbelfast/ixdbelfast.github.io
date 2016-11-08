@@ -8,18 +8,18 @@ This page is designed to give you a clear breakdown of the deliverables expected
 ##Week 01-05 Paper 
 Paper-based exercises introduce fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond.  
 
- **Week 02 - Deliverable 01 Dot** - Along with your paper exercises working with 1, 2, 3, 5 and 50 dots this weeks deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.
+**Week 02 - Deliverable 01 Dot** - Along with your paper exercises working with 1, 2, 3, 5 and 50 dots this weeks deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.
  
- Grab the [Grid PDF](resources/squares.pdf) to add your 50 dots on your laptop.
+Grab the [Grid PDF](resources/squares.pdf) to add your 50 dots on your laptop.
 
 **Week 03 - Deliverable 02 Line** - Along with your paper exercises working with 1, 2, 3, 5 and 50 lines this weeks deliverable is to create a background screen for your laptop using nothing but lines. Again, try to avoid colour as much as possible.  
 
 
-- **Week 04 - Deliverable 03 Plane** – Continue with your 1, 2, 3 and 9 planes + tone and a more finely executed 9 planes + tone piece. 
+**Week 04 - Deliverable 03 Plane** – Continue with your 1, 2, 3 and 9 planes + tone and a more finely executed 9 planes + tone piece. 
 
-- The final exercise for this week is to create a modular typeface built from planes. [Fontstruct](http://fontstruct.com) is an excellent tool to help you do this. Alternatively you could use Sketch or Illustrator.
+The final exercise for this week is to create a modular typeface built from planes. [Fontstruct](http://fontstruct.com) is an excellent tool to help you do this. Alternatively you could use Sketch or Illustrator.
 
-- **Week 05 - Deliverable 04 Type** – Continue with your 1 'M' six ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful.
+**Week 05 - Deliverable 04 Type** – Continue with your 1 'M' six ways, your two letters joined six ways and your kerning exercise. In addition to these, this weeks task is to create a movie poster in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful.
 
 
 
@@ -29,7 +29,7 @@ Paper-based exercises introduce fundamental design principles developed at the B
 ###HTML
 Using the story of John Baskerville as a starting point the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
-- **Week 06 - Deliverable 06 HTML** – Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as history1.html
+**Week 06 - Deliverable 06 HTML** – Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as history1.html
 
 The [John Baskerville text](resources/john-baskerville.txt.zip) can be found here.
 
