@@ -41,7 +41,7 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
  - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
  
  ####Homework
- Change your type history list into a table and add and optimise the images found in "unedited-images" in the "resources" folder
+ Change your type history list into a table, this [table sample](resources/make-this-table.png) Then add and optimise the images found in "unedited-images" in the "resources" folder
 
 ###CSS
 <!-- - **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
