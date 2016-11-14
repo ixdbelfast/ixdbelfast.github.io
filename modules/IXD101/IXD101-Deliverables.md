@@ -38,10 +38,13 @@ The [John Baskerville text](resources/john-baskerville.txt.zip) can be found her
 ####Homework
 Download the [attached file](resources/homework2.zip), add a nav element to the top of your page and linked anchors as shown on the file "make-this-index-03.png". You should also create a separate file named "history-list.html" and recreate the file "make-this-list.png" from the supplied list.md file.
 
-<!--  - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
+ - **Week 09 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
+ 
+ ####Homework
+ Change your type history list into a table and add and optimise the images found in "unedited-images" in the "resources" folder
 
 ###CSS
-- **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
+<!-- - **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
 
 - This week we have an additional exercise. We would like to you take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
 
