@@ -204,8 +204,6 @@ CSS Media Queries are a feature in CSS3 which allows you to specify when certain
 
 
 ---- 
-<!---
-
 
 
 Lesson 5: Macro- and Micro-Interactions
@@ -240,7 +238,7 @@ We'll use the following as a reference:
 
 The second exercise is focused at a slightly more micro level. We're looking at :hover effects and creating prototypes that can then be rolled into the final page.
 
-Design :hover buttons in Illustrator and provide a PDF for the students with off and on states. Get them to build them. I COULD PROVIDE THE .AI FILES AS A BONUS, ADDED VALUE.
+Design :hover buttons in Illustrator with off and on states and  build them.
 
 + http://tympanus.net/Development/CreativeLinkEffects/
 
@@ -258,7 +256,7 @@ Design :hover buttons in Illustrator and provide a PDF for the students with off
 
 
 ---- 
-
+<!---
 
 
 Bonus Lesson: The Wonderful World of Maps
