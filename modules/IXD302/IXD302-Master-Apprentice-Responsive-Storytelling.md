@@ -238,7 +238,7 @@ We'll use the following as a reference:
 
 The second exercise is focused at a slightly more micro level. We're looking at :hover effects and creating prototypes that can then be rolled into the final page.
 
-Design :hover buttons in Illustrator with off and on states and  build them.
+Design :hover buttons with off and on states and  build them. This can also include transition effects.
 
 + http://tympanus.net/Development/CreativeLinkEffects/
 
