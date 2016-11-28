@@ -46,13 +46,15 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
  - **Week 09 - Deliverable 09 HTML – This week you should check your previous John Baskerville HTML files to make sure you have markedup your text correctly. In addition, you should incorporate your type history table with your main [Brief History of Type](resources/make-this-index.png) page (don't forget to include your images).
 
 ###CSS
-<!-- - **Week 10 - Deliverable 09 HTML** – This week we started to look at CSS and applied some proper styling to our well structured markup. Save this as version 6.
+ - **Week 10 - Deliverable 10 HTML** – This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
+- Make a copy of your last Type History HTML file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
+<!--
+
+- **Week 11 – Deliverable 10 HTML** – This week we continued our exploration into CSS and applied a CSS reset and introduced a few media queries. Save this as version 7/8.
 
 - This week we have an additional exercise. We would like to you take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
 
 ![Typographic hierarchy exercise](img/make_this_1.gif)
-
-- **Week 11 – Deliverable 10 HTML** – This week we continued our exploration into CSS and applied a CSS reset and introduced a few media queries. Save this as version 7/8.
 
 - **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your **Hello World** page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. -->
 
