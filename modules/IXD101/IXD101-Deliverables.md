@@ -54,6 +54,13 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 
 - This week we have an additional exercise. We would like to you take this [Typographic Exercise](resources/week-11-make-this.png) – and, using css, style it as closely as you can to the image in the link.
 
+The fonts used in this erercise are all Google fonts:
+- Libre Baskerville
+- Open Sans
+- Arvo
+
+You can use these or choose your own but please make sure you use serif, san-serif and slab-serif fonts.
+
 <!--![Typographic hierarchy exercise](img/make_this_1.gif)
 
 - **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your **Hello World** page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. -->
