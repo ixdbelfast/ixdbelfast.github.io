@@ -48,13 +48,13 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 ###CSS
  - **Week 10 - Deliverable 10 HTML** – This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
 - Make a copy of your last Type History HTML file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
-<!--
 
-- **Week 11 – Deliverable 10 HTML** – This week we continued our exploration into CSS and applied a CSS reset and introduced a few media queries. Save this as version 7/8.
 
-- This week we have an additional exercise. We would like to you take this [markup](resources/css-exercise.html) – and, using css, style it as closely as you can to the image below.
+- **Week 11 – Deliverable 10 HTML** – This week we continued our exploration into CSS and looked at web typography in a little more detail introduced a few media queries. Add the Google font – Libre Baskerville – and save this as the next version.
 
-![Typographic hierarchy exercise](img/make_this_1.gif)
+- This week we have an additional exercise. We would like to you take this [Typographic Exercise](resources/week-11-make-this.png) – and, using css, style it as closely as you can to the image in the link.
+
+<!--![Typographic hierarchy exercise](img/make_this_1.gif)
 
 - **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign your **Hello World** page. This will, for some of you, be your first solid presence online and should be a means to show off what you know and what you have created. -->
 
