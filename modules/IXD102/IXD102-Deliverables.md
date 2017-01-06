@@ -1,4 +1,4 @@
-**All coursework should be uploaded to your relevant workspace(IMD)/Tumblr and GitHub (IxD) by 17:00 on Monday 9th January 2017.**
+###All coursework should be uploaded to your relevant workspace(IMD) / Tumblr and GitHub (IxD) by 17:00 on Monday 9th January 2017.
 
 ##Week 01.
 
