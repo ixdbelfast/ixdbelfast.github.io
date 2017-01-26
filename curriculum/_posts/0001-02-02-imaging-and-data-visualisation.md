@@ -24,7 +24,7 @@ By asking students to deliver their coursework using digital channels, for examp
 
 The essential aims of this module are:
 
-+ To introduce students to both photographic and illustrative approaches towards image making.
++ To introduce students to illustrative and diagrammatic approaches towards image making.
 + To increase students’ awareness of how imaging can be used in a variety of design contexts.
 + To develop students’ knowledge of the technical terms surrounding images: vector, raster, resolution, compression, bokeh, and other terms.
 + To familiarise students with the principles of art direction and help them develop tools – like moodboarding – that they can use to brief collaborators.
@@ -34,23 +34,21 @@ The essential aims of this module are:
 
 ## Content
 
-Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. A weekly lecture and seminar programme that is designed to develop a knowledge and understanding of the creation and application of images – photographic, illustrative, and diagrammatic – to interaction design.
+Students are supported through a weekly lecture programme that is designed to broaden their knowledge and understanding. A weekly lecture and seminar programme that is designed to develop a knowledge and understanding of the creation and application of images – illustrative and diagrammatic – to interaction design.
 
 <!-- This introductory content needs work to ensure it’s a little less vague. -->
 
 Indicative lecture content includes:
 
-+ The Impact of Photography
-+ Harmony and Proportion
-+ Manufactured Fictions in The Age of Instagram
-+ Illustration, Hand to Mouse
-+ The Art of Art Direction
-+ Giving Guidance Through Moodboards
++ The master apprentice approach to learning
++ Getting Iconic
++ Illustration; Hand to Mouse
++ Illustrating Interfaces
++ Tying it All Together
 + The Visual Language of Data
 + A Cornucopia of Charts
 + Designing (and Deceiving) with Data
 + Meet Edward Tufte
-+ Case Study: The Challenger: An Information Disaster
 
 ## Reading List
 
