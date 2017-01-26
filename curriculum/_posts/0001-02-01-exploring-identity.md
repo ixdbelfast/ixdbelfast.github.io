@@ -8,7 +8,7 @@ semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Imaging and Data Visualisation
-github: https://github.com/fehler/lectures/tree/master/IXD103
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD103/IXD103.md
 ---
 
 ## Rationale
@@ -51,7 +51,7 @@ Indicative lecture content includes:
 + Taxonomies and Lexicons
 + Personal Branding
 + Corporate Identity Systems
-+ Case Study: Lufthansa
+
 
 
 ## Reading List
