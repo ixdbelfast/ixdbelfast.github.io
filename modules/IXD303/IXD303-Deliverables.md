@@ -8,8 +8,8 @@ This page is designed to give you a clear breakdown of the deliverables expected
 
 The expectation is that the prototypes you create for Deliverable 2, will inform your final design for Deliverable 1.
 
-##Deliverable 01
-####Weather App
+## Deliverable 01
+#### Weather App
 The Weather App carries the majority of the weight on marks for this module and will include:
 1. Name and brand design
 2. Icon design
@@ -17,7 +17,7 @@ The Weather App carries the majority of the weight on marks for this module and 
 4. Working prototypes (Keynote, InVision, HTML/CSS, JavaScript, APIs)
 5. Connected product concepts
 
-####Masterclass
+#### Masterclass
 Chris will introduce JavaScript on this week-long masterclass*.
 
 *Before Week 08 you must have completed the JavaScript and jQuery classes on [codecademy](https://www.codecademy.com)
