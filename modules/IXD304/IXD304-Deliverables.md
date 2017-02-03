@@ -1,11 +1,10 @@
 IXD304 Deliverables
 ===================
 
-This page is designed to give you a clear breakdown of the deliverables expected for the module. There are three deliverables:
+This page is designed to give you a clear breakdown of the deliverables expected for the module. There are two deliverables:
 
-+ Deliverable 1 - Digital Product (60%)
-+ Deliverable 2 - Promotional Website (20%)
-+ Deliverable 3 – Research and Discovery (20%)
++ Deliverable 1 - Digital Product and Promotional Website (60%)
++ Deliverable 2 – Research, Discovery and Supporting Sketches (40%)
 
 This module introduces students to the ideas and principles, which underpin creative entrepreneurship, placing a heavy focus on the emerging and rapidly growing field of digital product design.
 
@@ -25,7 +24,7 @@ With your digital product (icons) in place, you need to design and build a websi
 
 ---
 
-Deliverable 3 (40%)
+Deliverable 2 (40%)
 -------------------
 **The third deliverable is due in Week 13**
 
