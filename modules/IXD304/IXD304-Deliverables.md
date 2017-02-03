@@ -16,22 +16,18 @@ Deliverable 1 (60%)
 **The first deliverable is due in Week 09**
 
 ###Digital Product
-The design and creation of your icon set is the first of three deliverables for this module. The icon set should be vector based (i.e. created in Adobe Illustrator, Sketch or any other vector-based programme). Final output should appropriate to the approach you have taken – SVGs, JPGs, PNGs, GIFs, a combination of these or all four.
+The design and creation of your icon set is the first of two deliverables for this module. The icon set should be vector based (i.e. created in Adobe Illustrator, Sketch or any other vector-based programme). Final output should be appropriate to the approach you have taken – SVGs, JPGs, PNGs, GIFs, a combination of these, or all four.
 
----
-
-Deliverable 2 (20%)
-------------------
-**The second deliverable is due in Week 13**
+**The second part of this deliverable is due in Week 13**
 
 ###Promotional Website
 With your digital product (icons) in place, you need to design and build a website to show them off to the best of their ability. The website design should be appropriate to the visual approach taken for your icon set.
 
 ---
 
-Deliverable 3 (20%)
+Deliverable 3 (40%)
 -------------------
 **The third deliverable is due in Week 13**
 
 ###Research, Discovery and Supporting Sketches
-Throughout the module you will be required to maintain a journal, using Tumblr, which maps your research, idea development, sketches, prototypes, etc, for Deliverables 1 & 2.
+Throughout the module you will be required to maintain a journal, using Tumblr, (or for IMD your workspace) which maps your research, idea development, sketches, prototypes, etc, for Deliverable 1.
