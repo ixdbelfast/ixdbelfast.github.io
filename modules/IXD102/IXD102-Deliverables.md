@@ -1,12 +1,10 @@
-###All coursework should be uploaded to your relevant workspace (IMD) / Tumblr and GitHub (IxD) by 17:00 on Monday 9th January 2017.
-
-##Week 01.
+### Week 01 - 5 Secrets From 86 Notebooks
 
 **Watch –  Michael Bierut’s [5 Secrets From 86 Notebooks](http://99u.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks)** - and write your thoughts on each of the five points. Try to aim for around 300–500 words (or more if you need).
 
 I’m looking for a good solid paragraph on each point.
 
-###IxD Markdown.
+### IxD Markdown.
 
 Markdown is an incredibly useful way to write and read text that can be converted into valid HTML.
 
@@ -18,7 +16,8 @@ Taking the attached [plain text file*] (resources/week01_markdown.zip) and using
 
 *Click download on the next page to access a zipped file for the Markdown exercise.
 
-###Deliverable 01 - Type Specimen Poster
+Deliverable 01 - Type Specimen Poster
+-------------------------------------
 
 Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
 
@@ -44,7 +43,8 @@ If you have any questions don’t hesitate to get in touch.
 
 ---
 
-####Deliverable 02 – Design History Poster (25%)
+Deliverable 02 – Design History Poster (25%)
+--------------------------------------------
 Your second project for this module is to create a Design History Poster based on one of the following titles.
 
 - Bauhaus and the New Typography
@@ -80,7 +80,8 @@ IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October 
 
 ---
 
-##Deliverable 03 – Design Essay Webpage (50%)
+Deliverable 03 – Design Essay Webpage (50%)
+-------------------------------------------
 For the final we would like to you write an essay of **no less than 1,500 words** on one of the designers listed below.
 
 Your essay should be well planned and researched before you start writing. Take a look at a few of the designers in question to see which one you wish to cover.
