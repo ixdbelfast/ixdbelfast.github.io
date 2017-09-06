@@ -39,7 +39,7 @@ Project Requirements
 In addition to your work you are required to have a full sketch book/ loose pages of drawings, ideas, concepts, thoughts, inspiration, context, designs.  Digital prototypes can also be displayed on your Tumblr.
 
 ### Micropublication Masterclass
---------------------------------------------
+
 A Micropublication Masterclass will make up Week 01. We’ll be developing concepts for ‘micro-publications’ – short, easy to consume content frgaments – and exploring how these might be packaged, delivered and consumed. Our goal is to create a portfolio piece that might (but needn’t be) developed further.
 
 ---
@@ -47,7 +47,7 @@ A Micropublication Masterclass will make up Week 01. We’ll be developing conce
 Deliverable 2 (40%)
 -------------------
 
-###Research, Discovery and Supporting Sketches
+### Research, Discovery and Supporting Sketches
 Throughout the module you will be required to maintain a journal, using Tumblr, (or for IMD your workspace) which maps your research, idea development, sketches, prototypes, etc, for Deliverable 1.
 
 **All deliverables are due in Week 13**
