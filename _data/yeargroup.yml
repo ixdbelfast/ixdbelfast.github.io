@@ -1,5 +1,8 @@
 year1:
   - link:
+
+year2:
+  - link:
     - name: "Adam Lawder"
       url: "http://ps0up.tumblr.com/"
     - name: "Aoife McLaughlin"
@@ -35,7 +38,7 @@ year1:
     - name: "Timothy Davidson"
       url: "http://timtim-101.tumblr.com/"
 
-year2:
+year3:
   - link:
     - name: "Jordan Earle"
       url: "http://jordanearle.com/"
@@ -53,8 +56,6 @@ year2:
       url: "https://aynsleylongridge.github.io/personalportfolio/index.html"
     - name: "Aaron McAlinden"
       url: "http://www.aaronmcalinden.com/"
-    - name: "Paul McGlade"
-      url: "http://seashoreexplosions.com"
     - name: "Martine McGrath"
       url: "https://martinemcgrath.github.io/301-portfolio/index.html"
     - name: "Ryan McIlwaine"
@@ -63,8 +64,6 @@ year2:
       url: "http://www.oisinmckeever.com/port/index.html"
     - name: "Stuart McMaw"
       url: "http://stuartmcmaw.com/"
-    - name: "Laura Mitchell"
-      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
     - name: "William Park"
       url: "http://williamipark.co.uk/"
     - name: "Nathan Patton"
@@ -85,9 +84,8 @@ year2:
       url: "https://andrewmc1994.github.io/IXD302-Portfolio-Website/"
     - name: "Sarah Jane Owens"
       url: "https://sarahjaneowens.github.io/ixd301-portfolio/index.html"
-
-
-year3:
+      
+year4:
   - link:
     - name: "Nathan Wilson"
       url: "http://helpfulwilson.com/"
@@ -131,17 +129,11 @@ year3:
     - name: "Poppy Gamble"
       url: "http://poppygamble.com"
       twitter: "poppygamble"
-    - name: "Scott McNab"
-      url: "http://scottmcnab.design/"
-      twitter: "_scottmcn"
     - name: "Paige Boyd"
       url: "http://www.paigeboyd.co.uk/"
       twitter: "ppppaige_"
-      
-year4:
-  - link:
-    - name: "Josh Toan"
-      url: "http://joshtoan.com/"
-      twitter: "joshtoan"
-
+    - name: "Paul McGlade"
+      url: "http://seashoreexplosions.com"
+     - name: "Laura Mitchell"
+      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
 

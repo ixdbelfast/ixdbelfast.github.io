@@ -1,32 +1,25 @@
 IXD301 Deliverables
 ========================
 
-This page is designed to give you a clear breakdown of the deliverables expected for the module. There are five deliverables:
+This page is designed to give you a clear breakdown of the deliverables expected for the module. There are two deliverables:
 
-+ Deliverable 1 - Portfolio Website 
-+ Deliverable 2 - Elements Website 
-+ Deliverable 3 - Masterclass: Micro-Publications
-+ Deliverable 4 - Masterclass (Orchestrating Content)
-+ Deliverable 5 – Research and Discovery 
+## + Deliverable 1 - Module Deliverables (60%)
+## + Deliverable 2 – Research, Discovery and Supporting Material (40%)
 
 This module will focus on content in all its forms and will give students a thorough understanding of how to structure and manage content in both a theoretical and practical sense.
 
-Deliverable 1 
+---
+
+## Deliverable Breakdown
+
+Deliverable 1 (60%)
 --------------------------------------------
 
-
-The first deliverable is due in Week 06 with a crit taking place in Week 06
-
-Portfolio Website
+### Portfolio Website
 
 In order to be fully prepared for placement opportunities you need to have a strong online portfolio. This should give prospective employers a sense of who you are, your interests, capabilities and aspirations.
 
-
-Deliverable 2 
---------------------------------------------
-
-
-Elements Website
+### Elements Website
 
 Design and create a website to explain elements from the periodic table.
 The Periodic Table as we know, is a table of the chemical elements arranged in order of atomic number, so that elements with similar atomic structure appear in vertical columns.  
@@ -45,15 +38,16 @@ Project Requirements
  
 In addition to your work you are required to have a full sketch book/ loose pages of drawings, ideas, concepts, thoughts, inspiration, context, designs.  Digital prototypes can also be displayed on your Tumblr.
 
-Deliverable 3 & 4 
---------------------------------------------
-These are two workshops in Weeks 2 & 8 with Chris Murphy. Details will follow.
+### Micropublication Masterclass
 
+A Micropublication Masterclass will make up Week 01. We’ll be developing concepts for ‘micro-publications’ – short, easy to consume content frgaments – and exploring how these might be packaged, delivered and consumed. Our goal is to create a portfolio piece that might (but needn’t be) developed further.
 
-Deliverable 5 
---------------------------------------------
+---
 
+Deliverable 2 (40%)
+-------------------
 
-Research, Discovery and Supporting Sketches
+### Research, Discovery and Supporting Sketches
+Throughout the module you will be required to maintain a journal, using Tumblr, (or for IMD your workspace) which maps your research, idea development, sketches, prototypes, etc, for Deliverable 1.
 
-Throughout the module you will be required to maintain a journal  which maps your research, idea development, sketches, prototypes, etc for all deliverables.  For any interactive prototypes use Tumblr.
+**All deliverables are due in Week 13**

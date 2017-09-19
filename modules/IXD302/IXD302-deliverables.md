@@ -1,37 +1,33 @@
-IXD302/DES310: Deliverables
-===========================
+IXD302 Deliverables
+===================
 
 This page is designed to give you a clear breakdown of the deliverables expected for the module. There are two deliverables:
 
-+ Deliverable 1 - Narrative Web Site (60%)
-+ Deliverable 2 - Master-Apprentice: Responsive Storytelling (40%)
+## + Deliverable 1 - Module Deliverables (60%)
+Demonstrate a considered approach to the development of a range of themed icons. This should include the design of the following: a consistent vector-based icon set, the creation of web-ready set/s in an appropriate range of sizes and formats. Create a single page website to house and promote the ison set. Consideration should be given to appropriate brand design.
 
-The expectation is that the prototypes you create for Deliverable 2, will inform your final design for Deliverable 1.
+## + Deliverable 2 -  Research, Discovery and Supporting Material (40%)
+This module introduces students to the ideas and principles, which underpin creative entrepreneurship, placing a heavy focus on the emerging and rapidly growing field of digital product design.
 
-Students are provided with an existing piece of content, which I have carefully developed to include a broad range of content types. Without the burden of having to generate content, they are encouraged to develop a single page web site, where the use of narrative and storytelling is brought to the fore. The content is sectioned, with various asides, maps and charts, allowing for considerable creative interpretation.
+---
 
-[Download the content supplied, here.](https://github.com/fehler/lectures/blob/master/IXD302/finding-an-extinct-new-zealand-bird.zip)
+## Deliverable Breakdown
 
-Questions? Ping me on Twitter, or pop me an email.
+Deliverable 1 (60%)
+-------------------
 
-—[Dr. Kyle Boyd](https://twitter.com/kylbyd)
+### Digital Product
+The design and creation of your icon set is the first of two deliverables for this module. The icon set should be vector based (i.e. created in Adobe Illustrator, Sketch or any other vector-based programme). Final output should be appropriate to the approach you have taken – SVGs, JPGs, PNGs, GIFs, a combination of these, or all four.
 
+### Promotional Website
+With your digital product (icons) in place, you need to design and build a website to show them off to the best of their ability. The website design should be appropriate to the visual approach taken for your icon set.
 
-----
+---
 
+Deliverable 2 (40%)
+-------------------
 
-Deliverable 1 - Narrative Web Site (60%)
-----------------------------------------
+###Research, Discovery and Supporting Sketches
+Throughout the module you will be required to maintain a journal, using Tumblr, (or for IMD your workspace) which maps your research, idea development, sketches, prototypes, etc, for Deliverable 1.
 
-Using your prototypes as a starting point, this is your opportunity to consider how everything fits together as a piece of narrative design.
-
-We are looking for creative solutions. Consider this an opportunity to showcase your skills and create a substantial portfolio piece that you can use to secure a placement.
-
-
-
-Deliverable 2 - Master-Apprentice: Responsive Storytelling (40%)
---------------------------------
-
-We are expecting a number of Master-Apprentice Lessons, as detailed below. For each deliverable I’ve supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
-
-[Details of the Master Apprentice Lessons Here](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD302/IXD302-Master-Apprentice-Responsive-Storytelling.md)
+**All deliverables are due in Week 13**
