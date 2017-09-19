@@ -1,6 +1,7 @@
 year1:
   - link:
 
+
 year2:
   - link:
     - name: "Adam Lawder"
@@ -37,6 +38,7 @@ year2:
       url: "http://rgrantwylie.tumblr.com"
     - name: "Timothy Davidson"
       url: "http://timtim-101.tumblr.com/"
+
 
 year3:
   - link:
@@ -85,55 +87,48 @@ year3:
     - name: "Sarah Jane Owens"
       url: "https://sarahjaneowens.github.io/ixd301-portfolio/index.html"
       
+
 year4:
   - link:
     - name: "Nathan Wilson"
       url: "http://helpfulwilson.com/"
-      twitter: "HelpfulWilson"
     - name: "Aimee Sands"
       url: "http://aimeesands.com/"
-      twitter: "aimeesands"
     - name: "Andrew Whann"
       url: "http://andrewwhann.com/"
-      twitter: "andrewwhann"
     - name: "Rob Simpson"
       url: "http://rob-simpson.co.uk/"
-      twitter: "MrRobSimpson"
     - name: "Hayley Gregg"
       url: "http://hayleygregg.com/"
-      twitter: "hayleyygregg"
     - name: "Inga Hampton"
       url: "http://ingahampton.com/"
-      twitter: "Inga_Hampton"
     - name: "Tajdid Rahman"
       url: "http://tajdidrahman.co.uk/"
-      twitter: "tajdidr"
     - name: "Kelsey Bones"
       url: "http://kelseybones.co.uk/"
-      twitter: "kelseybones"
     - name: "Aine O’Hagan"
       url: "http://aineohdesign.com/"
-      twitter: "aine_ohagan"
     - name: "Amber McGregor"
       url: "http://littleelefant.design/"
-      twitter: "little_elefant"
     - name: "Zack Reid"
       url: "http://zackreid.com/"
-      twitter: "mrzackrox"
     - name: "Hayley Mcilwrath"
       url: "http://hayleymcilwrath.com/"
-      twitter: "hayleymcilwrath"
     - name: "Jemma Eagleson"
       url: "http://jemmaeagleson.com"
-      twitter: "jemmaeagleson"
     - name: "Poppy Gamble"
       url: "http://poppygamble.com"
-      twitter: "poppygamble"
     - name: "Paige Boyd"
       url: "http://www.paigeboyd.co.uk/"
-      twitter: "ppppaige_"
     - name: "Paul McGlade"
       url: "http://seashoreexplosions.com"
-     - name: "Laura Mitchell"
+    - name: "Laura Mitchell"
       url: "https://lauramitchell13.github.io/Jekyll2/index.html"
+    - name: "Paul McGlade"
+      url: "http://seashoreexplosions.com"
+    - name: "Laura Mitchell"
+      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
+    - name: "Connor Ross"
+      url: ""
 
+  
