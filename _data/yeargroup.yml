@@ -1,6 +1,50 @@
 year1:
   - link:
-
+   - name: "Craig Allen"
+      url: "#"
+   - name: "Daniel Beattie"
+      url: "#"
+   - name: "Wiktoria Bigaj"
+      url: "#"
+   - name: "Lucy Boyd"
+      url: "#"
+   - name: "Lucy Cook"
+      url: "#"
+   - name: "Eimear Cooney"
+      url: "#"
+   - name: "Calum Dixon"
+      url: "#"
+   - name: "Daniel Gold"
+      url: "#"
+    - name: "Ryan Irvine"
+      url: "#"
+   - name: "Robert Karwecki"
+      url: "#"
+   - name: "Deirbhile Kennedy"
+      url: "#"
+   - name: "Tara McAllister"
+      url: "#"
+   - name: "Eoghan McAtarsney"
+      url: "#"
+   - name: "Ryan McClelland"
+      url: "#"
+   - name: "Liam McEvoy"
+      url: "#"
+   - name: "Ciaran McFlynn"
+      url: "#"
+    - name: "Ethan McGonigle"
+      url: "#"
+   - name: "Hal McGonigle"
+      url: "#"
+   - name: "Glen Nelson"
+      url: "#"
+   - name: "Christopher Sheridan"
+      url: "#"
+   - name: "Ben Turner"
+      url: "#"
+   - name: "Rian Walker"
+      url: "#"
+  
 
 year2:
   - link:
@@ -38,6 +82,7 @@ year2:
       url: "http://rgrantwylie.tumblr.com"
     - name: "Timothy Davidson"
       url: "http://timtim-101.tumblr.com/"
+
 
 
 year3:
@@ -87,7 +132,7 @@ year3:
     - name: "Sarah Jane Owens"
       url: "https://sarahjaneowens.github.io/ixd301-portfolio/index.html"
       
-
+      
 year4:
   - link:
     - name: "Nathan Wilson"
@@ -124,11 +169,8 @@ year4:
       url: "http://seashoreexplosions.com"
     - name: "Laura Mitchell"
       url: "https://lauramitchell13.github.io/Jekyll2/index.html"
-    - name: "Paul McGlade"
-      url: "http://seashoreexplosions.com"
-    - name: "Laura Mitchell"
-      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
     - name: "Connor Ross"
-      url: ""
+      url: "#"
+
 
   
