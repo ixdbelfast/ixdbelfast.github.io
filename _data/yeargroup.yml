@@ -1,7 +1,11 @@
 --- 
 year1: 
   - 
+<<<<<<< HEAD
     link: 
+=======
+    link: ~
+>>>>>>> master
   - 
     name: "Craig Allen"
     url: "#"
