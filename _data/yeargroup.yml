@@ -1,77 +1,74 @@
 --- 
 year1: 
   - 
-<<<<<<< HEAD
     link: 
-=======
-    link: ~
->>>>>>> master
-  - 
-    name: "Craig Allen"
-    url: "#"
-  - 
-    name: "Daniel Beattie"
-    url: "#"
-  - 
-    name: "Wiktoria Bigaj"
-    url: "#"
-  - 
-    name: "Lucy Boyd"
-    url: "#"
-  - 
-    name: "Lucy Cook"
-    url: "#"
-  - 
-    name: "Eimear Cooney"
-    url: "#"
-  - 
-    name: "Calum Dixon"
-    url: "#"
-  - 
-    name: "Daniel Gold"
-    url: "#"
-  - 
-    name: "Ryan Irvine"
-    url: "#"
-  - 
-    name: "Robert Karwecki"
-    url: "#"
-  - 
-    name: "Deirbhile Kennedy"
-    url: "#"
-  - 
-    name: "Tara McAllister"
-    url: "#"
-  - 
-    name: "Eoghan McAtarsney"
-    url: "#"
-  - 
-    name: "Ryan McClelland"
-    url: "#"
-  - 
-    name: "Liam McEvoy"
-    url: "#"
-  - 
-    name: "Ciaran McFlynn"
-    url: "#"
-  - 
-    name: "Ethan McGonigle"
-    url: "#"
-  - 
-    name: "Hal McGonigle"
-    url: "#"
-  - 
-    name: "Glen Nelson"
-    url: "#"
-  - 
-    name: "Christopher Sheridan"
-    url: "#"
-  - 
-    name: "Ben Turner"
-    url: "#"
-  - 
-    name: "Rian Walker"
-    url: "#"
+   - 
+       name: "Craig Allen"
+       url: "#"
+   - 
+       name: "Daniel Beattie"
+       url: "#"
+   - 
+       name: "Wiktoria Bigaj"
+       url: "#"
+   - 
+       name: "Lucy Boyd"
+       url: "#"
+   - 
+       name: "Lucy Cook"
+       url: "#"
+   - 
+       name: "Eimear Cooney"
+       url: "#"
+   - 
+       name: "Calum Dixon"
+       url: "#"
+   - 
+       name: "Daniel Gold"
+       url: "#"
+   - 
+       name: "Ryan Irvine"
+       url: "#"
+   - 
+       name: "Robert Karwecki"
+       url: "#"
+   - 
+       name: "Deirbhile Kennedy"
+       url: "#"
+   - 
+       name: "Tara McAllister"
+       url: "#"
+   - 
+       name: "Eoghan McAtarsney"
+       url: "#"
+   - 
+       name: "Ryan McClelland"
+       url: "#"
+   - 
+       name: "Liam McEvoy"
+       url: "#"
+   - 
+       name: "Ciaran McFlynn"
+       url: "#"
+   - 
+       name: "Ethan McGonigle"
+       url: "#"
+   - 
+       name: "Hal McGonigle"
+       url: "#"
+   - 
+       name: "Glen Nelson"
+       url: "#"
+   - 
+       name: "Christopher Sheridan"
+       url: "#"
+    - 
+       name: "Ben Turner"
+       url: "#"
+    - 
+       name: "Rian Walker"
+       url: "#"
+    
 year2: 
   - 
     link: 
