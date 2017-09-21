@@ -9,9 +9,6 @@ permalink: /portfolios/
 
 
   <div class="portfolio year-groups">
-
-<!---------------------- /.year one ------------------------->
-      
     <section class="year-one quarter left">
         <h4>Year 1</h4>
         {% for main in site.data.yeargroup.year1 %}
@@ -20,14 +17,14 @@ permalink: /portfolios/
           {% for item in sorted_links %}
           <li>
             <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-         <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
           </li>
           {% endfor %}
         </ul>
         {% endfor %}
       </section>
 
-<!---------------------- /.year two ------------------------->
+<!---------------------- /.year one ------------------------->
 
       <section class="year-two quarter left">
         <h4>Year 2</h4>
@@ -37,14 +34,14 @@ permalink: /portfolios/
           {% for item in sorted_links %}
           <li>
             <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-             <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
           </li>
           {% endfor %}
         </ul>
         {% endfor %}
       </section>
 
-<!---------------------- /.year three ------------------------->
+<!---------------------- /.year two ------------------------->
 
       <section class="year-three quarter left">
         <h4>Year 3</h4>
@@ -54,14 +51,14 @@ permalink: /portfolios/
           {% for item in sorted_links %}
           <li>
             <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-             <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a> 
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
           </li>
           {% endfor %}
         </ul>
         {% endfor %}
       </section>
 
-<!---------------------- /.year four ------------------------->
+<!---------------------- /.year three ------------------------->
 
       <section class="year-four quarter left">
         <h4>Year 4</h4>
@@ -71,12 +68,13 @@ permalink: /portfolios/
           {% for item in sorted_links %}
           <li>
             <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
-             <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a> 
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
           </li>
           {% endfor %}
         </ul>
         {% endfor %}
       </section>
 
+<!---------------------- /.year four ------------------------->
 
     </div>
