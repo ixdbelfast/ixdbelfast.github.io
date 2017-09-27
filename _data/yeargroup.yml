@@ -1,6 +1,55 @@
 year1:
   - link:
-
+    - name: "Dan Gold"
+      url: "http://itsdangold.tumblr.com"
+    - name: "Craig Allen"
+      url: "http://cwallen199.tumblr.com"
+    - name: "Daniel Beattie"
+      url: "http://bandeattie.tumblr.com"
+    - name: "Wiktoria Bigaj"
+      url: "#"
+    - name: "Lucy Boyd"
+      url: "http://lucyboyd4.tumblr.com"
+    - name: "Lucy Cook"
+      url: "http://loosecookie.tumblr.com"
+    - name: "Eimear Cooney"
+      url: "http://eimearcooney.tumblr.com"
+    - name: "Calum Dixon"
+      url: "http://calumdixon.tumblr.com"
+    - name: "Ryan Irvine"
+      url: "http://ryanirv.tumblr.com"
+    - name: "Robert Karwecki"
+      url: "#" 
+    - name: "Deirbhile Kennedy"
+      url: "#"
+    - name: "Tara McAllister"
+      url: "http://terah.tumblr.com"
+    - name: "Eoghan McAtarsney"
+      url: "#"
+    - name: "Ryan McClelland"
+      url: "#"
+    - name: "Liam McEvoy"
+      url: "http://liammcevoy.tumblr.com"
+    - name: "Ciaran McFlynn"
+      url: "http://ciaranmcf.tumblr.com"
+    - name: "Ethan McGonigle"
+      url: "#"
+    - name: "Hal McGonigle"
+      url: "#"
+    - name: "Glen Nelson"
+      url: "http://thesaltboy.tumblr.com"
+    - name: "Christopher Sheridan"
+      url: "#"
+    - name: "Ellie Spratt-Thompson"
+      url: "http://ellie-thompson.tumblr.com"
+    - name: "Ben Turner"
+      url: "http://benturnerixd.tumblr.com"
+    - name: "Rian Walker"
+      url: "#"
+    - name: "Pujith Marodia"
+      url: "http://pujjith.wixsite.com/myportfolio"
+    - name: "Sarah Cupples"
+      url: "#"
 
 year2:
   - link:
@@ -38,6 +87,9 @@ year2:
       url: "http://rgrantwylie.tumblr.com"
     - name: "Timothy Davidson"
       url: "http://timtim-101.tumblr.com/"
+    - name: "Rachel Cunningham"
+      url: "#"
+
 
 
 year3:
@@ -87,7 +139,7 @@ year3:
     - name: "Sarah Jane Owens"
       url: "https://sarahjaneowens.github.io/ixd301-portfolio/index.html"
       
-
+      
 year4:
   - link:
     - name: "Nathan Wilson"
@@ -124,11 +176,8 @@ year4:
       url: "http://seashoreexplosions.com"
     - name: "Laura Mitchell"
       url: "https://lauramitchell13.github.io/Jekyll2/index.html"
-    - name: "Paul McGlade"
-      url: "http://seashoreexplosions.com"
-    - name: "Laura Mitchell"
-      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
     - name: "Connor Ross"
-      url: ""
+      url: "#"
+
 
   
