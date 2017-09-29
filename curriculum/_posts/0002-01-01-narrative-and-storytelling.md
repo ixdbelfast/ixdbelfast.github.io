@@ -8,7 +8,7 @@ semester: 2
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Designing User Experiences
-github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD302/IXD302.md
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD304/IXD304.md
 ---
 
 ## Rationale
