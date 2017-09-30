@@ -1,8 +1,6 @@
-### Week 01 - 5 Secrets From 86 Notebooks
+### Week 01 - When We Build
 
-**Watch –  Michael Bierut’s [5 Secrets From 86 Notebooks](http://99u.com/videos/6056/michael-bierut-5-secrets-from-86-notebooks)** - and write your thoughts on each of the five points. Try to aim for around 300–500 words (or more if you need).
-
-I’m looking for a good solid paragraph on each point.
+**Watch –  Wilson Miner’s [When We Build](https://vimeo.com/34017777)** - and write your thoughts on what he says. Try to aim for around 300–500 words (or more if you need).
 
 ### IxD Markdown.
 
@@ -39,7 +37,7 @@ You poster should obviously feature your chosen font but you should also include
 
 If you have any questions don’t hesitate to get in touch.
 
-**Completion Date: Thursday 27th October 2016** 
+**Completion Date: Thursday 19th October 2017** 
 
 ---
 
@@ -62,7 +60,7 @@ As with the previous one your poster should be A3 (420mm x 297mm) and ideally cr
 
 Check out [Josef Müller Brockmanm’s Posters](https://uk.pinterest.com/eleventhirty/jmb/) for a little guidance on layout. Don’t forget to do your own research too!
 
-**Completion Date: Thursday 10th November 2016** We will look at a selection of the final posters on during the Friday lecture
+**Completion Date: TBA** We will look at a selection of the final posters on during the Friday lecture
 
 <!-- ###IMD Poster
 As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design you have chosen. Look at this as an exhibition poster promoting a show celebrating the particular period you have chosen.
@@ -76,7 +74,7 @@ It will be useful to get together in your teams at some stage early next week to
 As with any project research is vital at the early stages (and throughout) to ensure you are going in the right direction and what you are planning to present is relevant and accurate.
 
 ###Deadline
-IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-009. -->
+IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-007. -->
 
 ---
 
@@ -109,4 +107,4 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Marian Bantjes
 - Jessica Hische 
 
-Your essay should be uploaded to your GitHub site / Workspace by 17:00am Monday 9th January 2017.
+Your essay should be uploaded to your GitHub site / Workspace by 17:00am TBA 2018.
