@@ -26,6 +26,7 @@ Your first project for this module is to create a [Type Specimen Poster](https:/
 - Baskerville
 - Bodoni
 - Akzindenz-Grotesk
+- Futura
 
 Your poster should be A3 (420mm x 297mm) and ideally created in Adobe Illustrator or Photoshop, alternatively you may use [Sketch](http://bohemiancoding.com/sketch/) (students can avail of a 50% discount for this excellent product). If you are not familiar with any of these yet don’t panic. You could use (and it really pains me to say this) Microsoft Word until you get to grips with the former. 
 
