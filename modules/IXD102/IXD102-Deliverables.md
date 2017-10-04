@@ -10,7 +10,7 @@ Everything you need to know about Markdown can be found on [John Gruber’s](htt
 
 Link for [MarkdownPreview](https://github.com/gruehle/MarkdownPreview) for Brackets.
 
-Taking the attached [plain text file*] (resources/week01_markdown.zip) and using the jpg as a guide use Markdown to add style to the copy. When complete, take a screen grab of the result and post it to your Tumblr.
+Taking the attached [Markdown Exercise](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD102/resources/week01_markdown.zip) and using the jpg as a guide use Markdown to add style to the copy. When complete, take a screen grab of the result and post it to your Tumblr.
 
 *Click download on the next page to access a zipped file for the Markdown exercise.
 
