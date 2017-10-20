@@ -42,8 +42,8 @@ If you have any questions don’t hesitate to get in touch.
 
 ---
 
-Deliverable 02 – Design History Poster (25%)
---------------------------------------------
+Deliverable 02 – IMD Design History Poster/Presentation
+-------------------------------------------------------
 Your second project for this module is to create a Design History Poster based on one of the following titles.
 
 - Bauhaus and the New Typography
@@ -53,7 +53,9 @@ Your second project for this module is to create a Design History Poster based o
 - Pioneers of Postmodern Graphic Design
 - Pioneers of Digital Design
 
-Imagine the poster is to be used to promote an exhibition on the period of design history of your title choice.
+For IMD – Imagine the poster is to be used to promote an exhibition on the period of design history of your title choice.
+
+IxD will deliver a group presentation based around one of the titles.
 
 You will find most of the material you need to know from [Meggs' History of Graphic Design](http://www.amazon.co.uk/Meggs-History-Graphic-Design-Philip/dp/0470168730/ref=dp_ob_title_bk) don't worry about rushing out and buying it (it's pretty expensive) the library will have a copy you can work from.
 
@@ -61,7 +63,7 @@ As with the previous one your poster should be A3 (420mm x 297mm) and ideally cr
 
 Check out [Josef Müller Brockmanm’s Posters](https://uk.pinterest.com/eleventhirty/jmb/) for a little guidance on layout. Don’t forget to do your own research too!
 
-**Completion Date: TBA** We will look at a selection of the final posters on during the Friday lecture
+**Completion Date: Thursday 16th November** We will look at a selection of the final posters  during the Friday lecture.
 
 <!-- ###IMD Poster
 As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design you have chosen. Look at this as an exhibition poster promoting a show celebrating the particular period you have chosen.
