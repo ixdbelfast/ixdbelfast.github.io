@@ -53,7 +53,7 @@ Your second project for this module is to create a Design History Poster based o
 - Pioneers of Postmodern Graphic Design
 - Pioneers of Digital Design
 
-**IMD Poster ** – As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design. Imagine the poster is to be used to promote an exhibition on the period of design history of your title choice.
+**IMD Poster** – As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design. Imagine the poster is to be used to promote an exhibition on the period of design history of your title choice.
 
 As with the previous one your poster should be A3 (420mm x 297mm) and ideally created in Adobe Illustrator or Photoshop, alternatively you may use Sketch.
 
