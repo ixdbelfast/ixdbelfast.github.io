@@ -27,12 +27,12 @@ Grab the [Grid PDF](resources/squares.pdf) to add your 50 dots on your laptop.
 - Homework – in addition to these, this weeks task is to create three minimal movie posters in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful
 
 ### Week 06 – The Shape of Sound
-This weeks workshop was delivered by Chris. Please ensure you have your completed project clearlg marked on your Tumblr feed.
+This weeks workshop was delivered by Chris. Please ensure you have your completed project clearly marked on your Tumblr feed.
 
 ---
 
 ## Week 07-9 HTML
-Using the story of John Baskerville as a starting point the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
+Using the story of John Baskerville as a starting point, the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.
 
 ### Week 07 - HTML 101 
 - Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as **history1.html**
@@ -55,7 +55,7 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
  ---
 
 ## Week 10-12 CSS
-### Week 10 – CSS 101
+<!-- ### Week 10 – CSS 101
 - This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
 - Make a copy of your last Type History HTML file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
 
@@ -64,14 +64,14 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 - This week we continued our exploration into CSS and looked at web typography in a little more detail introduced a few media queries. Add the Google font – Libre Baskerville – and save this as the next version.
 - This week we have an additional exercise. We would like to you take this [Typographic Exercise](resources/week-11-make-this.png) – and, using css, style it as closely as you can to the image in the link.
 
-The fonts used in this exercise are all [Google Fonts](https://fonts.google.com/):
+The fonts used in this exercise are all [Google Fonts](https://fonts.google.com):
 - Libre Baskerville
 - Open Sans
 - Arvo
 
 You can use these or choose your own but please make sure you use serif, san-serif and slab-serif fonts.
 
-<!--![Typographic hierarchy exercise](img/make_this_1.gif)
+[Typographic hierarchy exercise](img/make_this_1.gif)
 
 - **Week 12 – Deliverable 11 HTML** – To finish this section off we would like you to take what you have learnt this semester and redesign -->
 
