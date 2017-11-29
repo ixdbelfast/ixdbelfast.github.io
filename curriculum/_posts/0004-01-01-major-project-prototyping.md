@@ -8,6 +8,7 @@ semester: 1
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Research and Writing
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD501/IXD501-Deliverables.md
 ---
 
 ## Rationale
