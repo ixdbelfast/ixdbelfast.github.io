@@ -75,5 +75,6 @@ You can use these or choose your own but please make sure you use serif, san-ser
 
 ---
 
+Please click following the link to see the [Assessment Criteria](resources/IXD101_Assessment_Criteria.xlsx)
 
 
