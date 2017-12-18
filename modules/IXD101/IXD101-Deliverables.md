@@ -62,7 +62,7 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 - Make a copy of your last **Type History HTML** file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
 
 
-### Week 11
+### Week 11 – Web Fonts
 - This week we continued our exploration into CSS and looked at web typography in a little more detail. For this weeks version of the History of Type exercise add Google fonts of your own choice and save this as the next version. Please make sure you choose fonts appropriate to the content.
 - This week we have an additional exercise, we would like to you take this [Typographic Exercise](resources/make_this_css.png) – and, using css, style it as closely as you can to the image in the link. To make it a little easier you can use this [simple HTML page](resources/cssbaskerville.html) to start you off.
 
@@ -73,8 +73,14 @@ The fonts used in this exercise are all [Google Fonts](https://fonts.google.com)
 
 You can use these or choose your own but please make sure you use serif, san-serif (or slab-serif) fonts.
 
+### Week 12 – Media Queries, Transitions and Flexbox
+– This week we finished off with a look at a lot of material from media queriesto background images, dropshadows to kerning and transitions to flexbox. 
+
+Finish off your introduction with the inclusion of some of the features covered this week. At the very least you could add some transitions to your links to provide some subtle user feedback. 
+
+You can check out my own versions on [GitHub](https://github.com/eleventhirty/john_baskerville) for reference. It would be very easy to just copy these but this won’t teach you how to implement them properly to your own work. Using these as reference and recreating them yourselves will help you retain the information much more readily.
+
 ---
 
 Please click following the link to see the [Assessment Criteria](resources/IXD101_Assessment_Criteria.xlsx)
-
 

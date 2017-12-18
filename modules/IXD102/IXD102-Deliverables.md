@@ -104,3 +104,5 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Jessica Hische 
 
 Your essay should be uploaded to your GitHub site / Workspace by 17:00am TBA 2018.
+
+Please click following the link to see the [Assessment Criteria](resources/IXD102_Assessment_Criteria.xlsx)
