@@ -136,6 +136,8 @@ year3:
       url: "https://andrewmc1994.github.io/IXD302-Portfolio-Website/"
     - name: "Sarah Jane Owens"
       url: "https://sarahjaneowens.github.io/ixd301-portfolio/index.html"
+    - name: "Laura Mitchell"
+      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
       
       
 year4:
@@ -170,10 +172,6 @@ year4:
       url: "http://poppygamble.com"
     - name: "Paige Boyd"
       url: "http://www.paigeboyd.co.uk/"
-    - name: "Paul McGlade"
-      url: "http://seashoreexplosions.com"
-    - name: "Laura Mitchell"
-      url: "https://lauramitchell13.github.io/Jekyll2/index.html"
     - name: "Connor Ross"
       url: "#"
 
