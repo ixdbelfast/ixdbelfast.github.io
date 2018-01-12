@@ -3,7 +3,9 @@
 
 ---
 
-### 1. Illustrative: App Design (40%)
+### + Deliverable 1 - Module Deliverables (60%)
+
+#### 1. Illustrative: App Design 
 
 1. Master Apprentice Icons
 	- Recreate the icon set using illustrator or sketch
@@ -19,7 +21,7 @@
 	- a city detail screen.  
 	- Using all the techniques used through the master apprentice excercises.  This should look like a real application so consider layout, color typography and ultimately the illustrations and icons.
 
-### 2. Diagrammatic: Inforgraphic (40%)
+#### 2. Diagrammatic: Inforgraphic 
 
 1. Master Apprentice Pie Chart
 	- Recreate the pie chart using illustrtor or sketch
@@ -36,9 +38,9 @@
 	   	
 This infograhic should consider, layout, typography, charts, 							illustration. 
 
-### 3. Research (20%)
+### + Deliverable 2 – Research, Discovery and Supporting Material (40%)
 
 Demonstrate an understanding of the importance that research, discovery and supporting sketches play in the design process. This should include: weekly reflection demonstrated through a Tumblr, and be supported by sketchbooks and paper prototypes.
-	   	
-	
+
+---
 		
