@@ -21,6 +21,8 @@
 	- a city detail screen.  
 	- Using all the techniques used through the master apprentice excercises.  This should look like a real application so consider layout, color typography and ultimately the illustrations and icons.
 
+4. Create an interactive prototype using Invision to showcase your User experience skills and make your app come alive.
+
 #### 2. Diagrammatic: Inforgraphic 
 
 1. Master Apprentice Pie Chart
