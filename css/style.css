@@ -208,8 +208,7 @@ header {
   background-color: #3498DB; }
   header h1 {
     width: 30%;
-    float: left;
-    position: absolute; }
+    float: left;}
   header a {
     color: white; }
   header nav {

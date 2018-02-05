@@ -19,7 +19,7 @@ This series of lessons follows a similar model, with everything you need to lear
 
 
 
-###Table of Contents
+### Table of Contents
 
 1. Lesson 1: HTML and Semantics
 2. Lesson 2: Art Direction and Style Tiles
@@ -46,7 +46,7 @@ Lesson 1: HTML and Semantics
 Before we do anything we look for meaning. HTML is a design element. Let's not forget that. In the first lesson we look for meaning by reading and understanding the content supplied. Etc.
 
 
-###Exercise 1A
+### Exercise 1A
 
 /* The first exercise is a worksheet that is supplied. It's A4 and it's downloadable and printable. The idea is the students look at the markup below and identify the elements on the worksheet. */
 
@@ -59,14 +59,14 @@ Download the worksheet and identify the following elements. Note: Markup is a tr
 Bonus: It's debatable whether this page contains an `article` element. We don't see the page as an article, per se. Your opinions may vary (and that's OK).
 
 
-###Exercise 1B
+### Exercise 1B
 
 Using what you learned from the first exercise, mark up the Baker Street copy supplied, focusing on amplifying semantics and meaning:
 
 + [Heroes and Villains Copy](https://www.dropbox.com/s/k45ek547zsrjmq7/Heroes%20and%20Villans.zip?dl=0)
 
 
-####Resources
+#### Resources
 
 + [If the moon were only one pixel](http://joshworth.com/dev/pixelspace/pixelspace_solarsystem.html)
 + [Design Last](https://www.smashingmagazine.com/2015/02/design-last/)
