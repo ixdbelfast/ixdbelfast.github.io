@@ -14,7 +14,7 @@ Students are provided with an existing piece of content, which I have carefully 
 
 Questions? Ping me on Twitter, or pop me an email.
 
-—[Dr. Kyle Boyd](https://twitter.com/kylbyd)
+—[Paul McCormack](https://twitter.com/eleventhirty)
 
 
 ----
@@ -34,4 +34,4 @@ Deliverable 2 - Master-Apprentice: Responsive Storytelling (40%)
 
 We are expecting a number of Master-Apprentice Lessons, as detailed below. For each deliverable I’ve supplied links to content that you might find useful to enable you to deliver what is expected. These links will be added after we have covered them in the lectures.
 
-[Details of the Master Apprentice Lessons Here](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD302/IXD302-Master-Apprentice-Responsive-Storytelling.md)
+[Details of the Master Apprentice Lessons Here](https://github.com/ixdbelfast/ixdbelfast.github.io/blob/master/modules/IXD304/IXD304-Master-Apprentice-Responsive-Storytelling.md)
