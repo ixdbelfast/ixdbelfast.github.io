@@ -48,7 +48,7 @@ Before we do anything we look for meaning. HTML is a design element. Let's not f
 
 ### Exercise 1A
 
-/* The first exercise is a worksheet that is supplied. It's A4 and it's downloadable and printable. The idea is the students look at the markup below and identify the elements on the worksheet. */
+<!--The first exercise is a worksheet that is supplied. It's A4 and it's downloadable and printable. The idea is the students look at the markup below and identify the elements on the worksheet. -->
 
 [Download Worksheet Here](https://www.dropbox.com/s/neiesxpaqv4lzg7/HTMLandSemantics.pdf?dl=0)
 
