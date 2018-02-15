@@ -86,18 +86,18 @@ Lesson 2: Art Direction and Element Collages
 
 When trying to convey a design idea, moods, feelings and fluffy stuff like that are hard to communicate. So as designers we often use mood boards: it can be a collection of images and text  from magazines, books, photos you have taken but which are related to a design theme as a reference point.  The first excercise is to create a moodboard for Heroes and Villains the second is an element collage.
 
-###Exercise 2A
+### Exercise 2A
 
-The first exercise is a moodboard for 'Heroes and Villans'. We need to show them one we've made earlier. Remember: Master-Apprentice.
+<!-- The first exercise is a moodboard for 'Heroes and Villans'. We need to show them one we've made earlier. Remember: Master-Apprentice. -->
 
-[Heres one we made earlier](https://emilydavies95.files.wordpress.com/2013/11/img_0415.jpg)
+<!-- [Heres one we made earlier](https://emilydavies95.files.wordpress.com/2013/11/img_0415.jpg)
 
 Moodboards can be created with paper (my preference) you can look through items other than whats on screen such as magazines, posters, advertisements. Exolore, imagery, color, typography, layout etc. Cut these out and place them on a A3 sheet and group them together.  Paper moodboards are a great way of gathering inspiration beyond the screen.
 
-It could be a digital moodboard - using a tool like Niice. For this excercise I would like to see at least one paper moodboard.
+It could be a digital moodboard - using a tool like [Niice](https://niice.co). For this excercise I would like to see at least one paper moodboard.
 
 
-###Exercise 2B
+### Exercise 2B
 
 The second exercise is an Style Tile.
 
