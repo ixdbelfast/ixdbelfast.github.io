@@ -79,7 +79,7 @@ Using what you learned from the first exercise, mark up the Baker Street copy su
 
 ---- 
 
-<!--
+
 
 Lesson 2: Art Direction and Element Collages
 --------------------------------------------
@@ -88,9 +88,9 @@ When trying to convey a design idea, moods, feelings and fluffy stuff like that 
 
 ### Exercise 2A
 
-<!-- The first exercise is a moodboard for 'Heroes and Villans'. We need to show them one we've made earlier. Remember: Master-Apprentice. -->
+The first exercise is a moodboard for 'Heroes and Villans'.
 
-<!-- [Heres one we made earlier](https://emilydavies95.files.wordpress.com/2013/11/img_0415.jpg)
+[Heres one we made earlier](https://emilydavies95.files.wordpress.com/2013/11/img_0415.jpg)
 
 Moodboards can be created with paper (my preference) you can look through items other than whats on screen such as magazines, posters, advertisements. Exolore, imagery, color, typography, layout etc. Cut these out and place them on a A3 sheet and group them together.  Paper moodboards are a great way of gathering inspiration beyond the screen.
 
@@ -129,7 +129,7 @@ Consider:
 
 ---- 
 
-
+<!--
 
 Lesson 3: Typography
 --------------------
