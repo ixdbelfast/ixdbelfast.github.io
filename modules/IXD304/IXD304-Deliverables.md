@@ -14,7 +14,7 @@ Students are provided with an existing piece of content, which I have carefully 
 
 Questions? Ping me on Twitter, or pop me an email.
 
-—[Paul McCormack](https://twitter.com/eleventhirty)
+— [Paul McCormack](mailto:p.mccormack@ulster.ac.uk) 
 
 
 ----
