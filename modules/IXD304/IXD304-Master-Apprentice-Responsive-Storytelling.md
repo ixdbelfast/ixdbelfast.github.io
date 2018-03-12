@@ -129,27 +129,27 @@ Consider:
 
 ---- 
 
-<!--
+
 
 Lesson 3: Typography
 --------------------
 
-As Information Architects' Oliver Riechenstein puts it:
+As Information Architects’ Oliver Riechenstein puts it:
 
 > Web Design is 95% Typography
 
-As such it's important to consider the typography for your 'Heroes and Villains' site. As with the previous lessons we've broken this down into a couple of exercises.
+As such it’s important to consider the typography for your ‘Takahe’ site. As with the previous lessons we’ve broken this down into a couple of exercises.
 
-The first encourages you to explore web typography, including: Typekit and Google Fonts. The second takes the knowledge you learned in Exercise 3A and applies it to 'Heroes and Villans'.
+The first encourages you to explore web typography, including: Typekit and Google Fonts. The second takes the knowledge you learned in Exercise 3A and applies it to Takahe project.
 
 Here are some examples from work by Chris Murphy (*Hat Tip*): [Typographic Details](http://dev.monographic.org/typographicdetails/)
 
 Here is a Tutorial about how to use Web Typography [Here](https://github.com/kyleboyd/ixd-tutorials/blob/master/webtypography/index.md)
 
 
-###Exercise 3A
+### Exercise 3A
 
-In order to explore how web typrography works I would like you to to find a piece of typography.  Ths could be from a magazine or a famous quote. Using Google Fonts or Typekit recreate it aka Master-Apprentice from HTML and CSS. We have included some examples:
+In order to explore how web typography works I would like you to to find a piece of typography.  This could be from a magazine or a famous quote. Using Google Fonts or Typekit recreate it aka Master-Apprentice from HTML and CSS. We have included some examples:
 
 + [Thunderbird](https://www.dropbox.com/s/5q1xjveob7ojdph/thunderbird.JPG?dl=0)
 + [Apple](https://www.dropbox.com/s/whvxda55a4py4v8/apple.JPG?dl=0)
@@ -157,9 +157,9 @@ In order to explore how web typrography works I would like you to to find a piec
 + [Taylor Swift](https://www.dropbox.com/s/ayr9df429yz1v32/taylorswift.jpg?dl=0)
 + [Steve Jobs](https://www.dropbox.com/s/243fqk02cc9ogt7/quote.jpg?dl=0)
 
-###Exercise 3B
+### Exercise 3B
 
-Now that you have explored web typography we wish to apply this to your 'Heroes and Villans' project.  Remember to consider the typography for Headings, Blockquotes  and take inspiration from your moodboards and style tiles in Excercise 2. Also consider the Takhe project.
+Now that you have explored web typography we wish to apply this to your Takahe project.  Remember to consider the typography for Headings, Blockquotes  and take inspiration from your moodboards and style tiles in Excercise 2.
 
 
 ####Resources
@@ -169,7 +169,7 @@ Now that you have explored web typography we wish to apply this to your 'Heroes 
 + [Web Design is 95% Typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
 + [One More Time: Typography is the Foundation of Web Design](https://www.smashingmagazine.com/2012/07/one-more-time-typography-is-the-foundation-of-web-design/)
 
-
+<!--
 
 ---- 
 
