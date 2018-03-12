@@ -172,7 +172,7 @@ Now that you have explored web typography we wish to apply this to your Takahe p
 <!--
 
 ---- 
-
+<!--
 
 Lesson 4: Responsive Web Design (RWD)
 -------------------------------------
