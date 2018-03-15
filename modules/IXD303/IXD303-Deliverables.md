@@ -11,14 +11,26 @@ The expectation is that the prototypes you create for Deliverable 2, will inform
 ## Deliverable 01
 #### Weather App
 The Weather App carries the majority of the weight on marks for this module and will include:
-1. Name and brand design
+1. Brand (including brand guidelines)
 2. Icon design
-3. Consideration for cross device application
-4. Working prototypes (Keynote, InVision, HTML/CSS, JavaScript, APIs)
-5. Connected product concepts
+3. User Personas
+4. Paper prototypes
+5. Wireframes
+4. Working prototypes
+    - Keynote
+    - Marvel
+    - Adobe XD
+    - InVision
+    - HTML/CSS
+    - JavaScript
+    - APIs
 
-#### Masterclass
-Chris will introduce JavaScript on this week-long masterclass*.
+Other areas for consideration are:
+- Consideration for cross device application if appropriate
+- Connected product concepts if appropriate
 
-*Before Week 08 you must have completed the JavaScript and jQuery classes on [codecademy](https://www.codecademy.com)
+<!-- #### Masterclass
+Chris will introduce JavaScript on this week-long masterclass*. -->
+
+*You are encouraged to complete the JavaScript and jQuery classes on [codecademy](https://www.codecademy.com)*
 
