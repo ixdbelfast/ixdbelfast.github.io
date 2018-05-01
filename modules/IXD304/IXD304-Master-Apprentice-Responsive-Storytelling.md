@@ -162,27 +162,27 @@ In order to explore how web typography works I would like you to to find a piece
 Now that you have explored web typography we wish to apply this to your Takahe project.  Remember to consider the typography for Headings, Blockquotes  and take inspiration from your moodboards and style tiles in Excercise 2.
 
 
-####Resources
+#### Resources
 
 + [Typekit](https://typekit.com/)
 + [Google Fonts](https://fonts.google.com/)
 + [Web Design is 95% Typography](https://ia.net/know-how/the-web-is-all-about-typography-period)
 + [One More Time: Typography is the Foundation of Web Design](https://www.smashingmagazine.com/2012/07/one-more-time-typography-is-the-foundation-of-web-design/)
 
-<!--
+
 
 ---- 
-<!--
+
 
 Lesson 4: Responsive Web Design (RWD)
 -------------------------------------
 
 ###Exercise 4A
 
-Add CSS to your 'Heroes and Villans' site to enhance and amplify the content. This is a first pass and should focus on layout, color and images etc.
+Add CSS to your Takahe site to enhance and amplify the content. This is a first pass and should focus on layout, color and images etc.
 
 
-###Exercise 4B
+### Exercise 4B
 
 By now you should have marked up your baker street copy in semantic HTML and CSS.  The task is now to make it responsive.
 
@@ -193,7 +193,7 @@ CSS Media Queries are a feature in CSS3 which allows you to specify when certain
 [RWD Worksheet Here](https://www.dropbox.com/s/dpuxwspg8wk2h4p/RWD%20Excercise.pdf?dl=0)
 
 
-####Resources
+#### Resources
 
 + [If you want to understand RWD get this book](https://abookapart.com/products/responsive-web-design)
 + [Responsive Web Design](http://alistapart.com/article/responsive-web-design)
@@ -224,7 +224,7 @@ Dan Saffer notes that they:
 The ’like’ button on social networks which highlights changes by using interactive animations. Such feedback informs users that they are in the list of those who liked the post. [Like here](https://dribbble.com/shots/1456699-Liking-Interaction-GIF)
 
 
-###Exercise 5A
+### Exercise 5A
 
 The first exercise is chunking content.  Chunking is critical for presenting content that users can comprehend and remember easily. Use chunking for text and multimedia content alike to help users understand underlying relationships and information hierarchy.
 
@@ -234,13 +234,13 @@ We'll use the following as a reference:
 + [Chunking Content](http://alvarotrigo.com/fullPage/#firstPage)
 
 
-###Exercise 5B
+### Exercise 5B
 
-The second exercise is focused at a slightly more micro level. We're looking at :hover effects and creating prototypes that can then be rolled into the final page.
+The second exercise is focused at a slightly more micro level. We’re looking at :hover effects and creating prototypes that can then be rolled into the final page.
 
 Design :hover buttons with off and on states and  build them. This can also include transition effects.
 
-+ http://tympanus.net/Development/CreativeLinkEffects/
++ [CreativeLinkEffects](http://tympanus.net/Development/CreativeLinkEffects/)
 
 
 ####Resources
@@ -256,9 +256,9 @@ Design :hover buttons with off and on states and  build them. This can also incl
 
 
 ---- 
-<!---
 
 
+<!--
 Bonus Lesson: The Wonderful World of Maps
 -------------------------------------
 
@@ -267,7 +267,7 @@ What is a map? Until the 1980s, maps were painstaking documents created by hand.
 
 Computer maps are fundamentally composed of data. Data is in the abstract, composed of billions of points or just a few polygons, or a photo-like recording of colors and temperature. It is important that data is not specific to a certain usage.
 
-###Bonus Exercise
+### Bonus Exercise
 
 Using one of the following create one map of the location of Sherlock Holmes Baker Street Home 221 Baker Street London.  This can be inluded for example on the bottom of your page.
 
@@ -275,16 +275,11 @@ Using one of the following create one map of the location of Sherlock Holmes Bak
 + [Leaflet](http://leafletjs.com/index.html)
 + [Stamen](http://maps.stamen.com/#watercolor/12/54.6369/-6.0457)
 
-
+-->
 
 ----
 
 
-
-FIN
-----------
-
---->
 
 
 
