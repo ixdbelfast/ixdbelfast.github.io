@@ -177,7 +177,7 @@ Now that you have explored web typography we wish to apply this to your Takahe p
 Lesson 4: Responsive Web Design (RWD)
 -------------------------------------
 
-###Exercise 4A
+### Exercise 4A
 
 Add CSS to your Takahe site to enhance and amplify the content. This is a first pass and should focus on layout, color and images etc.
 
@@ -243,7 +243,7 @@ Design :hover buttons with off and on states and  build them. This can also incl
 + [CreativeLinkEffects](http://tympanus.net/Development/CreativeLinkEffects/)
 
 
-####Resources
+#### Resources
 
 + [Microinteractions and Their Macro Effect on User Experience](https://blogs.adobe.com/creativecloud/microinteractions-and-their-macro-effect-on-user-experience-part-1/)
 + [Chunking Information](https://www.nngroup.com/articles/chunking/)
