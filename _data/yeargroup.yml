@@ -26,6 +26,8 @@ year1:
       url: "#"
     - name: "Scott McCabe"
       url: "#"
+    - name: "Christine McDowell"
+      url: "#"
     - name: "Rory McFadden"
       url: "#"
     - name: "Dominic McGrath"
@@ -143,8 +145,6 @@ year3:
       url: "http://www.tim-davidson.com"
     - name: "Rachel Cunningham"
       url: "https://rachelc161.github.io/rachel_portfolio/"
-
-
 
 year4:
   - link:
