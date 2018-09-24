@@ -9,9 +9,9 @@ This page is designed to give you a clear breakdown of the deliverables expected
 Paper-based exercises introduce fundamental design principles developed at the Bauhaus, Ulm School of Design, and beyond. The following content outlines the weekly deliverables for workshop material and homework
 
 ### Week 01 - Deliverable 01 Dot 
-- Workshop paper exercises worked with 1, 2, 3, 5 and 50 dots
+- Workshop paper exercises worked with 1, 2, 3, and 5 dots
 - The first homework deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.  
-Grab the [Grid PDF](resources/squares.pdf) to add your 50 dots on your laptop.
+Grab the [Grid PDF](resources/twenty_squares.pdf) to add your 50 dots on your laptop.
 
 ### Week 02 - Deliverable 02 Line 
 - Workshop paper exercises worked with 1, 2, 3, 5 and 50 lines
