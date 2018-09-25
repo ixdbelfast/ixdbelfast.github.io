@@ -100,8 +100,6 @@ year2:
       url: "http://ellie-thompson1.tumblr.com"
     - name: "Ben Turner"
       url: "http://benturnerixd.tumblr.com"
-    - name: "Rian Walker"
-      url: "http://riancwalker.tumblr.com"
     - name: "Pujith Marodia"
       url: "http://pujithmarodia-blog.tumblr.com"
     - name: "Sarah Cupples"
@@ -139,8 +137,6 @@ year3:
       url: "http://pearseoneill.tumblr.com/"
     - name: "Ross Nelson"
       url: "http://rossnelsonn.tumblr.com"
-    - name: "Ryan Grant-Wylie"
-      url: "http://rgrantwylie.tumblr.com"
     - name: "Timothy Davidson"
       url: "http://www.tim-davidson.com"
     - name: "Rachel Cunningham"
@@ -196,6 +192,8 @@ year4:
       url: "http://claremcelhill.tumblr.com/"
     - name: "Craig Stewart"
       url: "https://csd3sign.tumblr.com/"
+    - name: "Ryan Grant-Wylie"
+      url: "http://rgrantwylie.tumblr.com"
       
       
   
