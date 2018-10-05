@@ -16,11 +16,11 @@ Taking the attached [Markdown Exercise](https://github.com/ixdbelfast/ixdbelfast
 
 *Click download on the next page to access a zipped file for the Markdown exercise.
 
-<!-- Deliverable 01 - Type Specimen Poster
+ Deliverable 01 - Type Specimen Poster
 -------------------------------------
-<!--
+
 Your first project for this module is to create a [Type Specimen Poster](https://uk.pinterest.com/jsgore/typography-type-specimen-posters/) based on **one** of the fonts.
-<!--
+
 - Jenson
 - Bembo
 - Garamond
@@ -29,18 +29,18 @@ Your first project for this module is to create a [Type Specimen Poster](https:/
 - Bodoni
 - Akzindenz-Grotesk
 - Futura
-<!--
+
 Your poster should be A3 (420mm x 297mm) and ideally created in Adobe Illustrator or Photoshop, alternatively you may use [Sketch](http://bohemiancoding.com/sketch/) (students can avail of a 50% discount for this excellent product). If you are not familiar with any of these yet don’t panic. You could use (and it really pains me to say this) Microsoft Word until you get to grips with the former. 
-<!--
+
 The poster should be posted to Tumblr **there is no need to print anything**. 
-<!--
+
 Research the subject to get a handle on what a type specimen poster should look like (you could even write a little blog post on the subject) before putting **pencil to paper**. Don’t just rely on the links we provide, find your own material. As with any creative project **always, always, always** start on paper **never** jump straight onto a computer, you will never create anything meaningful this way.
-<!--
+
 You poster should obviously feature your chosen font but you should also include a couple of paragraphs on the designer who created the font, give us a little background to who they are and what else they may have created. Dont worry if you don't have access to the fonts, use one that looks closest to it.
-<!--
+
 If you have any questions don’t hesitate to get in touch.
-<!--
-**Completion Date: Thursday 19th October 2017** 
+
+**Completion Date: Thursday 25th October 2018** 
 
 ---
 <!--
