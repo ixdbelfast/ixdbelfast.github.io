@@ -43,38 +43,32 @@ If you have any questions don’t hesitate to get in touch.
 **Completion Date: Thursday 25th October 2018** 
 
 ---
-<!--
-Deliverable 02 – IMD Design History Poster/Presentation
+
+Deliverable 02 – Design History Presentation
 -------------------------------------------------------
-Your second project for this module is to create a Design History Poster based on one of the following titles.
-<!--
+
+Your second project for this module is to develop a Design History Presentation based on one of the following titles.
+
 - Bauhaus and the New Typography
 - Design Systems for the Olympic Games
 - The Influence of Modern Art
 - The Modern Movement in America
 - Pioneers of Postmodern Graphic Design
 - Pioneers of Digital Design
-<!--
-**IMD Poster** – As with the Type Specimen poster which you all managed so well, try to design your poster to fit with the period of design. Imagine the poster is to be used to promote an exhibition on the period of design history of your title choice.
-<!--
-As with the previous one your poster should be A3 (420mm x 297mm) and ideally created in Adobe Illustrator or Photoshop, alternatively you may use Sketch.
-<!--
-Check out [Josef Müller Brockmanm’s Posters](https://uk.pinterest.com/eleventhirty/jmb/) for a little guidance on layout. Don’t forget to do your own research too!
-<!--
-**IxD Presentation** – Groups will deliver a presentation based around one of the titles. It will be essential to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone’s input it will also allow us to see how each member of the team has performed. This – [How to Collaborate On GitHub](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) is a useful resource on getting up and running with as a group.
 
-<!--
+Each group will deliver a ten minute presentation based around one of the titles. It will be essential to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone’s input it will also allow us to see how each member of the team has performed. 
+
+This – [How to Collaborate On GitHub](http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267) is a useful resource on getting up and running with as a group.
+
 You will find most of the material you need to know from [Meggs' History of Graphic Design](http://www.amazon.co.uk/Meggs-History-Graphic-Design-Philip/dp/0470168730/ref=dp_ob_title_bk) don't worry about rushing out and buying it (it’s pretty expensive) the library will have a copy you can work from.
-<!--
-**Completion Date: Thursday 16th November** We will look at a selection of the final posters during the Friday lecture.
-<!--
+
+**Presentations will be delivered on Friday 30th November.**
+
 ### Research, research, research
 As with any project research is vital at the early stages (and throughout) to ensure you are going in the right direction and what you are planning to present is relevant and accurate.
 
-<!-- ### Deadline
-IMD poster should be uploaded to your webspace by 9.00am on Friday 30th October so we can take a look through them during the lecture. The IxD presentations will take place on the same day in BA-03-007. -->
-
 ---
+
 <!--
 Deliverable 03 – Design Essay Webpage (50%)
 -------------------------------------------
