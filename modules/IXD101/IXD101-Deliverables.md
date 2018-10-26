@@ -13,17 +13,17 @@ Paper-based exercises introduce fundamental design principles developed at the B
 - The first homework deliverable is to create a background screen for your smartphone using nothing but dots and circles. Try to avoid colour as much as possible.  
 Grab the [Grid PDF](resources/twenty_squares.pdf) to add your 50 dots on your laptop.
 
-<!-- 
+
 ### Week 02 - Deliverable 02 Line 
 - Workshop paper exercises worked with 1, 2, 3, 5 and 50 lines
 - This weeks homework deliverable is to create a background screen for your laptop using nothing but lines. Again, try to avoid colour as much as possible.  
 
-<!-- 
+
 ### Week 03 - Deliverable 03 Plane  
 - Workshop deliverable to 1, 2, 3 and 9 planes + tone and a more finely executed 9 planes tone piece (you can use Illustrator or Sketch for this one if you wish). 
 - The homework exercise for this week is to create a modular typeface built from planes. [Fontstruct](http://fontstruct.com) is an excellent tool to help you do this. Alternatively you could use Sketch or Illustrator.
 
-<!-- 
+
 ### Week 04 - Deliverable 04 Type 
 - Continue with your 1 'M' six ways, your two letters joined six ways, and your kerning exercise. 
 - Homework – in addition to these, this weeks task is to create three minimal movie posters in the style of [Josef Müller Brockmann](http://print-process.com/product/?product-id=1052). This - [JMB on Pinterest](https://www.pinterest.com/eleventhirty/jmb/) might also be useful
