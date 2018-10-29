@@ -55,7 +55,7 @@ Your second project for this module is to develop a Design History Presentation 
 - The Modern Movement in America
 - Pioneers of Postmodern Graphic Design
 - Pioneers of Digital Design
-- The pioneers of Web Design
+- The Pioneers of Web Design
 
 Each group will deliver a ten minute presentation based around one of the titles. It will be essential to get together in your teams at some stage early next week to discuss who will be responsible for different aspects of the presentation. GitHub is a great way to collaborate on material and keep track of everyone’s input it will also allow us to see how each member of the team has performed. 
 
