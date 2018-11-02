@@ -31,10 +31,10 @@ Grab the [Grid PDF](resources/twenty_squares.pdf) to add your 50 dots on your la
 
 ---
 
-## Week 07-9 HTML
+## Week 06-8 HTML
 **Using the story of John Baskerville as a starting point, the screen-based exercises will ground students with a solid understanding of HTML5 and CSS3, the building blocks of web-based content.**
 
-### Week 07 - HTML 101 
+### Week 06 - HTML 101 
 - Taking the raw [Brief History of Type](resources/brief-history-of-type.txt) text as your starting point create a simple HTML5 page on GitHub. There is a [visual guide](resources/html-01-make-this.png) to help you work this out. Save this as **history1.html**
 - The [John Baskerville text](resources/john-baskerville.txt) can be found here.
 
