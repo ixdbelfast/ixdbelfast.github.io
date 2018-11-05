@@ -39,10 +39,10 @@ Grab the [Grid PDF](resources/twenty_squares.pdf) to add your 50 dots on your la
 - The [John Baskerville text](resources/john-baskerville.txt) can be found here.
 
 
-<!-- 
+
 ### Week 08 - Lists and Links
-- Add a nested, unordered list and save as **baskerville2.html** and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as **baskerville3.html**
-  <!-- 
+- Add a nested, unordered list and save as **baskerville2.html** and secondly add a simple navigation linking this with anchors to each section. Finally add an email link and an absolute link to an external website. Save this as **baskerville2.html**
+ 
 #### Homework
 Download the [attached file](resources/homework2.zip), add a nav element to the top of your page and linked anchors as shown on the file "make-this-index-03.png". You should also create a separate file named "history-list.html" and recreate the file "make-this-list.png" from the supplied list.md file.
 <!-- 
