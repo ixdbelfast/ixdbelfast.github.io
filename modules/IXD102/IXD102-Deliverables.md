@@ -70,23 +70,23 @@ As with any project research is vital at the early stages (and throughout) to en
 
 ---
 
-<!--
+
 Deliverable 03 – Design Essay Webpage (50%)
 -------------------------------------------
 For the final we would like to you write an essay of **no less than 1,500 words** on one of the designers listed below.
-<!--
+
 Your essay should be well planned and researched before you start writing. Take a look at a few of the designers in question to see which one you wish to cover.
-<!--
+
 Your final essay should be in the form of a single page website, suitably illustrated with photographs and images of the designers work. You may want to consider designing your essay in the style of the designer chosen, or you may wish to use your own approach. **All** sources should be properly referenced; one of our former IMD students [David Turner](https://davidturner.name/) created this very useful tool [ReferenceIt](https://referenceit.org) to help make the job easier. 
-<!--
+
 Before taking your essay to the web you should submit it to Turnitin for a quick review of originality. I will run through this process in Week 08.
-<!--<!--
+
 This project equates to 50% of your final mark for this module. 10% of this will cover use of proper grammar and spelling and another 10% will be given over to the final design.
-<!--
+
 You should write your essay with [Markdown](https://daringfireball.net/projects/markdown) in the first instance. This will allow you to concentrate on the content at the beginning. Once completed you can convert it to [HTML5](https://daringfireball.net/projects/markdown/dingus) and add some CSS3 magic.
-<!--
+
 To help you get started with your essay structure this PDF will provide a few guidelines – [Essay Writing 101](resources/essay_planning_101.pdf). The content of the PDF is a condensed version of content from the very useful [Skills You Need](http://www.skillsyouneed.com/learn/essay-planning.html) website. This outline [essay plan]()
-<!--
+
 - Jan Tschichold
 - Paul Rand
 - Saul Bass
@@ -99,7 +99,15 @@ To help you get started with your essay structure this PDF will provide a few gu
 - Erik Spiekermann
 - Marian Bantjes
 - Jessica Hische 
-<!--
-Your essay should be uploaded to your GitHub site / Workspace by 17:00am TBA 2018.
+
+Ideally, you should position your essay with a question. Examples of this could be any of the following:
+
+- How did Wolfgang Weingart become “the father” of New Wave typography?
+- How did Nazi persecution in Europe change design in America?
+- How did Saul Bass change the face movie title sequences?
+- What has Stefan Sagmeister taught me about design?
+- Why is Massimo Vignelli one of the most important icons in modern design?
+– Stefan Sagmeister, creative genius or exhibitionist?
+- What can Jessica Hische teach young designers?
 
 Please click following the link to see the [Assessment Criteria](resources/IXD102_Assessment_Criteria.xlsx)
