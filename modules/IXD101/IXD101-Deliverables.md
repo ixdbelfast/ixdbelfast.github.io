@@ -45,9 +45,9 @@ Grab the [Grid PDF](resources/twenty_squares.pdf) to add your 50 dots on your la
  
 #### Homework
 Download the [attached file](resources/homework2.zip), add a nav element to the top of your page and linked anchors as shown on the file "make-this-index-03.png". You should also create a separate file named "history-list.html" and recreate the file "make-this-list.png" from the supplied list.md file.
-<!-- 
+
 ### Week 09 – Introducing Tables and Inserting Images
-- Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images.
+- Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images. The images can be found in the [resources folder](resources.unedited-images) on GitHub.
 <!--  
 #### Homework
  - Change your type history list into a table, this [table sample](resources/make-this-table.png) Then add and optimise the images found in "unedited-images" in the "resources" folder
