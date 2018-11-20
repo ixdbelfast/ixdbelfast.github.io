@@ -48,15 +48,15 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 
 ### Week 09 – Introducing Tables and Inserting Images
 - Deliverable 08 HTML** – This week you should have created two versions. The should replace your unordered list with a table while the second version should include properly optimised images. The images can be found in the [resources folder](resources/unedited-images) on GitHub.
-<!--  
+ 
 #### Homework
  - Change your type history list into a table, this [table sample](resources/make-this-table.png) Then add and optimise the images found in "unedited-images" in the "resources" folder
  - This week you should check your previous John Baskerville HTML files to make sure you have markedup your text correctly. Make sure you use an [HTML Validator](https://validator.w3.org) to ensure your markup is correct.
  - In addition, you should incorporate your type history table with your main [Brief History of Type](resources/make-this-index.png) page (don't forget to include your images).
  
  ---
-<!-- 
-## Week 10-12 CSS
+
+## Week 09–12 CSS
 ### Week 10 – CSS 101
 - This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
 - Make a copy of your last **Type History HTML** file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
