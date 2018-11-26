@@ -61,12 +61,12 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
 - This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
 - Make a copy of your last **Type History HTML** file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
 
-<!-- 
+
 ### Week 11 – Web Fonts
 - This week we continued our exploration into CSS and looked at web typography in a little more detail. For this weeks version of the History of Type exercise add Google fonts of your own choice and save this as the next version. Please make sure you choose fonts appropriate to the content.
 - This week we have an additional exercise, we would like to you take this [Typographic Exercise](resources/make_this_css.png) – and, using css, style it as closely as you can to the image in the link. To make it a little easier you can use this [simple HTML page](resources/cssbaskerville.html) to start you off.
 
-The fonts used in this exercise are all [Google Fonts](https://fonts.google.com):
+The fonts used my version of the exercise are all [Google Fonts](https://fonts.google.com):
 - Libre Baskerville
 - Open Sans
 - Arvo
