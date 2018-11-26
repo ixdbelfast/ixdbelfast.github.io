@@ -57,14 +57,19 @@ Download the [attached file](resources/homework2.zip), add a nav element to the 
  ---
 
 ## Week 09–12 CSS
-### Week 10 – CSS 101
+### Week 09 – CSS 101
 - This week we started to look at CSS and applied some design to our well structured markup. Save this as version 6/7 (or whichever number you’re currently at) and upload it to your GitHub site.
 - Make a copy of your last **Type History HTML** file and apply the CSS styling covered at today’s workshop. You should play around with the colour (color in CSS), type hierarchy and measure (page width) to get a feel for how these work.
 
 
-### Week 11 – Web Fonts
-- This week we continued our exploration into CSS and looked at web typography in a little more detail. For this weeks version of the History of Type exercise add Google fonts of your own choice and save this as the next version. Please make sure you choose fonts appropriate to the content.
-- This week we have an additional exercise, we would like to you take this [Typographic Exercise](resources/make_this_css.png) – and, using css, style it as closely as you can to the image in the link. To make it a little easier you can use this [simple HTML page](resources/cssbaskerville.html) to start you off.
+### Week 10 – Web Fonts
+- This week we continued our exploration into CSS and looked at web typography in a little more detail. For this weeks version of the **History of Type** exercise add [Google Fonts](https://fonts.google.com) of your own choice and save this as the next version. Please make sure you choose fonts appropriate to the content. 
+
+
+- Please make sure to save a separate version of your CSS file to apply Google fonts otherwise last weeks version will also include our new font choice.
+
+
+- This week we have an **additional exercise**, we would like to you take this [Typographic Exercise](resources/make_this_css.png) – and, using a separate css file, style it as closely as you can to the image in the link. To make it a little easier you can use this [simple HTML page](resources/cssbaskerville.html) to start you off. You just need to copy the content within the first section and repeat it two more times.
 
 The fonts used my version of the exercise are all [Google Fonts](https://fonts.google.com):
 - Libre Baskerville
@@ -72,13 +77,17 @@ The fonts used my version of the exercise are all [Google Fonts](https://fonts.g
 - Arvo
 
 You can use these or choose your own but please make sure you use serif, san-serif (or slab-serif) fonts.
+
 <!-- 
-### Week 12 – Media Queries, Transitions and Flexbox
+### Week 11 – Media Queries, Transitions and Flexbox
 – This week we finished off with a look at a lot of material from media queriesto background images, dropshadows to kerning and transitions to flexbox. 
 <!-- 
 Finish off your introduction with the inclusion of some of the features covered this week. At the very least you could add some transitions to your links to provide some subtle user feedback. 
 <!-- 
 You can check out my own versions on [GitHub](https://github.com/eleventhirty/john_baskerville) for reference. It would be very easy to just copy these but this won’t teach you how to implement them properly to your own work. Using these as reference and recreating them yourselves will help you retain the information much more readily.
+<!--
+### Week 12 – Tutorials
+– The final session will give everyone a chance to check where they are with their coursework and layout any areas which may need attention before hand-in in January.
 
 ---
 
