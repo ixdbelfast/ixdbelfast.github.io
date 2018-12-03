@@ -78,14 +78,14 @@ The fonts used my version of the exercise are all [Google Fonts](https://fonts.g
 
 You can use these or choose your own but please make sure you use serif, san-serif (or slab-serif) fonts.
 
-<!-- 
+
 ### Week 11 – Media Queries, Transitions and Flexbox
 – This week we finished off with a look at a lot of material from media queriesto background images, dropshadows to kerning and transitions to flexbox. 
-<!-- 
+
 Finish off your introduction with the inclusion of some of the features covered this week. At the very least you could add some transitions to your links to provide some subtle user feedback. 
-<!-- 
-You can check out my own versions on [GitHub](https://github.com/eleventhirty/john_baskerville) for reference. It would be very easy to just copy these but this won’t teach you how to implement them properly to your own work. Using these as reference and recreating them yourselves will help you retain the information much more readily.
-<!--
+
+You can check out my own versions on [GitHub](https://github.com/eleventhirty/john_baskerville). **These are for reference only.** It would be very easy to just copy these but this won’t teach you how to implement them properly to your own work. Using these as reference and recreating them yourselves will help you retain the information much more readily.
+
 ### Week 12 – Tutorials
 – The final session will give everyone a chance to check where they are with their coursework and layout any areas which may need attention before hand-in in January.
 
