@@ -8,6 +8,7 @@ semester: 2
 credits: 40
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Design Presentation and Reporting
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD503
 ---
 
 ## Rationale

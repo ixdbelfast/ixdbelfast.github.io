@@ -8,6 +8,7 @@ semester: 2
 credits: 20
 delivery: Lectures, Seminars, Workshops and Self-Directed Study
 corequisites: Major Project
+github: https://github.com/ixdbelfast/ixdbelfast.github.io/tree/master/modules/IXD504
 ---
 
 ## Rationale
