@@ -1,0 +1,46 @@
+---
+layout: default
+title: Student Portfolios
+id: alumni
+permalink: /portfolios/
+---
+
+    <h1>{{ page.title }}</h1>
+
+
+  <div class="portfolio year-groups">
+    <section class="year-one quarter left">
+        <h4>2018</h4>
+        {% for main in site.data.alimni.2018 %}
+        <ul>
+          {% assign sorted_links = (main.link | sort: 'name') %}
+          {% for item in sorted_links %}
+          <li>
+            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </section>
+
+<!---------------------- /.year one ------------------------->
+
+      <section class="year-two quarter left">
+        <h4>2019</h4>
+        {% for main in site.data.alimni.2019 %}
+        <ul>
+          {% assign sorted_links = (main.link | sort: 'name') %}
+          {% for item in sorted_links %}
+          <li>
+            <a href="{{ item.url }}" target="_blank">{{ item.name }}</a>
+            <a class="twitter" href="https://twitter.com/{{ item.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
+          </li>
+          {% endfor %}
+        </ul>
+        {% endfor %}
+      </section>
+
+
+
+    </div>
