@@ -166,7 +166,7 @@ year3:
 
 year4:
   - link:
-        - name: "Aoife McLaughlin"
+    - name: "Aoife McLaughlin"
       url: "https://www.aoifemclaughlin.com/"
     - name: "Brendan Lemon"
       url: "http://brendanlemon.tumblr.com/"
@@ -194,6 +194,8 @@ year4:
       url: "http://www.tim-davidson.com"
     - name: "Rachel Cunningham"
       url: "https://rachelc161.github.io/rachel_portfolio/"
+    - name: "Clare McElhill"
+      url: "http://claremcelhill.tumblr.com"
 
 
       
