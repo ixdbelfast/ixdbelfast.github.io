@@ -100,6 +100,24 @@ year2:
       url: "http://jasminwiniarski.tumblr.com"
     - name: "Hannah Haslem"
       url: "http://hannahhaslem.tumblr.com"
+    - name: "Harrison Platt"
+      url: "https://harrisonplattixd.tumblr.com"
+    - name: "Aislinn Milner"
+      url: "https://aislinnmilner.tumblr.com"
+    - name: "Laura Campbell"
+      url: "https://lauraisblogging.tumblr.com"
+    - name: "Luke Ferguson"
+      url: "https://lukefergusblogs.tumblr.com"
+    - name: "Dean Fullerton"
+      url: "https://"
+    - name: "Laurie Gregory"
+      url: "https://lauriexxgregory.tumblr.com"
+    - name: "Iris Haggan"
+      url: "https://irishagganixd.tumblr.com"
+    - name: "Kerrie McGrath"
+      url: "https://kerriemcgrath.tumblr.com"
+    - name: "Robert Karwecki"
+      url: "https://"
 
 year3:
   - link:
@@ -111,8 +129,6 @@ year3:
       url: "http://www.lucyboyd.work"
     - name: "Lucy Cook"
       url: "http://www.lucycookdesigns.com"
-    - name: "Eimear Cooney"
-      url: "http://eimearcooney.com"
     - name: "Calum Dixon"
       url: "http://calumdixon.com"
     - name: "Ryan Irvine"
@@ -186,6 +202,8 @@ year4:
       url: "http://www.deirbhilekennedy.com"
     - name: "Liam McEvoy"
       url: "http://www.liammcevoy.design"
+    - name: "Eimear Cooney"
+      url: "http://eimearcooney.com"
 
 
       
