@@ -129,8 +129,6 @@ year3:
       url: "http://joshmccabe.tumblr.com"
     - name: "Scott McCabe"
       url: "http://scottmccabe.org"
-    - name: "Christine McDowell"
-      url: "http://christinemcdowell.co.uk."
     - name: "Dominic McGrath"
       url: "http://dominic-mcgrath.com"
     - name: "Hope McIlroy"
@@ -174,6 +172,8 @@ year3:
 
 year4:
   - link:
+    - name: "Christine McDowell"
+      url: "http://christinemcdowell.co.uk."
     - name: "Dan Gold"
       url: "http://dan.gold"
     - name: "Craig Allen"
