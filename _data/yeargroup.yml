@@ -53,6 +53,10 @@ year1:
 
 year2:
   - link:
+    - name: "Clara Fetherston"
+      url: "#"
+    - name: "Ryan Walsh"
+      url: "#"
     - name: "Charlotte Brown"
       url: "https://www.csa-brown.tumblr.com"
     - name: "Erik Banas"
@@ -172,8 +176,12 @@ year3:
 
 year4:
   - link:
+    - name: "Hannah O'Hare"
+      url: "#"
+    - name: "Philip McRoberts"
+      url: "#"
     - name: "Christine McDowell"
-      url: "http://christinemcdowell.co.uk."
+      url: "http://christinemcdowell.co.uk"
     - name: "Dan Gold"
       url: "http://dan.gold"
     - name: "Craig Allen"
