@@ -6,8 +6,6 @@ year1:
       url: "http://blogs.ulster.ac.uk/bethbuchanan"
     - name: "Sarah Collinson"
       url: "http://blogs.ulster.ac.uk/sarahcollinson/"
-    - name: "Dorian Dascalu"
-      url: "#"
     - name: "Rachel Donaldson"
       url: "http://blogs.ulster.ac.uk/racheldonaldson/"
     - name: "Jessica Donnan"
@@ -51,7 +49,7 @@ year1:
     - name: "Emily Ussher"
       url: "http://blogs.ulster.ac.uk/emilyussher/"
     - name: "Seanin Doherty"
-      url: "#"
+      url: "http://blogs.ulster.ac.uk/b00783273/"
 
 year2:
   - link:
