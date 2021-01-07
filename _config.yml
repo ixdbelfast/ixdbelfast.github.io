@@ -10,13 +10,6 @@ url: "http://ixdbelfast.org"
 
 # Authors
 authors:
-  chris:
-    name: Christopher Murphy
-    avatar: https://pbs.twimg.com/profile_images/1030219012653953026/Il8ppyi-_400x400.jpg
-    position: Senior Lecturer
-    email: chris.murphy@ulster.ac.uk
-    web: http://monographic.org/
-    twitter: https://twitter.com/fehler
   paul:
     name: Paul McCormack
     avatar: https://avatars3.githubusercontent.com/u/6138096?s=400
@@ -31,6 +24,13 @@ authors:
     email: ka.boyd@ulster.ac.uk
     web: http://www.kyleboyd.co.uk
     twitter: https://twitter.com/kylbyd
+  daniel:
+    name: Daniel Philpott
+    avatar: https://twitter.com/danielphilpott/photo
+    position: Lecturer
+    email: d.philpott@ulster.ac.uk
+    web: http://seeyoudesign.co.uk/
+    twitter: https://twitter.com/danielphilpott
 
 # Google Analytics
 ua: "51233441-1"
