@@ -1,5 +1,10 @@
 year1:
   - link:
+    - name: ""
+      url: "#"
+
+year2:
+  - link:
     - name: "Florence Alade"
       url: "http://blogs.ulster.ac.uk/florence/"
     - name: "Beth Buchanan"
@@ -47,7 +52,7 @@ year1:
     - name: "Seanin Doherty"
       url: "http://blogs.ulster.ac.uk/b00783273/"
 
-year2:
+year3:
   - link:
     - name: "Clara Fetherston"
       url: "https://www.clarafetherston.com"
@@ -103,7 +108,7 @@ year2:
       url: "https://ellieclarke01.tumblr.com"
 
 
-year3:
+year4:
   - link:
     - name: "Conor Agnew"
       url: "http://www.conoragnew.me"
@@ -167,49 +172,4 @@ year3:
       url: "https://kerriemcgrath.tumblr.com"
     - name: "Robert Karwecki"
       url: "https://karwecki.design"
-
-year4:
-  - link:
-    - name: "Hannah O’Hare"
-      url: "http://hannahohare.co.uk"
-    - name: "Philip McRoberts"
-      url: "https://imfelp.com"
-    - name: "Christine McDowell"
-      url: "http://christinemcdowell.co.uk"
-    - name: "Dan Gold"
-      url: "http://dan.gold"
-    - name: "Craig Allen"
-      url: "https://www.craig-allen.co.uk"
-    - name: "Lucy Boyd"
-      url: "http://www.lucyboyd.work"
-    - name: "Lucy Cook"
-      url: "http://www.lucycookdesigns.com"
-    - name: "Calum Dixon"
-      url: "http://calumdixon.com"
-    - name: "Ryan Irvine"
-      url: "https://irv.design"
-    - name: "Tara McAllister"
-      url: "http://www.taramcallister.com"
-    - name: "Ryan McClelland"
-      url: "http://ryanmcclelland.co.uk"
-    - name: "Ethan McGonigle"
-      url: "http://www.ethanmcgonigle.com"
-    - name: "Hal McGonigle"
-      url: "https://halmcgonigle.com"
-    - name: "Artemis Ward"
-      url: "https://heartemiss.com/"
-    - name: "Ellie Spratt-Thompson"
-      url: "http://www.elliethompson.co.uk"
-    - name: "Ben Turner"
-      url: "http://www.benturner.work/"
-    - name: "Pujith Marodia"
-      url: "https://pujithmarodia.github.io/portfolio/Portfolio.html"
-    - name: "Sarah Cupples"
-      url: "http://www.sarahcupples.co.uk"
-    - name: "Meghan Halpin"
-      url: "http://meghanhalpin.com"
-    - name: "Iain Sprott"
-      url: "http://sprtt.co.uk"
-    - name: "Oliwia Widuto"
-      url: "http://fingerthief.co.uk"
 
